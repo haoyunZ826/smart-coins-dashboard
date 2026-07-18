@@ -1,5 +1,5 @@
 {
- "generated_at": 1784417809.831418,
+ "generated_at": 1784418407.589331,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -35,25 +35,25 @@
   },
   {
    "symbol": "ARB",
-   "heat": 0.69,
+   "heat": 0.68,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "DOGE",
-   "heat": 0.67,
+   "heat": 0.66,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.34,
+   "heat": 0.33,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LINK",
-   "heat": 0.34,
+   "heat": 0.33,
    "kol": 1,
    "square": 0
   }
@@ -79,8 +79,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.41,
-  "btc_ret_24h": 1.38
+  "btc_ret_4h": 0.43,
+  "btc_ret_24h": 1.39
  },
  "funnel": {
   "cg_top": 495,

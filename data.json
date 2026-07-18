@@ -1,5 +1,5 @@
 {
- "generated_at": 1784417799.382426,
+ "generated_at": 1784418404.613493,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -35,19 +35,19 @@
   },
   {
    "symbol": "DOGE",
-   "heat": 0.67,
+   "heat": 0.66,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.34,
+   "heat": 0.33,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LINK",
-   "heat": 0.34,
+   "heat": 0.33,
    "kol": 1,
    "square": 0
   }
@@ -73,14 +73,14 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.43,
-  "btc_ret_24h": 1.39
+  "btc_ret_4h": 0.41,
+  "btc_ret_24h": 1.38
  },
  "funnel": {
   "cg_top": 495,
   "okx_perps": 412,
   "gate_perps": 835,
-  "mcap_pass": 248,
+  "mcap_pass": 247,
   "venue_pass": 36,
   "deep_scanned": 36,
   "candidates": 0
