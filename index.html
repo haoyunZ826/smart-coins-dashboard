@@ -198,6 +198,15 @@ function render(d) {
       <td>${c.tier === 'large' ? '大盘' : '中盘'} #${c.mcap_rank}</td></tr>`).join('') + '</tbody></table>'
     : '<div id="candidates" class="empty">当前无候选 —— 漏斗高精度低召回，空仓等待是策略的一部分</div>';
 
+  // social heat
+  const so = d.social || [];
+  document.getElementById('social').outerHTML = so.length ? `<table id="social"><thead><tr>
+    <th>币</th><th>热度</th><th>KOL提及</th><th>广场提及</th></tr></thead><tbody>` +
+    so.map(s => `<tr><td class="sym">${s.symbol}</td>
+      <td>${'█'.repeat(Math.max(1, Math.round(s.heat * 10)))} ${fmt(s.heat, 2)}</td>
+      <td>${s.kol}</td><td>${s.square}</td></tr>`).join('') + '</tbody></table>'
+    : '<div id="social" class="empty">暂无热点命中（只统计选币池内币种的提及）</div>';
+
   // trades
   const ts = d.trades || [];
   document.getElementById('trades').outerHTML = ts.length ? `<table id="trades"><thead><tr>

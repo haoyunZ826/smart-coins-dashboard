@@ -1,8 +1,21 @@
 {
- "generated_at": 1784405721.157581,
+ "generated_at": 1784405751.165062,
  "mode": "paper",
  "strategy": "v2",
- "social": [],
+ "social": [
+  {
+   "symbol": "ETH",
+   "heat": 1.0,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "SOL",
+   "heat": 0.73,
+   "kol": 1,
+   "square": 0
+  }
+ ],
  "status": {
   "equity": 1000.0,
   "cash": 1000.0,
