@@ -1,25 +1,19 @@
 {
- "generated_at": 1784416577.359342,
+ "generated_at": 1784417163.629122,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
+   "symbol": "BONK",
+   "heat": 1.0,
+   "kol": 2,
+   "square": 0
+  },
+  {
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 2
-  },
-  {
-   "symbol": "DOGE",
-   "heat": 1.0,
-   "kol": 1,
-   "square": 2
-  },
-  {
-   "symbol": "BTC",
-   "heat": 1.0,
-   "kol": 3,
-   "square": 2
+   "square": 0
   },
   {
    "symbol": "HYPE",
@@ -34,22 +28,28 @@
    "square": 0
   },
   {
+   "symbol": "BTC",
+   "heat": 1.0,
+   "kol": 3,
+   "square": 0
+  },
+  {
+   "symbol": "DOGE",
+   "heat": 0.67,
+   "kol": 1,
+   "square": 0
+  },
+  {
    "symbol": "WLD",
-   "heat": 0.65,
+   "heat": 0.34,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LINK",
-   "heat": 0.65,
+   "heat": 0.34,
    "kol": 1,
    "square": 0
-  },
-  {
-   "symbol": "BNB",
-   "heat": 0.32,
-   "kol": 0,
-   "square": 2
   }
  ],
  "status": {
@@ -73,16 +73,16 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.26,
-  "btc_ret_24h": 1.22
+  "btc_ret_4h": 0.43,
+  "btc_ret_24h": 1.39
  },
  "funnel": {
-  "cg_top": 249,
+  "cg_top": 495,
   "okx_perps": 412,
   "gate_perps": 835,
-  "mcap_pass": 114,
-  "venue_pass": 29,
-  "deep_scanned": 29,
+  "mcap_pass": 248,
+  "venue_pass": 36,
+  "deep_scanned": 36,
   "candidates": 0
  },
  "positions": [],
