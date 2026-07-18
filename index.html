@@ -80,6 +80,7 @@
 <header>
   <h1>smart_coins</h1>
   <span class="badge" id="mode">—</span>
+  <span class="badge" id="strat">—</span>
   <span class="badge halt" id="halt" hidden>日亏熔断</span>
   <span class="badge kill" id="kill" hidden>KILLED</span>
   <span style="display:inline-flex;gap:4px">
@@ -98,7 +99,10 @@
 
 <h2>当前候选（通过全部过滤，前 20）</h2>
 <div class="tablewrap"><div id="candidates" class="empty">—</div></div>
-<p class="note">多网选币：CoinGecko 市值 Top250 × OKX/Gate 永续量能过滤 → 15m K线动量打分。多数时刻候选少是正常状态。</p>
+<p class="note">v2 多网选币：CoinGecko 市值 Top250 × OKX/Gate 永续量能 → 1h EMA趋势栈 + 5日突破 + 币安广场/KOL热度加分（只做多）。趋势策略大部分时间 0 候选是设计使然——没有新突破就不交易。</p>
+
+<h2>社交热度（币安广场 + KOL X，12h 窗口）</h2>
+<div class="tablewrap"><div id="social" class="empty">—</div></div>
 
 <h2>历史成交（最近 60 笔）</h2>
 <div class="tablewrap"><div id="trades" class="empty">—</div></div>
@@ -133,6 +137,7 @@ function render(d) {
   const st = d.status || {};
   document.getElementById('mode').textContent = d.mode === 'live' ? 'LIVE' : 'PAPER';
   document.getElementById('mode').className = 'badge' + (d.mode === 'live' ? ' live' : '');
+  document.getElementById('strat').textContent = d.strategy === 'v2' ? 'V2 · 1H趋势' : 'V1 · 15M动量';
   document.getElementById('halt').hidden = !st.halted;
   document.getElementById('kill').hidden = !st.killed;
   document.getElementById('updated').textContent = '更新于 ' + ago(d.generated_at);
