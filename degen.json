@@ -1,5 +1,5 @@
 {
- "generated_at": 1784474564.159648,
+ "generated_at": 1784475178.569132,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,13 +7,13 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 4,
-   "square": 4
+   "square": 5
   },
   {
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 5
+   "square": 6
   },
   {
    "symbol": "BONK",
@@ -71,20 +71,20 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.6,
+   "heat": 0.76,
    "kol": 0,
-   "square": 4
+   "square": 5
   }
  ],
  "status": {
-  "equity": 971.04,
+  "equity": 967.8,
   "cash": 776.69,
   "starting": 1000.0,
-  "pnl_pct": -2.9,
-  "day_pnl_pct": -2.9,
-  "drawdown_pct": 9.15,
-  "goal_progress_pct": 0.971,
-  "gross_notional": 1083.78,
+  "pnl_pct": -3.22,
+  "day_pnl_pct": -3.22,
+  "drawdown_pct": 9.46,
+  "goal_progress_pct": 0.968,
+  "gross_notional": 1080.53,
   "gross_leverage": 1.12,
   "wins": 1,
   "losses": 2,
@@ -97,16 +97,16 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.12,
-  "btc_ret_24h": 0.67
+  "btc_ret_4h": 0.06,
+  "btc_ret_24h": 0.61
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 412,
   "gate_perps": 835,
   "mcap_pass": 154,
-  "venue_pass": 52,
-  "deep_scanned": 52,
+  "venue_pass": 51,
+  "deep_scanned": 51,
   "candidates": 0
  },
  "positions": [
@@ -116,15 +116,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 11.9827912,
-   "mark": 11.681,
+   "mark": 11.646,
    "stop": 11.578615308571429,
    "liq": 9.6581297072,
-   "notional": 1083.78,
+   "notional": 1080.53,
    "margin": 222.36,
-   "upnl": -28.0,
-   "r": -0.75,
-   "funding_paid": 0.094,
-   "age_h": 13.5,
+   "upnl": -31.25,
+   "r": -0.83,
+   "funding_paid": 0.095,
+   "age_h": 13.7,
    "tp_hit": 0,
    "runner": false,
    "score": 72.3,
