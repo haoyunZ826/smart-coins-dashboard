@@ -1,5 +1,5 @@
 {
- "generated_at": 1784451226.845706,
+ "generated_at": 1784451841.701875,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -65,14 +65,14 @@
   }
  ],
  "status": {
-  "equity": 998.02,
+  "equity": 997.54,
   "cash": 713.22,
   "starting": 1000.0,
-  "pnl_pct": -0.2,
-  "day_pnl_pct": -0.2,
-  "drawdown_pct": 0.39,
+  "pnl_pct": -0.25,
+  "day_pnl_pct": -0.25,
+  "drawdown_pct": 0.44,
   "goal_progress_pct": 0.998,
-  "gross_notional": 857.44,
+  "gross_notional": 856.97,
   "gross_leverage": 0.86,
   "wins": 0,
   "losses": 0,
@@ -85,8 +85,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.02,
-  "btc_ret_24h": 1.11
+  "btc_ret_4h": -0.0,
+  "btc_ret_24h": 1.14
  },
  "funnel": {
   "cg_top": 249,
@@ -95,7 +95,7 @@
   "mcap_pass": 114,
   "venue_pass": 28,
   "deep_scanned": 28,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -104,15 +104,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 11.9715904,
-   "mark": 11.959,
+   "mark": 11.93,
    "stop": 11.524492025,
    "liq": 8.052889809066668,
-   "notional": 468.09,
+   "notional": 466.96,
    "margin": 156.19,
-   "upnl": -0.49,
-   "r": -0.03,
+   "upnl": -1.63,
+   "r": -0.09,
    "funding_paid": 0.021,
-   "age_h": 7.2,
+   "age_h": 7.3,
    "tp_hit": 0,
    "runner": false,
    "score": 70.6,
@@ -124,40 +124,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.08911672699999999,
-   "mark": 0.08888,
+   "mark": 0.08903,
    "stop": 0.08513160325,
    "liq": 0.059945851695333334,
-   "notional": 389.35,
+   "notional": 390.01,
    "margin": 130.13,
-   "upnl": -1.04,
-   "r": -0.06,
+   "upnl": -0.38,
+   "r": -0.02,
    "funding_paid": 0.001,
-   "age_h": 0.2,
+   "age_h": 0.4,
    "tp_hit": 0,
    "runner": false,
    "score": 75.3,
    "reason": "LONG 5d-breakout @0.08752 ema stack 20>50>100 ext 2.4atr; volx2.8 atr1h 1.79% rs5d +20.8% fund +0.005%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "PI",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 67,
-   "side": "long",
-   "score": 75.0,
-   "grade": "A",
-   "price": 0.08865,
-   "ret_1h": 3.17,
-   "ret_4h": 4.44,
-   "ret_24h": 8.6,
-   "vol_surge": 3.51,
-   "atr_pct": 1.8,
-   "funding": 0.005,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "PI",
