@@ -1,5 +1,5 @@
 {
- "generated_at": 1784473963.772804,
+ "generated_at": 1784474574.462412,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,13 +7,13 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 4,
-   "square": 3
+   "square": 4
   },
   {
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 5
+   "square": 6
   },
   {
    "symbol": "HYPE",
@@ -59,26 +59,26 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.45,
+   "heat": 0.61,
    "kol": 0,
-   "square": 3
+   "square": 4
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.16,
+   "heat": 0.33,
    "kol": 0,
-   "square": 1
+   "square": 2
   }
  ],
  "status": {
-  "equity": 1031.88,
+  "equity": 1030.16,
   "cash": 885.22,
   "starting": 1000.0,
-  "pnl_pct": 3.19,
-  "day_pnl_pct": 3.19,
-  "drawdown_pct": 1.62,
-  "goal_progress_pct": 1.032,
-  "gross_notional": 459.05,
+  "pnl_pct": 3.02,
+  "day_pnl_pct": 3.02,
+  "drawdown_pct": 1.78,
+  "goal_progress_pct": 1.03,
+  "gross_notional": 457.33,
   "gross_leverage": 0.44,
   "wins": 1,
   "losses": 0,
@@ -91,16 +91,16 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.13,
-  "btc_ret_24h": 0.68
+  "btc_ret_4h": 0.1,
+  "btc_ret_24h": 0.65
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 412,
   "gate_perps": 835,
-  "mcap_pass": 115,
-  "venue_pass": 39,
-  "deep_scanned": 39,
+  "mcap_pass": 114,
+  "venue_pass": 38,
+  "deep_scanned": 38,
   "candidates": 0
  },
  "positions": [
@@ -110,15 +110,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 11.9715904,
-   "mark": 11.728,
+   "mark": 11.684,
    "stop": 11.524492025,
    "liq": 8.052889809066668,
-   "notional": 459.05,
+   "notional": 457.33,
    "margin": 156.19,
-   "upnl": -9.53,
-   "r": -0.54,
-   "funding_paid": 0.039,
-   "age_h": 13.5,
+   "upnl": -11.26,
+   "r": -0.64,
+   "funding_paid": 0.04,
+   "age_h": 13.6,
    "tp_hit": 0,
    "runner": false,
    "score": 70.6,
