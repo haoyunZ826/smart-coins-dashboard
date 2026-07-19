@@ -1,5 +1,5 @@
 {
- "generated_at": 1784479281.286459,
+ "generated_at": 1784479892.237113,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,7 +7,7 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 4,
-   "square": 5
+   "square": 6
   },
   {
    "symbol": "ETH",
@@ -65,20 +65,20 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.31,
+   "heat": 0.47,
    "kol": 0,
-   "square": 2
+   "square": 3
   }
  ],
  "status": {
-  "equity": 1026.75,
+  "equity": 1027.14,
   "cash": 885.22,
   "starting": 1000.0,
-  "pnl_pct": 2.67,
-  "day_pnl_pct": 2.67,
-  "drawdown_pct": 2.11,
+  "pnl_pct": 2.71,
+  "day_pnl_pct": 2.71,
+  "drawdown_pct": 2.07,
   "goal_progress_pct": 1.027,
-  "gross_notional": 453.92,
+  "gross_notional": 454.31,
   "gross_leverage": 0.44,
   "wins": 1,
   "losses": 0,
@@ -91,16 +91,16 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.17,
-  "btc_ret_24h": 0.38
+  "btc_ret_4h": 0.23,
+  "btc_ret_24h": 0.44
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 412,
   "gate_perps": 835,
   "mcap_pass": 114,
-  "venue_pass": 38,
-  "deep_scanned": 38,
+  "venue_pass": 37,
+  "deep_scanned": 37,
   "candidates": 0
  },
  "positions": [
@@ -110,15 +110,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 11.9715904,
-   "mark": 11.597,
+   "mark": 11.607,
    "stop": 11.524492025,
    "liq": 8.052889809066668,
-   "notional": 453.92,
+   "notional": 454.31,
    "margin": 156.19,
-   "upnl": -14.66,
-   "r": -0.84,
+   "upnl": -14.27,
+   "r": -0.82,
    "funding_paid": 0.044,
-   "age_h": 15.0,
+   "age_h": 15.1,
    "tp_hit": 0,
    "runner": false,
    "score": 70.6,
