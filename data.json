@@ -1,5 +1,5 @@
 {
- "generated_at": 1784433223.720287,
+ "generated_at": 1784433826.225228,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -35,13 +35,13 @@
   },
   {
    "symbol": "WLD",
-   "heat": 0.66,
+   "heat": 0.65,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LINK",
-   "heat": 0.66,
+   "heat": 0.65,
    "kol": 1,
    "square": 0
   },
@@ -53,14 +53,14 @@
   }
  ],
  "status": {
-  "equity": 991.71,
+  "equity": 989.79,
   "cash": 843.56,
   "starting": 1000.0,
-  "pnl_pct": -0.83,
-  "day_pnl_pct": -0.83,
-  "drawdown_pct": 1.02,
-  "goal_progress_pct": 0.992,
-  "gross_notional": 460.54,
+  "pnl_pct": -1.02,
+  "day_pnl_pct": -1.02,
+  "drawdown_pct": 1.21,
+  "goal_progress_pct": 0.99,
+  "gross_notional": 458.62,
   "gross_leverage": 0.46,
   "wins": 0,
   "losses": 0,
@@ -73,16 +73,16 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.19,
-  "btc_ret_24h": 1.08
+  "btc_ret_4h": -0.17,
+  "btc_ret_24h": 1.09
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 412,
   "gate_perps": 835,
   "mcap_pass": 115,
-  "venue_pass": 28,
-  "deep_scanned": 28,
+  "venue_pass": 27,
+  "deep_scanned": 27,
   "candidates": 0
  },
  "positions": [
@@ -92,15 +92,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 11.9715904,
-   "mark": 11.766,
+   "mark": 11.717,
    "stop": 11.524492025,
    "liq": 8.052889809066668,
-   "notional": 460.54,
+   "notional": 458.62,
    "margin": 156.19,
-   "upnl": -8.05,
-   "r": -0.46,
-   "funding_paid": 0.006,
-   "age_h": 2.2,
+   "upnl": -9.96,
+   "r": -0.57,
+   "funding_paid": 0.007,
+   "age_h": 2.3,
    "tp_hit": 0,
    "runner": false,
    "score": 70.6,
