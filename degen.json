@@ -1,5 +1,5 @@
 {
- "generated_at": 1784483542.810841,
+ "generated_at": 1784501416.527145,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -52,62 +52,62 @@
    "square": 0
   },
   {
+   "symbol": "BNB",
+   "heat": 0.69,
+   "kol": 0,
+   "square": 6
+  },
+  {
    "symbol": "LINK",
-   "heat": 0.98,
+   "heat": 0.38,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.98,
+   "heat": 0.38,
    "kol": 1,
    "square": 0
   },
   {
-   "symbol": "BNB",
-   "heat": 0.84,
+   "symbol": "TRUMP",
+   "heat": 0.35,
    "kol": 0,
-   "square": 6
-  },
-  {
-   "symbol": "HBAR",
-   "heat": 0.74,
-   "kol": 1,
-   "square": 0
+   "square": 3
   }
  ],
  "status": {
-  "equity": 966.71,
-  "cash": 856.68,
+  "equity": 1081.3,
+  "cash": 756.85,
   "starting": 1000.0,
-  "pnl_pct": -3.33,
-  "day_pnl_pct": -3.33,
-  "drawdown_pct": 9.56,
-  "goal_progress_pct": 0.967,
-  "gross_notional": 521.36,
-  "gross_leverage": 0.54,
+  "pnl_pct": 8.13,
+  "day_pnl_pct": 5.95,
+  "drawdown_pct": 0.89,
+  "goal_progress_pct": 1.081,
+  "gross_notional": 1210.17,
+  "gross_leverage": 1.12,
   "wins": 1,
   "losses": 3,
-  "trade_count": 9,
-  "fees": 3.45,
-  "funding": 0.11,
+  "trade_count": 11,
+  "fees": 3.95,
+  "funding": 0.13,
   "halted": false,
   "killed": false,
   "loss_streak": 1
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.19,
-  "btc_ret_24h": 0.19
+  "btc_ret_4h": 0.52,
+  "btc_ret_24h": -0.07
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 412,
   "gate_perps": 835,
-  "mcap_pass": 155,
-  "venue_pass": 53,
-  "deep_scanned": 53,
-  "candidates": 1
+  "mcap_pass": 154,
+  "venue_pass": 52,
+  "deep_scanned": 52,
+  "candidates": 0
  },
  "positions": [
   {
@@ -116,41 +116,73 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.23599436,
-   "mark": 0.2393,
+   "mark": 0.244,
    "stop": 0.21947475479999998,
    "liq": 0.19021145416,
-   "notional": 521.36,
+   "notional": 531.6,
    "margin": 102.83,
-   "upnl": 7.2,
-   "r": 0.2,
-   "funding_paid": 0.001,
-   "age_h": 0.2,
+   "upnl": 17.44,
+   "r": 0.48,
+   "funding_paid": 0.016,
+   "age_h": 5.1,
    "tp_hit": 0,
    "runner": false,
    "score": 73.3,
    "reason": "LONG 5d-breakout @0.2293 ema stack 20>50>100 ext 2.2atr; volx1.0 atr1h 7.54% rs5d +109.8% fund +0.005%"
-  }
- ],
- "candidates": [
+  },
   {
-   "symbol": "B",
-   "venue": "gate",
-   "tier": "mid",
-   "mcap_rank": 155,
+   "symbol": "PUMP",
+   "venue": "okx",
    "side": "long",
-   "score": 74.4,
-   "grade": "A",
-   "price": 0.2368,
-   "ret_1h": 8.38,
-   "ret_4h": 16.31,
-   "ret_24h": 51.79,
-   "vol_surge": 1.15,
-   "atr_pct": 7.51,
-   "funding": 0.005,
-   "stop_pct": 0.0
+   "leverage": 5,
+   "entry": 0.0017066824,
+   "mark": 0.001953,
+   "stop": 0.0018853454823312679,
+   "liq": 0.0013755860144000001,
+   "notional": 678.57,
+   "margin": 118.6,
+   "upnl": 85.58,
+   "r": 5.91,
+   "funding_paid": 0.008,
+   "age_h": 4.3,
+   "tp_hit": 1,
+   "runner": false,
+   "score": 63.8,
+   "reason": "LONG 5d-breakout @0.001699 ema stack 20>50>100 ext 2.2atr; volx2.4 atr1h 1.11% rs5d +19.9% fund +0.005%"
   }
  ],
+ "candidates": [],
  "trades": [
+  {
+   "symbol": "PUMP",
+   "venue": "okx",
+   "action": "close",
+   "side": "long",
+   "price": 0.0018732504,
+   "qty": 86861.94273512876,
+   "notional_usd": 217.03904091417508,
+   "fee_usd": 0.10851952045708754,
+   "realized_pnl_usd": 19.18270724954948,
+   "leverage": 5,
+   "timestamp": 1784495345.808254,
+   "mode": "paper",
+   "reason": "take_profit: TP1 at +4.02R"
+  },
+  {
+   "symbol": "PUMP",
+   "venue": "okx",
+   "action": "open",
+   "side": "long",
+   "price": 0.0017066824,
+   "qty": 463263.6945873534,
+   "notional_usd": 790.6439941112113,
+   "fee_usd": 0.39532199705560567,
+   "realized_pnl_usd": 0.0,
+   "leverage": 5,
+   "timestamp": 1784486058.611648,
+   "mode": "paper",
+   "reason": "B 64: LONG 5d-breakout @0.001699 ema stack 20>50>100 ext 2.2atr"
+  },
   {
    "symbol": "B",
    "venue": "gate",
