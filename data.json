@@ -1,5 +1,5 @@
 {
- "generated_at": 1784503320.917472,
+ "generated_at": 1784503922.1355379,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -47,13 +47,13 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.44,
+   "heat": 0.43,
    "kol": 0,
    "square": 4
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.34,
+   "heat": 0.33,
    "kol": 0,
    "square": 3
   },
