@@ -1,5 +1,5 @@
 {
- "generated_at": 1784446675.885878,
+ "generated_at": 1784447278.471884,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -53,20 +53,20 @@
   },
   {
    "symbol": "ZEC",
-   "heat": 0.32,
+   "heat": 0.31,
    "kol": 0,
    "square": 2
   }
  ],
  "status": {
-  "equity": 996.32,
+  "equity": 996.44,
   "cash": 843.55,
   "starting": 1000.0,
-  "pnl_pct": -0.37,
-  "day_pnl_pct": -0.37,
-  "drawdown_pct": 0.56,
+  "pnl_pct": -0.36,
+  "day_pnl_pct": -0.36,
+  "drawdown_pct": 0.55,
   "goal_progress_pct": 0.996,
-  "gross_notional": 465.15,
+  "gross_notional": 465.27,
   "gross_leverage": 0.47,
   "wins": 0,
   "losses": 0,
@@ -79,8 +79,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.0,
-  "btc_ret_24h": 1.11
+  "btc_ret_4h": 0.05,
+  "btc_ret_24h": 1.16
  },
  "funnel": {
   "cg_top": 249,
@@ -98,15 +98,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 11.9715904,
-   "mark": 11.884,
+   "mark": 11.887,
    "stop": 11.524492025,
    "liq": 8.052889809066668,
-   "notional": 465.15,
+   "notional": 465.27,
    "margin": 156.19,
-   "upnl": -3.43,
-   "r": -0.2,
-   "funding_paid": 0.017,
-   "age_h": 5.9,
+   "upnl": -3.31,
+   "r": -0.19,
+   "funding_paid": 0.018,
+   "age_h": 6.1,
    "tp_hit": 0,
    "runner": false,
    "score": 70.6,
