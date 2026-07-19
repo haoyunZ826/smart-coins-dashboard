@@ -1,5 +1,5 @@
 {
- "generated_at": 1784460523.58867,
+ "generated_at": 1784461135.455321,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -47,13 +47,13 @@
   },
   {
    "symbol": "LINK",
-   "heat": 0.98,
+   "heat": 0.97,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.98,
+   "heat": 0.97,
    "kol": 1,
    "square": 0
   },
@@ -65,14 +65,14 @@
   }
  ],
  "status": {
-  "equity": 995.09,
+  "equity": 1001.32,
   "cash": 713.21,
   "starting": 1000.0,
-  "pnl_pct": -0.49,
-  "day_pnl_pct": -0.49,
-  "drawdown_pct": 0.68,
-  "goal_progress_pct": 0.995,
-  "gross_notional": 854.52,
+  "pnl_pct": 0.13,
+  "day_pnl_pct": 0.13,
+  "drawdown_pct": 0.7,
+  "goal_progress_pct": 1.001,
+  "gross_notional": 860.76,
   "gross_leverage": 0.86,
   "wins": 0,
   "losses": 0,
@@ -85,8 +85,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.27,
-  "btc_ret_24h": 0.75
+  "btc_ret_4h": -0.29,
+  "btc_ret_24h": 0.73
  },
  "funnel": {
   "cg_top": 249,
@@ -95,7 +95,7 @@
   "mcap_pass": 115,
   "venue_pass": 38,
   "deep_scanned": 38,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -104,15 +104,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 11.9715904,
-   "mark": 11.871,
+   "mark": 11.803,
    "stop": 11.524492025,
    "liq": 8.052889809066668,
-   "notional": 464.65,
+   "notional": 461.98,
    "margin": 156.19,
-   "upnl": -3.94,
-   "r": -0.22,
+   "upnl": -6.6,
+   "r": -0.38,
    "funding_paid": 0.029,
-   "age_h": 9.7,
+   "age_h": 9.9,
    "tp_hit": 0,
    "runner": false,
    "score": 70.6,
@@ -124,22 +124,40 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.08911672699999999,
-   "mark": 0.089,
+   "mark": 0.09103,
    "stop": 0.08513160325,
    "liq": 0.059945851695333334,
-   "notional": 389.88,
+   "notional": 398.77,
    "margin": 130.13,
-   "upnl": -0.51,
-   "r": -0.03,
+   "upnl": 8.38,
+   "r": 0.48,
    "funding_paid": 0.007,
-   "age_h": 2.8,
+   "age_h": 3.0,
    "tp_hit": 0,
    "runner": false,
    "score": 75.3,
    "reason": "LONG 5d-breakout @0.08752 ema stack 20>50>100 ext 2.4atr; volx2.8 atr1h 1.79% rs5d +20.8% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "PI",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 67,
+   "side": "long",
+   "score": 71.2,
+   "grade": "A",
+   "price": 0.09107,
+   "ret_1h": 2.75,
+   "ret_4h": 5.98,
+   "ret_24h": 8.53,
+   "vol_surge": 3.21,
+   "atr_pct": 2.05,
+   "funding": 0.005,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "PI",
