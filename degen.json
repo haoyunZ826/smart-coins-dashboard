@@ -1,13 +1,19 @@
 {
- "generated_at": 1784432789.2274299,
+ "generated_at": 1784433214.505237,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
-   "symbol": "ETH",
+   "symbol": "BONK",
    "heat": 1.0,
    "kol": 2,
    "square": 0
+  },
+  {
+   "symbol": "ETH",
+   "heat": 1.0,
+   "kol": 2,
+   "square": 1
   },
   {
    "symbol": "HYPE",
@@ -19,48 +25,48 @@
    "symbol": "SOL",
    "heat": 1.0,
    "kol": 3,
-   "square": 0
+   "square": 1
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 3,
-   "square": 0
-  },
-  {
-   "symbol": "BONK",
-   "heat": 0.99,
-   "kol": 2,
-   "square": 0
+   "square": 1
   },
   {
    "symbol": "DOGE",
-   "heat": 0.65,
+   "heat": 1.0,
    "kol": 1,
-   "square": 0
+   "square": 1
   },
   {
    "symbol": "LINK",
-   "heat": 0.33,
+   "heat": 0.66,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.33,
+   "heat": 0.66,
    "kol": 1,
    "square": 0
+  },
+  {
+   "symbol": "BNB",
+   "heat": 0.17,
+   "kol": 0,
+   "square": 1
   }
  ],
  "status": {
-  "equity": 979.22,
+  "equity": 979.78,
   "cash": 777.07,
   "starting": 1000.0,
-  "pnl_pct": -2.08,
-  "day_pnl_pct": -2.08,
-  "drawdown_pct": 2.5,
-  "goal_progress_pct": 0.979,
-  "gross_notional": 1091.57,
+  "pnl_pct": -2.02,
+  "day_pnl_pct": -2.02,
+  "drawdown_pct": 2.44,
+  "goal_progress_pct": 0.98,
+  "gross_notional": 1092.13,
   "gross_leverage": 1.11,
   "wins": 0,
   "losses": 0,
@@ -73,14 +79,14 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.25,
-  "btc_ret_24h": 1.02
+  "btc_ret_4h": -0.21,
+  "btc_ret_24h": 1.06
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 412,
   "gate_perps": 835,
-  "mcap_pass": 152,
+  "mcap_pass": 153,
   "venue_pass": 34,
   "deep_scanned": 34,
   "candidates": 0
@@ -92,15 +98,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 11.9827912,
-   "mark": 11.765,
+   "mark": 11.771,
    "stop": 11.578615308571429,
    "liq": 9.6581297072,
-   "notional": 1091.57,
+   "notional": 1092.13,
    "margin": 222.36,
-   "upnl": -20.21,
-   "r": -0.54,
-   "funding_paid": 0.013,
-   "age_h": 1.9,
+   "upnl": -19.65,
+   "r": -0.52,
+   "funding_paid": 0.014,
+   "age_h": 2.0,
    "tp_hit": 0,
    "runner": false,
    "score": 72.3,
