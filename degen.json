@@ -1,5 +1,5 @@
 {
- "generated_at": 1784480980.1075141,
+ "generated_at": 1784481588.625555,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -65,13 +65,13 @@
   },
   {
    "symbol": "HBAR",
-   "heat": 0.77,
+   "heat": 0.76,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "BNB",
-   "heat": 0.7,
+   "heat": 0.69,
    "kol": 0,
    "square": 5
   }
@@ -97,8 +97,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.19,
-  "btc_ret_24h": 0.2
+  "btc_ret_4h": 0.26,
+  "btc_ret_24h": 0.27
  },
  "funnel": {
   "cg_top": 249,
