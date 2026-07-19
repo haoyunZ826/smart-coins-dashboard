@@ -1,5 +1,5 @@
 {
- "generated_at": 1784458671.376801,
+ "generated_at": 1784459244.1055481,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,13 +59,13 @@
   },
   {
    "symbol": "LINK",
-   "heat": 0.66,
+   "heat": 0.65,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.66,
+   "heat": 0.65,
    "kol": 1,
    "square": 0
   },
@@ -77,15 +77,15 @@
   }
  ],
  "status": {
-  "equity": 986.26,
+  "equity": 995.73,
   "cash": 464.03,
   "starting": 1000.0,
-  "pnl_pct": -1.37,
-  "day_pnl_pct": -1.37,
-  "drawdown_pct": 1.81,
-  "goal_progress_pct": 0.986,
-  "gross_notional": 2660.45,
-  "gross_leverage": 2.7,
+  "pnl_pct": -0.43,
+  "day_pnl_pct": -0.43,
+  "drawdown_pct": 0.87,
+  "goal_progress_pct": 0.996,
+  "gross_notional": 2669.93,
+  "gross_leverage": 2.68,
   "wins": 0,
   "losses": 0,
   "trade_count": 3,
@@ -97,8 +97,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.19,
-  "btc_ret_24h": 0.91
+  "btc_ret_4h": -0.29,
+  "btc_ret_24h": 0.73
  },
  "funnel": {
   "cg_top": 249,
@@ -107,7 +107,7 @@
   "mcap_pass": 155,
   "venue_pass": 53,
   "deep_scanned": 53,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -116,15 +116,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 11.9827912,
-   "mark": 11.855,
+   "mark": 11.859,
    "stop": 11.578615308571429,
    "liq": 9.6581297072,
-   "notional": 1099.92,
+   "notional": 1100.29,
    "margin": 222.36,
-   "upnl": -11.86,
-   "r": -0.32,
-   "funding_paid": 0.063,
-   "age_h": 9.1,
+   "upnl": -11.49,
+   "r": -0.31,
+   "funding_paid": 0.064,
+   "age_h": 9.2,
    "tp_hit": 0,
    "runner": false,
    "score": 72.3,
@@ -136,15 +136,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.08880550799999999,
-   "mark": 0.08876,
+   "mark": 0.08838,
    "stop": 0.0852982485142857,
    "liq": 0.071577239448,
-   "notional": 944.87,
+   "notional": 940.82,
    "margin": 189.07,
-   "upnl": -0.48,
-   "r": -0.01,
+   "upnl": -4.53,
+   "r": -0.12,
    "funding_paid": 0.014,
-   "age_h": 2.3,
+   "age_h": 2.4,
    "tp_hit": 0,
    "runner": false,
    "score": 77.2,
@@ -156,40 +156,22 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.95058008,
-   "mark": 0.9506,
+   "mark": 0.9709,
    "stop": 0.8932943177142857,
    "liq": 0.7661675444800001,
-   "notional": 615.66,
+   "notional": 628.81,
    "margin": 123.13,
-   "upnl": 0.01,
-   "r": 0.0,
-   "funding_paid": -0.0,
-   "age_h": 0.0,
+   "upnl": 13.16,
+   "r": 0.35,
+   "funding_paid": -0.002,
+   "age_h": 0.2,
    "tp_hit": 0,
    "runner": false,
    "score": 71.0,
    "reason": "LONG 5d-breakout @0.9495 ema stack 20>50>100 ext 2.9atr; volx4.2 atr1h 2.74% rs5d +32.8% fund -0.012%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "KAITO",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 153,
-   "side": "long",
-   "score": 71.0,
-   "grade": "A",
-   "price": 0.9502,
-   "ret_1h": 3.96,
-   "ret_4h": 4.25,
-   "ret_24h": 14.61,
-   "vol_surge": 4.15,
-   "atr_pct": 2.74,
-   "funding": -0.0118,
-   "stop_pct": 6.03
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "KAITO",
