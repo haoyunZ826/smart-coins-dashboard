@@ -1,5 +1,5 @@
 {
- "generated_at": 1784420221.147464,
+ "generated_at": 1784420819.480449,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -13,7 +13,7 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 0
+   "square": 1
   },
   {
    "symbol": "HYPE",
@@ -24,38 +24,44 @@
   {
    "symbol": "SOL",
    "heat": 1.0,
-   "kol": 2,
+   "kol": 3,
    "square": 0
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 3,
-   "square": 0
-  },
-  {
-   "symbol": "ARB",
-   "heat": 0.67,
-   "kol": 1,
-   "square": 0
+   "square": 1
   },
   {
    "symbol": "DOGE",
-   "heat": 0.65,
+   "heat": 1.0,
+   "kol": 1,
+   "square": 1
+  },
+  {
+   "symbol": "ARB",
+   "heat": 1.0,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.33,
+   "heat": 0.66,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LINK",
-   "heat": 0.33,
+   "heat": 0.66,
    "kol": 1,
    "square": 0
+  },
+  {
+   "symbol": "BNB",
+   "heat": 0.17,
+   "kol": 0,
+   "square": 1
   }
  ],
  "status": {
