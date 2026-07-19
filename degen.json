@@ -1,5 +1,5 @@
 {
- "generated_at": 1784420819.480449,
+ "generated_at": 1784421436.974335,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,7 +59,7 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.17,
+   "heat": 0.16,
    "kol": 0,
    "square": 1
   }
@@ -85,14 +85,14 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.23,
-  "btc_ret_24h": 1.46
+  "btc_ret_4h": 0.17,
+  "btc_ret_24h": 1.4
  },
  "funnel": {
   "cg_top": 495,
   "okx_perps": 412,
   "gate_perps": 835,
-  "mcap_pass": 247,
+  "mcap_pass": 248,
   "venue_pass": 39,
   "deep_scanned": 39,
   "candidates": 0
