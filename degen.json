@@ -1,5 +1,5 @@
 {
- "generated_at": 1784450129.1528609,
+ "generated_at": 1784450374.010133,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -37,7 +37,7 @@
    "symbol": "DOGE",
    "heat": 1.0,
    "kol": 1,
-   "square": 2
+   "square": 3
   },
   {
    "symbol": "LINK",
@@ -53,13 +53,13 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.73,
+   "heat": 0.9,
    "kol": 0,
-   "square": 5
+   "square": 6
   },
   {
    "symbol": "XRP",
-   "heat": 0.32,
+   "heat": 0.66,
    "kol": 1,
    "square": 0
   },
@@ -71,14 +71,14 @@
   }
  ],
  "status": {
-  "equity": 992.37,
+  "equity": 995.52,
   "cash": 777.04,
   "starting": 1000.0,
-  "pnl_pct": -0.76,
-  "day_pnl_pct": -0.76,
-  "drawdown_pct": 1.19,
-  "goal_progress_pct": 0.992,
-  "gross_notional": 1104.75,
+  "pnl_pct": -0.45,
+  "day_pnl_pct": -0.45,
+  "drawdown_pct": 0.87,
+  "goal_progress_pct": 0.996,
+  "gross_notional": 1107.9,
   "gross_leverage": 1.11,
   "wins": 0,
   "losses": 0,
@@ -110,15 +110,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 11.9827912,
-   "mark": 11.907,
+   "mark": 11.941,
    "stop": 11.578615308571429,
    "liq": 9.6581297072,
-   "notional": 1104.75,
+   "notional": 1107.9,
    "margin": 222.36,
-   "upnl": -7.03,
-   "r": -0.19,
+   "upnl": -3.88,
+   "r": -0.1,
    "funding_paid": 0.047,
-   "age_h": 6.7,
+   "age_h": 6.8,
    "tp_hit": 0,
    "runner": false,
    "score": 72.3,
