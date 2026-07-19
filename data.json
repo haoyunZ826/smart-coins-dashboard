@@ -1,5 +1,5 @@
 {
- "generated_at": 1784461135.455321,
+ "generated_at": 1784461747.728582,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -34,26 +34,26 @@
    "square": 1
   },
   {
-   "symbol": "XRP",
-   "heat": 1.0,
-   "kol": 1,
-   "square": 0
-  },
-  {
    "symbol": "ARB",
    "heat": 1.0,
    "kol": 1,
    "square": 0
   },
   {
+   "symbol": "XRP",
+   "heat": 0.99,
+   "kol": 1,
+   "square": 0
+  },
+  {
    "symbol": "LINK",
-   "heat": 0.97,
+   "heat": 0.96,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.97,
+   "heat": 0.96,
    "kol": 1,
    "square": 0
   },
@@ -65,14 +65,14 @@
   }
  ],
  "status": {
-  "equity": 1001.32,
+  "equity": 1003.0,
   "cash": 713.21,
   "starting": 1000.0,
-  "pnl_pct": 0.13,
-  "day_pnl_pct": 0.13,
-  "drawdown_pct": 0.7,
-  "goal_progress_pct": 1.001,
-  "gross_notional": 860.76,
+  "pnl_pct": 0.3,
+  "day_pnl_pct": 0.3,
+  "drawdown_pct": 0.54,
+  "goal_progress_pct": 1.003,
+  "gross_notional": 862.44,
   "gross_leverage": 0.86,
   "wins": 0,
   "losses": 0,
@@ -85,8 +85,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.29,
-  "btc_ret_24h": 0.73
+  "btc_ret_4h": -0.33,
+  "btc_ret_24h": 0.69
  },
  "funnel": {
   "cg_top": 249,
@@ -104,15 +104,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 11.9715904,
-   "mark": 11.803,
+   "mark": 11.799,
    "stop": 11.524492025,
    "liq": 8.052889809066668,
-   "notional": 461.98,
+   "notional": 461.83,
    "margin": 156.19,
-   "upnl": -6.6,
-   "r": -0.38,
-   "funding_paid": 0.029,
-   "age_h": 9.9,
+   "upnl": -6.76,
+   "r": -0.39,
+   "funding_paid": 0.03,
+   "age_h": 10.1,
    "tp_hit": 0,
    "runner": false,
    "score": 70.6,
@@ -124,15 +124,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.08911672699999999,
-   "mark": 0.09103,
+   "mark": 0.09145,
    "stop": 0.08513160325,
    "liq": 0.059945851695333334,
-   "notional": 398.77,
+   "notional": 400.61,
    "margin": 130.13,
-   "upnl": 8.38,
-   "r": 0.48,
-   "funding_paid": 0.007,
-   "age_h": 3.0,
+   "upnl": 10.22,
+   "r": 0.59,
+   "funding_paid": 0.008,
+   "age_h": 3.2,
    "tp_hit": 0,
    "runner": false,
    "score": 75.3,
@@ -144,16 +144,16 @@
    "symbol": "PI",
    "venue": "okx",
    "tier": "mid",
-   "mcap_rank": 67,
+   "mcap_rank": 65,
    "side": "long",
-   "score": 71.2,
+   "score": 72.2,
    "grade": "A",
-   "price": 0.09107,
-   "ret_1h": 2.75,
-   "ret_4h": 5.98,
-   "ret_24h": 8.53,
-   "vol_surge": 3.21,
-   "atr_pct": 2.05,
+   "price": 0.09141,
+   "ret_1h": 3.14,
+   "ret_4h": 6.38,
+   "ret_24h": 8.94,
+   "vol_surge": 4.12,
+   "atr_pct": 2.04,
    "funding": 0.005,
    "stop_pct": 0.0
   }
