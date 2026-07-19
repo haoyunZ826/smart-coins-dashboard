@@ -1,5 +1,5 @@
 {
- "generated_at": 1784421436.974335,
+ "generated_at": 1784422033.89625,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -47,13 +47,13 @@
   },
   {
    "symbol": "WLD",
-   "heat": 0.66,
+   "heat": 0.65,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LINK",
-   "heat": 0.66,
+   "heat": 0.65,
    "kol": 1,
    "square": 0
   },
@@ -85,8 +85,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.17,
-  "btc_ret_24h": 1.4
+  "btc_ret_4h": 0.12,
+  "btc_ret_24h": 1.34
  },
  "funnel": {
   "cg_top": 495,
