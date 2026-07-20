@@ -1,5 +1,5 @@
 {
- "generated_at": 1784514044.675832,
+ "generated_at": 1784514658.6930408,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,55 +7,49 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 5,
-   "square": 10
+   "square": 1
   },
   {
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 3
-  },
-  {
-   "symbol": "HYPE",
-   "heat": 1.0,
-   "kol": 3,
    "square": 0
   },
   {
    "symbol": "SOL",
-   "heat": 1.0,
-   "kol": 3,
+   "heat": 0.72,
+   "kol": 2,
    "square": 0
   },
   {
-   "symbol": "DOGE",
-   "heat": 1.0,
-   "kol": 1,
-   "square": 5
-  },
-  {
-   "symbol": "XRP",
-   "heat": 1.0,
-   "kol": 1,
+   "symbol": "HYPE",
+   "heat": 0.7,
+   "kol": 2,
    "square": 0
   },
   {
    "symbol": "ARB",
-   "heat": 1.0,
+   "heat": 0.69,
    "kol": 1,
    "square": 0
   },
   {
-   "symbol": "BNB",
-   "heat": 0.74,
-   "kol": 0,
-   "square": 6
+   "symbol": "DOGE",
+   "heat": 0.5,
+   "kol": 1,
+   "square": 1
+  },
+  {
+   "symbol": "XRP",
+   "heat": 0.37,
+   "kol": 1,
+   "square": 0
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.6,
+   "heat": 0.17,
    "kol": 0,
-   "square": 5
+   "square": 1
   }
  ],
  "status": {
@@ -79,16 +73,16 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.03,
-  "btc_ret_24h": -0.26
+  "btc_ret_4h": 0.02,
+  "btc_ret_24h": -0.2
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 412,
   "gate_perps": 835,
-  "mcap_pass": 114,
-  "venue_pass": 39,
-  "deep_scanned": 39,
+  "mcap_pass": 115,
+  "venue_pass": 40,
+  "deep_scanned": 40,
   "candidates": 0
  },
  "positions": [],
