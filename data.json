@@ -1,5 +1,5 @@
 {
- "generated_at": 1784553341.710083,
+ "generated_at": 1784553986.616929,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -53,7 +53,7 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.96,
+   "heat": 0.95,
    "kol": 0,
    "square": 8
   },
@@ -85,16 +85,16 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.8,
+  "btc_ret_4h": 0.81,
   "btc_ret_24h": 0.36
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 835,
-  "mcap_pass": 114,
-  "venue_pass": 43,
-  "deep_scanned": 43,
+  "mcap_pass": 115,
+  "venue_pass": 44,
+  "deep_scanned": 44,
   "candidates": 0
  },
  "positions": [],
