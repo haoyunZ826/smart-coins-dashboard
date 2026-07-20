@@ -1,5 +1,5 @@
 {
- "generated_at": 1784516362.8781078,
+ "generated_at": 1784516970.7092202,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -29,7 +29,7 @@
   },
   {
    "symbol": "ARB",
-   "heat": 0.68,
+   "heat": 0.67,
    "kol": 1,
    "square": 0
   },
@@ -73,8 +73,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.31,
-  "btc_ret_24h": 0.09
+  "btc_ret_4h": 0.17,
+  "btc_ret_24h": 0.19
  },
  "funnel": {
   "cg_top": 249,
