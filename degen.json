@@ -1,5 +1,5 @@
 {
- "generated_at": 1784540302.5072541,
+ "generated_at": 1784540416.3543198,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -71,19 +71,19 @@
   }
  ],
  "status": {
-  "equity": 964.45,
-  "cash": 964.45,
+  "equity": 964.16,
+  "cash": 881.71,
   "starting": 1000.0,
-  "pnl_pct": -3.55,
-  "day_pnl_pct": -5.5,
-  "drawdown_pct": 14.62,
+  "pnl_pct": -3.58,
+  "day_pnl_pct": -5.52,
+  "drawdown_pct": 14.65,
   "goal_progress_pct": 0.964,
-  "gross_notional": 0.0,
-  "gross_leverage": 0.0,
+  "gross_notional": 412.59,
+  "gross_leverage": 0.43,
   "wins": 2,
   "losses": 7,
-  "trade_count": 20,
-  "fees": 7.59,
+  "trade_count": 21,
+  "fees": 7.8,
   "funding": 0.31,
   "halted": false,
   "killed": false,
@@ -91,21 +91,75 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.2,
-  "btc_ret_24h": -0.41
+  "btc_ret_4h": 0.13,
+  "btc_ret_24h": -0.48
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 835,
   "mcap_pass": 154,
-  "venue_pass": 54,
-  "deep_scanned": 54,
-  "candidates": 0
+  "venue_pass": 55,
+  "deep_scanned": 55,
+  "candidates": 1
  },
- "positions": [],
- "candidates": [],
+ "positions": [
+  {
+   "symbol": "INJ",
+   "venue": "okx",
+   "side": "long",
+   "leverage": 5,
+   "entry": 5.2400952,
+   "mark": 5.239,
+   "stop": 5.11763194857143,
+   "liq": 4.2235167312,
+   "notional": 412.59,
+   "margin": 82.54,
+   "upnl": -0.09,
+   "r": -0.01,
+   "funding_paid": 0.0,
+   "age_h": 0.0,
+   "tp_hit": 0,
+   "runner": false,
+   "score": 58.2,
+   "reason": "LONG 5d-breakout @5.218 ema stack 20>50>100 ext 2.0atr; volx2.0 atr1h 1.06% rs5d +5.5% fund +0.001%"
+  }
+ ],
+ "candidates": [
+  {
+   "symbol": "INJ",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 101,
+   "side": "long",
+   "score": 58.2,
+   "grade": "B",
+   "price": 5.238,
+   "ret_1h": 1.99,
+   "ret_4h": 2.75,
+   "ret_24h": 3.46,
+   "vol_surge": 1.96,
+   "atr_pct": 1.06,
+   "funding": 0.0011,
+   "stop_pct": 2.34
+  }
+ ],
  "trades": [
+  {
+   "symbol": "INJ",
+   "venue": "okx",
+   "action": "open",
+   "side": "long",
+   "price": 5.2400952,
+   "qty": 78.75443373472639,
+   "notional_usd": 412.6807301920578,
+   "fee_usd": 0.20634036509602893,
+   "realized_pnl_usd": 0.0,
+   "leverage": 5,
+   "timestamp": 1784540415.351177,
+   "mode": "paper",
+   "reason": "B 58: LONG 5d-breakout @5.218 ema stack 20>50>100 ext 2.0atr"
+  },
   {
    "symbol": "PEPE",
    "venue": "okx",
