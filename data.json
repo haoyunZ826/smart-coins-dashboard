@@ -1,5 +1,5 @@
 {
- "generated_at": 1784587938.281933,
+ "generated_at": 1784588564.709677,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,13 +7,13 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 6,
-   "square": 11
+   "square": 10
   },
   {
    "symbol": "DOGE",
    "heat": 1.0,
    "kol": 0,
-   "square": 13
+   "square": 12
   },
   {
    "symbol": "ETH",
@@ -47,15 +47,9 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.53,
+   "heat": 0.44,
    "kol": 0,
-   "square": 4
-  },
-  {
-   "symbol": "HYPE",
-   "heat": 0.19,
-   "kol": 1,
-   "square": 0
+   "square": 3
   },
   {
    "symbol": "BNB",
@@ -92,9 +86,9 @@
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 835,
-  "mcap_pass": 115,
-  "venue_pass": 46,
-  "deep_scanned": 46,
+  "mcap_pass": 116,
+  "venue_pass": 47,
+  "deep_scanned": 47,
   "candidates": 0
  },
  "positions": [],
