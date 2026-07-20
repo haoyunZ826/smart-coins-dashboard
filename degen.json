@@ -1,5 +1,5 @@
 {
- "generated_at": 1784531283.449644,
+ "generated_at": 1784531881.27912,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,62 +59,56 @@
   }
  ],
  "status": {
-  "equity": 973.14,
-  "cash": 819.44,
+  "equity": 964.45,
+  "cash": 964.45,
   "starting": 1000.0,
-  "pnl_pct": -2.69,
-  "day_pnl_pct": -4.64,
-  "drawdown_pct": 13.85,
-  "goal_progress_pct": 0.973,
-  "gross_notional": 831.1,
-  "gross_leverage": 0.85,
+  "pnl_pct": -3.55,
+  "day_pnl_pct": -5.5,
+  "drawdown_pct": 14.62,
+  "goal_progress_pct": 0.964,
+  "gross_notional": 0.0,
+  "gross_leverage": 0.0,
   "wins": 2,
-  "losses": 6,
-  "trade_count": 19,
-  "fees": 7.18,
+  "losses": 7,
+  "trade_count": 20,
+  "fees": 7.59,
   "funding": 0.31,
   "halted": false,
   "killed": false,
-  "loss_streak": 2
+  "loss_streak": 3
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -1.43,
-  "btc_ret_24h": -1.21
+  "btc_ret_4h": -1.38,
+  "btc_ret_24h": -1.16
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 412,
   "gate_perps": 835,
   "mcap_pass": 153,
-  "venue_pass": 52,
-  "deep_scanned": 52,
+  "venue_pass": 53,
+  "deep_scanned": 53,
   "candidates": 0
  },
- "positions": [
+ "positions": [],
+ "candidates": [],
+ "trades": [
   {
    "symbol": "PEPE",
    "venue": "okx",
+   "action": "close",
    "side": "long",
+   "price": 2.7948816000000003e-06,
+   "qty": 0.0,
+   "notional_usd": 823.1510126396332,
+   "fee_usd": 0.4115755063198166,
+   "realized_pnl_usd": -24.33724280088438,
    "leverage": 5,
-   "entry": 2.87615e-06,
-   "mark": 2.823e-06,
-   "stop": 2.8021061085714287e-06,
-   "liq": 2.3181769e-06,
-   "notional": 831.1,
-   "margin": 169.35,
-   "upnl": -15.65,
-   "r": -0.72,
-   "funding_paid": 0.068,
-   "age_h": 6.4,
-   "tp_hit": 0,
-   "runner": false,
-   "score": 60.0,
-   "reason": "LONG 5d-breakout @2.872e-06 ema stack 20>50>100 ext 1.5atr; volx1.9 atr1h 1.17% rs5d +2.4% fund +0.010%"
-  }
- ],
- "candidates": [],
- "trades": [
+   "timestamp": 1784531881.265822,
+   "mode": "paper",
+   "reason": "stop_loss: -1.08R stop 2.80211e-06"
+  },
   {
    "symbol": "LINK",
    "venue": "okx",
