@@ -1,5 +1,5 @@
 {
- "generated_at": 1784551620.681144,
+ "generated_at": 1784552223.666023,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,7 +59,7 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.86,
+   "heat": 0.85,
    "kol": 0,
    "square": 7
   },
@@ -71,14 +71,14 @@
   }
  ],
  "status": {
-  "equity": 965.93,
+  "equity": 971.1,
   "cash": 850.73,
   "starting": 1000.0,
-  "pnl_pct": -3.41,
-  "day_pnl_pct": -5.35,
-  "drawdown_pct": 14.49,
-  "goal_progress_pct": 0.966,
-  "gross_notional": 568.9,
+  "pnl_pct": -2.89,
+  "day_pnl_pct": -4.84,
+  "drawdown_pct": 14.03,
+  "goal_progress_pct": 0.971,
+  "gross_notional": 574.07,
   "gross_leverage": 0.59,
   "wins": 2,
   "losses": 7,
@@ -91,8 +91,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.9,
-  "btc_ret_24h": 0.3
+  "btc_ret_4h": 0.98,
+  "btc_ret_24h": 0.38
  },
  "funnel": {
   "cg_top": 249,
@@ -101,7 +101,7 @@
   "mcap_pass": 153,
   "venue_pass": 55,
   "deep_scanned": 55,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -110,15 +110,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 5.2400952,
-   "mark": 5.264,
+   "mark": 5.273,
    "stop": 5.11763194857143,
    "liq": 4.2235167312,
-   "notional": 414.56,
+   "notional": 415.27,
    "margin": 82.54,
-   "upnl": 1.88,
-   "r": 0.2,
-   "funding_paid": 0.005,
-   "age_h": 3.1,
+   "upnl": 2.59,
+   "r": 0.27,
+   "funding_paid": 0.006,
+   "age_h": 3.3,
    "tp_hit": 0,
    "runner": false,
    "score": 58.2,
@@ -130,22 +130,40 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.094207668,
-   "mark": 0.09414,
+   "mark": 0.09686,
    "stop": 0.08834075074285715,
    "liq": 0.075931380408,
-   "notional": 154.34,
+   "notional": 158.8,
    "margin": 30.89,
-   "upnl": -0.11,
-   "r": -0.01,
+   "upnl": 4.35,
+   "r": 0.45,
    "funding_paid": 0.002,
-   "age_h": 2.0,
+   "age_h": 2.2,
    "tp_hit": 0,
    "runner": false,
    "score": 60.1,
    "reason": "LONG 5d-breakout @0.09393 ema stack 20>50>100 ext 1.6atr; volx2.9 atr1h 2.83% rs5d +9.0% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "UB",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 150,
+   "side": "long",
+   "score": 66.7,
+   "grade": "B",
+   "price": 0.09663,
+   "ret_1h": 3.09,
+   "ret_4h": 6.01,
+   "ret_24h": 9.71,
+   "vol_surge": 2.64,
+   "atr_pct": 2.78,
+   "funding": 0.005,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "UB",
