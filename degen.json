@@ -1,5 +1,5 @@
 {
- "generated_at": 1784536731.563353,
+ "generated_at": 1784537329.2659929,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -53,13 +53,13 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.71,
+   "heat": 0.7,
    "kol": 0,
    "square": 5
   },
   {
    "symbol": "BNB",
-   "heat": 0.33,
+   "heat": 0.32,
    "kol": 0,
    "square": 2
   }
@@ -84,9 +84,9 @@
   "loss_streak": 3
  },
  "regime": {
-  "state": "risk_on",
-  "btc_ret_4h": -0.55,
-  "btc_ret_24h": -0.82
+  "state": "neutral",
+  "btc_ret_4h": -0.84,
+  "btc_ret_24h": -1.11
  },
  "funnel": {
   "cg_top": 249,
