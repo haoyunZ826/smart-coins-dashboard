@@ -1,5 +1,5 @@
 {
- "generated_at": 1784510599.254265,
+ "generated_at": 1784511207.789325,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -47,7 +47,7 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.78,
+   "heat": 0.77,
    "kol": 0,
    "square": 6
   },
@@ -79,8 +79,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.43,
-  "btc_ret_24h": -0.11
+  "btc_ret_4h": 0.7,
+  "btc_ret_24h": 0.16
  },
  "funnel": {
   "cg_top": 249,
