@@ -1,5 +1,5 @@
 {
- "generated_at": 1784585542.519999,
+ "generated_at": 1784586133.388934,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -47,13 +47,13 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.55,
+   "heat": 0.54,
    "kol": 0,
    "square": 4
   },
   {
    "symbol": "HYPE",
-   "heat": 0.2,
+   "heat": 0.19,
    "kol": 1,
    "square": 0
   },
