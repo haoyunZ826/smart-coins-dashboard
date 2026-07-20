@@ -1,5 +1,5 @@
 {
- "generated_at": 1784505708.830135,
+ "generated_at": 1784506345.822836,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -13,7 +13,7 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 5
+   "square": 4
   },
   {
    "symbol": "HYPE",
@@ -56,18 +56,6 @@
    "heat": 0.32,
    "kol": 0,
    "square": 3
-  },
-  {
-   "symbol": "LINK",
-   "heat": 0.17,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "WLD",
-   "heat": 0.17,
-   "kol": 1,
-   "square": 0
   }
  ],
  "status": {
@@ -91,8 +79,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.39,
-  "btc_ret_24h": -0.19
+  "btc_ret_4h": 0.5,
+  "btc_ret_24h": 0.12
  },
  "funnel": {
   "cg_top": 249,
