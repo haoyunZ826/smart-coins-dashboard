@@ -1,5 +1,5 @@
 {
- "generated_at": 1784575809.490159,
+ "generated_at": 1784576392.6243122,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,7 +59,7 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.19,
+   "heat": 0.18,
    "kol": 0,
    "square": 2
   }
@@ -85,8 +85,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.79,
-  "btc_ret_24h": 0.97
+  "btc_ret_4h": -0.84,
+  "btc_ret_24h": 0.91
  },
  "funnel": {
   "cg_top": 249,
@@ -95,10 +95,28 @@
   "mcap_pass": 116,
   "venue_pass": 47,
   "deep_scanned": 47,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "PUMP",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 77,
+   "side": "long",
+   "score": 69.6,
+   "grade": "B",
+   "price": 0.002088,
+   "ret_1h": 1.85,
+   "ret_4h": 3.06,
+   "ret_24h": 17.5,
+   "vol_surge": 0.45,
+   "atr_pct": 2.72,
+   "funding": 0.005,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "VVV",
