@@ -1,5 +1,5 @@
 {
- "generated_at": 1784570347.7899039,
+ "generated_at": 1784570945.042707,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -53,13 +53,13 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.42,
+   "heat": 0.41,
    "kol": 0,
    "square": 4
   },
   {
    "symbol": "BNB",
-   "heat": 0.21,
+   "heat": 0.2,
    "kol": 0,
    "square": 2
   }
@@ -85,38 +85,20 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 1.92,
-  "btc_ret_24h": 1.59
+  "btc_ret_4h": 1.86,
+  "btc_ret_24h": 1.86
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 835,
-  "mcap_pass": 116,
+  "mcap_pass": 117,
   "venue_pass": 47,
   "deep_scanned": 47,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [],
- "candidates": [
-  {
-   "symbol": "INJ",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 100,
-   "side": "long",
-   "score": 69.9,
-   "grade": "B",
-   "price": 5.398,
-   "ret_1h": 1.43,
-   "ret_4h": 2.25,
-   "ret_24h": 5.84,
-   "vol_surge": 1.73,
-   "atr_pct": 1.25,
-   "funding": -0.0003,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "VVV",
