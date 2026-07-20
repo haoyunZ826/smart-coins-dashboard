@@ -1,19 +1,19 @@
 {
- "generated_at": 1784507319.789582,
+ "generated_at": 1784507946.90097,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
    "symbol": "BTC",
    "heat": 1.0,
-   "kol": 4,
+   "kol": 5,
    "square": 8
   },
   {
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 5
+   "square": 4
   },
   {
    "symbol": "BONK",
@@ -31,13 +31,13 @@
    "symbol": "SOL",
    "heat": 1.0,
    "kol": 3,
-   "square": 2
+   "square": 1
   },
   {
    "symbol": "DOGE",
    "heat": 1.0,
    "kol": 1,
-   "square": 2
+   "square": 3
   },
   {
    "symbol": "XRP",
@@ -53,52 +53,40 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.78,
+   "heat": 0.85,
    "kol": 0,
    "square": 7
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.31,
+   "heat": 0.47,
    "kol": 0,
-   "square": 3
-  },
-  {
-   "symbol": "LINK",
-   "heat": 0.17,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "WLD",
-   "heat": 0.17,
-   "kol": 1,
-   "square": 0
+   "square": 4
   }
  ],
  "status": {
-  "equity": 1088.43,
+  "equity": 1089.94,
   "cash": 377.82,
   "starting": 1000.0,
-  "pnl_pct": 8.84,
-  "day_pnl_pct": 6.65,
-  "drawdown_pct": 3.65,
-  "goal_progress_pct": 1.088,
-  "gross_notional": 3249.06,
-  "gross_leverage": 2.99,
+  "pnl_pct": 8.99,
+  "day_pnl_pct": 6.8,
+  "drawdown_pct": 3.51,
+  "goal_progress_pct": 1.09,
+  "gross_notional": 3250.57,
+  "gross_leverage": 2.98,
   "wins": 1,
   "losses": 3,
   "trade_count": 14,
   "fees": 5.18,
-  "funding": 0.13,
+  "funding": 0.14,
   "halted": false,
   "killed": false,
   "loss_streak": 1
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.5,
-  "btc_ret_24h": 0.13
+  "btc_ret_4h": 0.44,
+  "btc_ret_24h": 0.07
  },
  "funnel": {
   "cg_top": 249,
@@ -107,7 +95,7 @@
   "mcap_pass": 154,
   "venue_pass": 52,
   "deep_scanned": 52,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -116,15 +104,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.23599436,
-   "mark": 0.2376,
+   "mark": 0.2372,
    "stop": 0.21947475479999998,
    "liq": 0.19021145416,
-   "notional": 517.66,
+   "notional": 516.79,
    "margin": 102.83,
-   "upnl": 3.5,
-   "r": 0.1,
-   "funding_paid": 0.024,
-   "age_h": 6.8,
+   "upnl": 2.63,
+   "r": 0.07,
+   "funding_paid": 0.025,
+   "age_h": 6.9,
    "tp_hit": 0,
    "runner": false,
    "score": 73.3,
@@ -136,15 +124,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.0017066824,
-   "mark": 0.002042,
+   "mark": 0.002034,
    "stop": 0.001972050180036845,
    "liq": 0.0013755860144000001,
-   "notional": 496.64,
+   "notional": 494.7,
    "margin": 83.02,
-   "upnl": 81.55,
-   "r": 8.05,
-   "funding_paid": -0.003,
-   "age_h": 5.9,
+   "upnl": 79.61,
+   "r": 7.86,
+   "funding_paid": -0.004,
+   "age_h": 6.1,
    "tp_hit": 2,
    "runner": true,
    "score": 63.8,
@@ -156,15 +144,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 8.471387199999999,
-   "mark": 8.434,
+   "mark": 8.452,
    "stop": 8.301959455999999,
    "liq": 6.827938083199999,
-   "notional": 1116.96,
+   "notional": 1119.34,
    "margin": 224.38,
-   "upnl": -4.95,
-   "r": -0.22,
-   "funding_paid": 0.002,
-   "age_h": 0.2,
+   "upnl": -2.57,
+   "r": -0.11,
+   "funding_paid": 0.004,
+   "age_h": 0.3,
    "tp_hit": 0,
    "runner": false,
    "score": 62.0,
@@ -176,40 +164,22 @@
    "side": "long",
    "leverage": 5,
    "entry": 1887.5047,
-   "mark": 1880.6,
+   "mark": 1883.87,
    "stop": 1849.754606,
    "liq": 1521.3287882,
-   "notional": 1117.8,
+   "notional": 1119.75,
    "margin": 224.38,
-   "upnl": -4.1,
-   "r": -0.18,
-   "funding_paid": 0.0,
-   "age_h": 0.2,
+   "upnl": -2.16,
+   "r": -0.1,
+   "funding_paid": 0.001,
+   "age_h": 0.3,
    "tp_hit": 0,
    "runner": false,
    "score": 60.9,
    "reason": "LONG 5d-breakout @1879.81 ema stack 20>50>100 ext 1.6atr; volx2.1 atr1h 0.65% rs5d +0.3% fund +0.002%; social heat 1.00"
   }
  ],
- "candidates": [
-  {
-   "symbol": "LINK",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 18,
-   "side": "long",
-   "score": 62.2,
-   "grade": "B",
-   "price": 8.44,
-   "ret_1h": 0.7,
-   "ret_4h": 0.92,
-   "ret_24h": 1.09,
-   "vol_surge": 3.34,
-   "atr_pct": 0.63,
-   "funding": 0.0096,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "ETH",
