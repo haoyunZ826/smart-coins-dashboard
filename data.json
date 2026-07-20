@@ -1,5 +1,5 @@
 {
- "generated_at": 1784515864.1491818,
+ "generated_at": 1784516362.8781078,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,7 +17,7 @@
   },
   {
    "symbol": "SOL",
-   "heat": 0.71,
+   "heat": 0.7,
    "kol": 2,
    "square": 0
   },
@@ -41,7 +41,7 @@
   },
   {
    "symbol": "XRP",
-   "heat": 0.37,
+   "heat": 0.36,
    "kol": 1,
    "square": 0
   },
@@ -73,16 +73,16 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.38,
-  "btc_ret_24h": 0.15
+  "btc_ret_4h": 0.31,
+  "btc_ret_24h": 0.09
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 412,
   "gate_perps": 835,
-  "mcap_pass": 114,
-  "venue_pass": 39,
-  "deep_scanned": 39,
+  "mcap_pass": 115,
+  "venue_pass": 41,
+  "deep_scanned": 41,
   "candidates": 0
  },
  "positions": [],
