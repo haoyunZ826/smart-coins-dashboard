@@ -1,5 +1,5 @@
 {
- "generated_at": 1784556217.495751,
+ "generated_at": 1784556830.093792,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,7 +59,7 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.8,
+   "heat": 0.79,
    "kol": 0,
    "square": 7
   },
@@ -71,14 +71,14 @@
   }
  ],
  "status": {
-  "equity": 973.38,
+  "equity": 971.84,
   "cash": 786.82,
   "starting": 1000.0,
-  "pnl_pct": -2.66,
-  "day_pnl_pct": -4.62,
-  "drawdown_pct": 13.83,
-  "goal_progress_pct": 0.973,
-  "gross_notional": 895.25,
+  "pnl_pct": -2.82,
+  "day_pnl_pct": -4.77,
+  "drawdown_pct": 13.97,
+  "goal_progress_pct": 0.972,
+  "gross_notional": 893.72,
   "gross_leverage": 0.92,
   "wins": 2,
   "losses": 7,
@@ -91,7 +91,7 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.14,
+  "btc_ret_4h": 0.15,
   "btc_ret_24h": -0.3
  },
  "funnel": {
@@ -101,7 +101,7 @@
   "mcap_pass": 154,
   "venue_pass": 55,
   "deep_scanned": 55,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -110,15 +110,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 5.2400952,
-   "mark": 5.284,
+   "mark": 5.258,
    "stop": 5.11763194857143,
    "liq": 4.2235167312,
-   "notional": 416.14,
+   "notional": 414.09,
    "margin": 82.54,
-   "upnl": 3.46,
-   "r": 0.36,
-   "funding_paid": 0.012,
-   "age_h": 4.4,
+   "upnl": 1.41,
+   "r": 0.15,
+   "funding_paid": 0.013,
+   "age_h": 4.6,
    "tp_hit": 0,
    "runner": false,
    "score": 58.2,
@@ -130,15 +130,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.094207668,
-   "mark": 0.09888,
+   "mark": 0.09763,
    "stop": 0.08834075074285715,
    "liq": 0.075931380408,
-   "notional": 162.11,
+   "notional": 160.06,
    "margin": 30.89,
-   "upnl": 7.66,
-   "r": 0.8,
+   "upnl": 5.61,
+   "r": 0.58,
    "funding_paid": 0.003,
-   "age_h": 3.3,
+   "age_h": 3.4,
    "tp_hit": 0,
    "runner": false,
    "score": 60.1,
@@ -150,40 +150,22 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.63415356,
-   "mark": 0.6307,
+   "mark": 0.6358,
    "stop": 0.6147386542857143,
    "liq": 0.51112776936,
-   "notional": 317.0,
+   "notional": 319.56,
    "margin": 63.75,
-   "upnl": -1.74,
-   "r": -0.18,
+   "upnl": 0.83,
+   "r": 0.08,
    "funding_paid": 0.001,
-   "age_h": 0.5,
+   "age_h": 0.7,
    "tp_hit": 0,
    "runner": false,
    "score": 59.2,
    "reason": "LONG 5d-breakout @0.6252 ema stack 20>50>100 ext 2.3atr; volx2.3 atr1h 1.39% rs5d +5.4% fund +0.005%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "VIRTUAL",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 113,
-   "side": "long",
-   "score": 59.8,
-   "grade": "B",
-   "price": 0.6282,
-   "ret_1h": 1.86,
-   "ret_4h": 2.63,
-   "ret_24h": 3.59,
-   "vol_surge": 4.76,
-   "atr_pct": 1.5,
-   "funding": 0.0038,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "VIRTUAL",
