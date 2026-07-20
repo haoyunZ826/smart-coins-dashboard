@@ -1,5 +1,5 @@
 {
- "generated_at": 1784544035.209932,
+ "generated_at": 1784544414.53591,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -71,19 +71,19 @@
   }
  ],
  "status": {
-  "equity": 962.82,
-  "cash": 881.71,
+  "equity": 962.38,
+  "cash": 850.74,
   "starting": 1000.0,
-  "pnl_pct": -3.72,
-  "day_pnl_pct": -5.66,
-  "drawdown_pct": 14.77,
-  "goal_progress_pct": 0.963,
-  "gross_notional": 411.26,
-  "gross_leverage": 0.43,
+  "pnl_pct": -3.76,
+  "day_pnl_pct": -5.7,
+  "drawdown_pct": 14.8,
+  "goal_progress_pct": 0.962,
+  "gross_notional": 565.35,
+  "gross_leverage": 0.59,
   "wins": 2,
   "losses": 7,
-  "trade_count": 21,
-  "fees": 7.8,
+  "trade_count": 22,
+  "fees": 7.87,
   "funding": 0.31,
   "halted": false,
   "killed": false,
@@ -91,8 +91,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.54,
-  "btc_ret_24h": -0.51
+  "btc_ret_4h": 0.62,
+  "btc_ret_24h": -0.43
  },
  "funnel": {
   "cg_top": 249,
@@ -101,7 +101,7 @@
   "mcap_pass": 154,
   "venue_pass": 54,
   "deep_scanned": 54,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -110,23 +110,76 @@
    "side": "long",
    "leverage": 5,
    "entry": 5.2400952,
-   "mark": 5.222,
+   "mark": 5.218,
    "stop": 5.11763194857143,
    "liq": 4.2235167312,
-   "notional": 411.26,
+   "notional": 410.94,
    "margin": 82.54,
-   "upnl": -1.43,
-   "r": -0.15,
+   "upnl": -1.74,
+   "r": -0.18,
    "funding_paid": 0.001,
-   "age_h": 1.0,
+   "age_h": 1.1,
    "tp_hit": 0,
    "runner": false,
    "score": 58.2,
    "reason": "LONG 5d-breakout @5.218 ema stack 20>50>100 ext 2.0atr; volx2.0 atr1h 1.06% rs5d +5.5% fund +0.001%"
+  },
+  {
+   "symbol": "UB",
+   "venue": "okx",
+   "side": "long",
+   "leverage": 5,
+   "entry": 0.094207668,
+   "mark": 0.09418,
+   "stop": 0.08834075074285715,
+   "liq": 0.075931380408,
+   "notional": 154.41,
+   "margin": 30.89,
+   "upnl": -0.05,
+   "r": -0.0,
+   "funding_paid": 0.0,
+   "age_h": 0.0,
+   "tp_hit": 0,
+   "runner": false,
+   "score": 60.1,
+   "reason": "LONG 5d-breakout @0.09393 ema stack 20>50>100 ext 1.6atr; volx2.9 atr1h 2.83% rs5d +9.0% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "UB",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 148,
+   "side": "long",
+   "score": 60.1,
+   "grade": "B",
+   "price": 0.09417,
+   "ret_1h": 1.63,
+   "ret_4h": 6.5,
+   "ret_24h": 6.56,
+   "vol_surge": 2.94,
+   "atr_pct": 2.83,
+   "funding": 0.005,
+   "stop_pct": 6.23
+  }
+ ],
  "trades": [
+  {
+   "symbol": "UB",
+   "venue": "okx",
+   "action": "open",
+   "side": "long",
+   "price": 0.094207668,
+   "qty": 1639.4895923891493,
+   "notional_usd": 154.4524912092523,
+   "fee_usd": 0.07722624560462614,
+   "realized_pnl_usd": 0.0,
+   "leverage": 5,
+   "timestamp": 1784544413.530679,
+   "mode": "paper",
+   "reason": "B 60: LONG 5d-breakout @0.09393 ema stack 20>50>100 ext 1.6atr"
+  },
   {
    "symbol": "INJ",
    "venue": "okx",
