@@ -1,5 +1,5 @@
 {
- "generated_at": 1784552223.666023,
+ "generated_at": 1784552833.6731362,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -65,20 +65,20 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.27,
+   "heat": 0.26,
    "kol": 0,
    "square": 2
   }
  ],
  "status": {
-  "equity": 971.1,
+  "equity": 973.76,
   "cash": 850.73,
   "starting": 1000.0,
-  "pnl_pct": -2.89,
-  "day_pnl_pct": -4.84,
-  "drawdown_pct": 14.03,
-  "goal_progress_pct": 0.971,
-  "gross_notional": 574.07,
+  "pnl_pct": -2.62,
+  "day_pnl_pct": -4.58,
+  "drawdown_pct": 13.8,
+  "goal_progress_pct": 0.974,
+  "gross_notional": 576.74,
   "gross_leverage": 0.59,
   "wins": 2,
   "losses": 7,
@@ -91,8 +91,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.98,
-  "btc_ret_24h": 0.38
+  "btc_ret_4h": 0.72,
+  "btc_ret_24h": 0.27
  },
  "funnel": {
   "cg_top": 249,
@@ -101,7 +101,7 @@
   "mcap_pass": 153,
   "venue_pass": 55,
   "deep_scanned": 55,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -110,15 +110,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 5.2400952,
-   "mark": 5.273,
+   "mark": 5.291,
    "stop": 5.11763194857143,
    "liq": 4.2235167312,
-   "notional": 415.27,
+   "notional": 416.69,
    "margin": 82.54,
-   "upnl": 2.59,
-   "r": 0.27,
-   "funding_paid": 0.006,
-   "age_h": 3.3,
+   "upnl": 4.01,
+   "r": 0.42,
+   "funding_paid": 0.007,
+   "age_h": 3.4,
    "tp_hit": 0,
    "runner": false,
    "score": 58.2,
@@ -130,40 +130,22 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.094207668,
-   "mark": 0.09686,
+   "mark": 0.09762,
    "stop": 0.08834075074285715,
    "liq": 0.075931380408,
-   "notional": 158.8,
+   "notional": 160.05,
    "margin": 30.89,
-   "upnl": 4.35,
-   "r": 0.45,
+   "upnl": 5.59,
+   "r": 0.58,
    "funding_paid": 0.002,
-   "age_h": 2.2,
+   "age_h": 2.3,
    "tp_hit": 0,
    "runner": false,
    "score": 60.1,
    "reason": "LONG 5d-breakout @0.09393 ema stack 20>50>100 ext 1.6atr; volx2.9 atr1h 2.83% rs5d +9.0% fund +0.005%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "UB",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 150,
-   "side": "long",
-   "score": 66.7,
-   "grade": "B",
-   "price": 0.09663,
-   "ret_1h": 3.09,
-   "ret_4h": 6.01,
-   "ret_24h": 9.71,
-   "vol_surge": 2.64,
-   "atr_pct": 2.78,
-   "funding": 0.005,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "UB",
