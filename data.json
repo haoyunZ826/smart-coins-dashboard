@@ -1,5 +1,5 @@
 {
- "generated_at": 1784552840.267612,
+ "generated_at": 1784553341.710083,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -85,8 +85,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.7,
-  "btc_ret_24h": 0.26
+  "btc_ret_4h": 0.8,
+  "btc_ret_24h": 0.36
  },
  "funnel": {
   "cg_top": 249,
