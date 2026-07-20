@@ -1,5 +1,5 @@
 {
- "generated_at": 1784551081.939571,
+ "generated_at": 1784551620.681144,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -13,13 +13,13 @@
    "symbol": "DOGE",
    "heat": 1.0,
    "kol": 1,
-   "square": 7
+   "square": 8
   },
   {
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 6
+   "square": 7
   },
   {
    "symbol": "BONK",
@@ -59,7 +59,7 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.87,
+   "heat": 0.86,
    "kol": 0,
    "square": 7
   },
@@ -71,14 +71,14 @@
   }
  ],
  "status": {
-  "equity": 964.8,
-  "cash": 850.74,
+  "equity": 965.93,
+  "cash": 850.73,
   "starting": 1000.0,
-  "pnl_pct": -3.52,
-  "day_pnl_pct": -5.46,
-  "drawdown_pct": 14.59,
-  "goal_progress_pct": 0.965,
-  "gross_notional": 567.77,
+  "pnl_pct": -3.41,
+  "day_pnl_pct": -5.35,
+  "drawdown_pct": 14.49,
+  "goal_progress_pct": 0.966,
+  "gross_notional": 568.9,
   "gross_leverage": 0.59,
   "wins": 2,
   "losses": 7,
@@ -91,8 +91,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 1.05,
-  "btc_ret_24h": 0.44
+  "btc_ret_4h": 0.9,
+  "btc_ret_24h": 0.3
  },
  "funnel": {
   "cg_top": 249,
@@ -118,7 +118,7 @@
    "upnl": 1.88,
    "r": 0.2,
    "funding_paid": 0.005,
-   "age_h": 3.0,
+   "age_h": 3.1,
    "tp_hit": 0,
    "runner": false,
    "score": 58.2,
@@ -130,15 +130,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.094207668,
-   "mark": 0.09345,
+   "mark": 0.09414,
    "stop": 0.08834075074285715,
    "liq": 0.075931380408,
-   "notional": 153.21,
+   "notional": 154.34,
    "margin": 30.89,
-   "upnl": -1.24,
-   "r": -0.13,
+   "upnl": -0.11,
+   "r": -0.01,
    "funding_paid": 0.002,
-   "age_h": 1.9,
+   "age_h": 2.0,
    "tp_hit": 0,
    "runner": false,
    "score": 60.1,
