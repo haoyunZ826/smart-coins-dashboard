@@ -1,5 +1,5 @@
 {
- "generated_at": 1784594755.2896042,
+ "generated_at": 1784594874.457356,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,19 +59,19 @@
   }
  ],
  "status": {
-  "equity": 1022.78,
-  "cash": 1022.78,
+  "equity": 1022.87,
+  "cash": 883.26,
   "starting": 1000.0,
-  "pnl_pct": 2.28,
-  "day_pnl_pct": 0.0,
-  "drawdown_pct": 2.49,
+  "pnl_pct": 2.29,
+  "day_pnl_pct": 0.01,
+  "drawdown_pct": 2.48,
   "goal_progress_pct": 1.023,
-  "gross_notional": 0.0,
-  "gross_leverage": 0.0,
+  "gross_notional": 418.24,
+  "gross_leverage": 0.41,
   "wins": 1,
   "losses": 1,
-  "trade_count": 5,
-  "fees": 0.87,
+  "trade_count": 6,
+  "fees": 1.08,
   "funding": 0.06,
   "halted": false,
   "killed": false,
@@ -80,7 +80,7 @@
  "regime": {
   "state": "risk_on",
   "btc_ret_4h": 0.21,
-  "btc_ret_24h": 1.46
+  "btc_ret_24h": 1.47
  },
  "funnel": {
   "cg_top": 249,
@@ -89,11 +89,65 @@
   "mcap_pass": 116,
   "venue_pass": 47,
   "deep_scanned": 47,
-  "candidates": 0
+  "candidates": 1
  },
- "positions": [],
- "candidates": [],
+ "positions": [
+  {
+   "symbol": "LDO",
+   "venue": "okx",
+   "side": "long",
+   "leverage": 3,
+   "entry": 0.39331795999999997,
+   "mark": 0.3936,
+   "stop": 0.3764736225,
+   "liq": 0.2645718810933333,
+   "notional": 418.24,
+   "margin": 139.31,
+   "upnl": 0.3,
+   "r": 0.02,
+   "funding_paid": 0.0,
+   "age_h": 0.0,
+   "tp_hit": 0,
+   "runner": false,
+   "score": 73.0,
+   "reason": "LONG 5d-breakout @0.3895 ema stack 20>50>100 ext 3.2atr; volx3.0 atr1h 1.71% rs5d +7.9% fund +0.007%"
+  }
+ ],
+ "candidates": [
+  {
+   "symbol": "LDO",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 125,
+   "side": "long",
+   "score": 73.0,
+   "grade": "A",
+   "price": 0.3932,
+   "ret_1h": 2.82,
+   "ret_4h": 3.42,
+   "ret_24h": 11.04,
+   "vol_surge": 3.01,
+   "atr_pct": 1.71,
+   "funding": 0.0074,
+   "stop_pct": 4.28
+  }
+ ],
  "trades": [
+  {
+   "symbol": "LDO",
+   "venue": "okx",
+   "action": "open",
+   "side": "long",
+   "price": 0.39331795999999997,
+   "qty": 1062.5949584275995,
+   "notional_usd": 417.93768135502825,
+   "fee_usd": 0.20896884067751412,
+   "realized_pnl_usd": 0.0,
+   "leverage": 3,
+   "timestamp": 1784594841.877516,
+   "mode": "paper",
+   "reason": "A 73: LONG 5d-breakout @0.3895 ema stack 20>50>100 ext 3.2atr"
+  },
   {
    "symbol": "VVV",
    "venue": "okx",
