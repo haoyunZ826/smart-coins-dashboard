@@ -213,12 +213,12 @@ function render(d) {
 
   // copy-trade signals
   const ct = d.copytrade || {};
-  const cs = ct.signals || [];
+  const cts = ct.signals || [];
   document.getElementById('copyLeaders').textContent =
     ct.leaders ? `（${ct.leaders} 位合格带单员在监控中）` : '';
-  document.getElementById('copytrade').outerHTML = cs.length ? `<table id="copytrade"><thead><tr>
+  document.getElementById('copytrade').outerHTML = cts.length ? `<table id="copytrade"><thead><tr>
     <th>币</th><th>做多带单员</th><th>成交笔数</th><th>最新</th></tr></thead><tbody>` +
-    cs.map(s => `<tr><td class="sym">${s.symbol}</td>
+    cts.map(s => `<tr><td class="sym">${s.symbol}</td>
       <td class="long">${s.n_leaders} 位</td><td>${s.fills}</td>
       <td>${ago(s.latest_ts)}</td></tr>`).join('') + '</tbody></table>'
     : '<div id="copytrade" class="empty">当前窗口内无合格带单员建仓（只统计我们选币池内的币）</div>';
