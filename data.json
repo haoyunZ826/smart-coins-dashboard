@@ -1,5 +1,5 @@
 {
- "generated_at": 1784659263.658945,
+ "generated_at": 1784659376.8469892,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -100,14 +100,14 @@
   ]
  },
  "status": {
-  "equity": 1000.19,
-  "cash": 286.46,
+  "equity": 1000.63,
+  "cash": 286.45,
   "starting": 1000.0,
-  "pnl_pct": 0.02,
-  "day_pnl_pct": -2.21,
-  "drawdown_pct": 4.64,
-  "goal_progress_pct": 1.0,
-  "gross_notional": 2184.01,
+  "pnl_pct": 0.06,
+  "day_pnl_pct": -2.17,
+  "drawdown_pct": 4.6,
+  "goal_progress_pct": 1.001,
+  "gross_notional": 2184.45,
   "gross_leverage": 2.18,
   "wins": 1,
   "losses": 1,
@@ -120,8 +120,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.87,
-  "btc_ret_24h": 1.55
+  "btc_ret_4h": -0.86,
+  "btc_ret_24h": 1.57
  },
  "funnel": {
   "cg_top": 249,
@@ -130,7 +130,7 @@
   "mcap_pass": 116,
   "venue_pass": 49,
   "deep_scanned": 49,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -166,7 +166,7 @@
    "margin": 182.16,
    "upnl": -7.95,
    "r": -0.44,
-   "funding_paid": 0.09,
+   "funding_paid": 0.091,
    "age_h": 13.3,
    "tp_hit": 0,
    "runner": false,
@@ -179,13 +179,13 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.67360202,
-   "mark": 0.6666,
+   "mark": 0.667,
    "stop": 0.653560295,
    "liq": 0.4531096254533334,
-   "notional": 598.92,
+   "notional": 599.27,
    "margin": 201.74,
-   "upnl": -6.29,
-   "r": -0.35,
+   "upnl": -5.93,
+   "r": -0.33,
    "funding_paid": 0.031,
    "age_h": 8.2,
    "tp_hit": 0,
@@ -199,12 +199,12 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.08584,
+   "mark": 0.08585,
    "stop": 0.08415595349999999,
    "liq": 0.05825022315933333,
-   "notional": 630.24,
+   "notional": 630.32,
    "margin": 211.93,
-   "upnl": -5.55,
+   "upnl": -5.48,
    "r": -0.31,
    "funding_paid": 0.032,
    "age_h": 8.0,
@@ -214,7 +214,25 @@
    "reason": "LONG 5d-breakout @0.08625 ema stack 20>50>100 ext 2.6atr; volx2.2 atr1h 1.13% rs5d +2.3% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "JTO",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 128,
+   "side": "long",
+   "score": 65.5,
+   "grade": "B",
+   "price": 0.635,
+   "ret_1h": 1.76,
+   "ret_4h": 1.21,
+   "ret_24h": 3.83,
+   "vol_surge": 0.8,
+   "atr_pct": 1.74,
+   "funding": 0.005,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "ENA",
