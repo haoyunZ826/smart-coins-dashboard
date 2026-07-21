@@ -1,5 +1,5 @@
 {
- "generated_at": 1784591494.140695,
+ "generated_at": 1784592086.386284,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -47,7 +47,7 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.43,
+   "heat": 0.42,
    "kol": 0,
    "square": 3
   },
@@ -79,8 +79,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.18,
-  "btc_ret_24h": 0.82
+  "btc_ret_4h": 0.12,
+  "btc_ret_24h": 0.75
  },
  "funnel": {
   "cg_top": 249,
