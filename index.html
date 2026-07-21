@@ -104,6 +104,10 @@
 <h2>社交热度（币安广场 + KOL X，12h 窗口）</h2>
 <div class="tablewrap"><div id="social" class="empty">—</div></div>
 
+<h2>跟单信号 <span id="copyLeaders" style="color:var(--text-muted);font-weight:400"></span></h2>
+<div class="tablewrap"><div id="copytrade" class="empty">—</div></div>
+<p class="note">币安带单员经「30日ROI&gt;0 + AUM&gt;$5万 + 回撤&lt;40%」筛选（该规则经走向前验证：选中组胜率64% vs 未选组44%）。跟单只作小额加分，不单独触发开仓；影子日志正在积累前向证据。</p>
+
 <h2>历史成交（最近 60 笔）</h2>
 <div class="tablewrap"><div id="trades" class="empty">—</div></div>
 
@@ -206,6 +210,18 @@ function render(d) {
       <td>${'█'.repeat(Math.max(1, Math.round(s.heat * 10)))} ${fmt(s.heat, 2)}</td>
       <td>${s.kol}</td><td>${s.square}</td></tr>`).join('') + '</tbody></table>'
     : '<div id="social" class="empty">暂无热点命中（只统计选币池内币种的提及）</div>';
+
+  // copy-trade signals
+  const ct = d.copytrade || {};
+  const cs = ct.signals || [];
+  document.getElementById('copyLeaders').textContent =
+    ct.leaders ? `（${ct.leaders} 位合格带单员在监控中）` : '';
+  document.getElementById('copytrade').outerHTML = cs.length ? `<table id="copytrade"><thead><tr>
+    <th>币</th><th>做多带单员</th><th>成交笔数</th><th>最新</th></tr></thead><tbody>` +
+    cs.map(s => `<tr><td class="sym">${s.symbol}</td>
+      <td class="long">${s.n_leaders} 位</td><td>${s.fills}</td>
+      <td>${ago(s.latest_ts)}</td></tr>`).join('') + '</tbody></table>'
+    : '<div id="copytrade" class="empty">当前窗口内无合格带单员建仓（只统计我们选币池内的币）</div>';
 
   // trades
   const ts = d.trades || [];
