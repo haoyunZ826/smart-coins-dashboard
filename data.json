@@ -1,5 +1,5 @@
 {
- "generated_at": 1784666438.483402,
+ "generated_at": 1784666910.041423,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,7 +7,7 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 6,
-   "square": 6
+   "square": 5
   },
   {
    "symbol": "ETH",
@@ -40,16 +40,22 @@
    "square": 0
   },
   {
-   "symbol": "BNB",
-   "heat": 0.6,
-   "kol": 0,
-   "square": 5
-  },
-  {
    "symbol": "SOL",
-   "heat": 0.56,
+   "heat": 0.55,
    "kol": 1,
    "square": 2
+  },
+  {
+   "symbol": "BNB",
+   "heat": 0.52,
+   "kol": 0,
+   "square": 4
+  },
+  {
+   "symbol": "HBAR",
+   "heat": 0.37,
+   "kol": 1,
+   "square": 0
   },
   {
    "symbol": "TRUMP",
@@ -60,24 +66,17 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "XRP",
-    "n_leaders": 1,
-    "fills": 9,
-    "latest_ts": 1784665013.0
-   }
-  ]
+  "signals": []
  },
  "status": {
-  "equity": 992.48,
-  "cash": 469.63,
+  "equity": 992.51,
+  "cash": 469.62,
   "starting": 1000.0,
   "pnl_pct": -0.75,
   "day_pnl_pct": 0.2,
-  "drawdown_pct": 5.38,
-  "goal_progress_pct": 0.992,
-  "gross_notional": 1589.66,
+  "drawdown_pct": 5.37,
+  "goal_progress_pct": 0.993,
+  "gross_notional": 1589.69,
   "gross_leverage": 1.6,
   "wins": 1,
   "losses": 2,
@@ -90,7 +89,7 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.13,
+  "btc_ret_4h": -0.12,
   "btc_ret_24h": 1.67
  },
  "funnel": {
@@ -109,15 +108,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3904,
+   "mark": 0.3901,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 414.84,
+   "notional": 414.52,
    "margin": 139.31,
-   "upnl": -3.1,
-   "r": -0.17,
-   "funding_paid": -0.056,
-   "age_h": 19.9,
+   "upnl": -3.42,
+   "r": -0.19,
+   "funding_paid": -0.055,
+   "age_h": 20.0,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -129,15 +128,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1736,
+   "mark": 0.1735,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 540.4,
+   "notional": 540.09,
    "margin": 182.16,
-   "upnl": -6.08,
-   "r": -0.34,
+   "upnl": -6.39,
+   "r": -0.35,
    "funding_paid": 0.101,
-   "age_h": 15.3,
+   "age_h": 15.4,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -149,15 +148,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.08641,
+   "mark": 0.0865,
    "stop": 0.08415595349999999,
    "liq": 0.05825022315933333,
-   "notional": 634.43,
+   "notional": 635.09,
    "margin": 211.93,
-   "upnl": -1.37,
-   "r": -0.08,
+   "upnl": -0.7,
+   "r": -0.04,
    "funding_paid": 0.04,
-   "age_h": 10.0,
+   "age_h": 10.1,
    "tp_hit": 0,
    "runner": false,
    "score": 70.1,
@@ -169,15 +168,15 @@
    "symbol": "JTO",
    "venue": "okx",
    "tier": "mid",
-   "mcap_rank": 128,
+   "mcap_rank": 127,
    "side": "long",
-   "score": 68.0,
+   "score": 67.6,
    "grade": "B",
-   "price": 0.6382,
-   "ret_1h": 1.51,
-   "ret_4h": 3.0,
-   "ret_24h": 3.64,
-   "vol_surge": 0.65,
+   "price": 0.6373,
+   "ret_1h": 1.37,
+   "ret_4h": 2.86,
+   "ret_24h": 3.49,
+   "vol_surge": 0.75,
    "atr_pct": 1.81,
    "funding": 0.005,
    "stop_pct": 0.0
