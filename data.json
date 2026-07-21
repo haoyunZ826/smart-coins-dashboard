@@ -1,5 +1,5 @@
 {
- "generated_at": 1784605232.642451,
+ "generated_at": 1784605823.6799119,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -47,26 +47,26 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.35,
+   "heat": 0.34,
    "kol": 0,
    "square": 3
   },
   {
    "symbol": "BNB",
-   "heat": 0.12,
+   "heat": 0.11,
    "kol": 0,
    "square": 1
   }
  ],
  "status": {
-  "equity": 1027.97,
+  "equity": 1027.44,
   "cash": 883.26,
   "starting": 1000.0,
-  "pnl_pct": 2.8,
-  "day_pnl_pct": 0.51,
-  "drawdown_pct": 1.99,
-  "goal_progress_pct": 1.028,
-  "gross_notional": 423.34,
+  "pnl_pct": 2.74,
+  "day_pnl_pct": 0.46,
+  "drawdown_pct": 2.04,
+  "goal_progress_pct": 1.027,
+  "gross_notional": 422.81,
   "gross_leverage": 0.41,
   "wins": 1,
   "losses": 1,
@@ -79,16 +79,16 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.36,
-  "btc_ret_24h": 0.96
+  "btc_ret_4h": 0.37,
+  "btc_ret_24h": 0.97
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 835,
-  "mcap_pass": 116,
-  "venue_pass": 47,
-  "deep_scanned": 47,
+  "mcap_pass": 115,
+  "venue_pass": 46,
+  "deep_scanned": 46,
   "candidates": 1
  },
  "positions": [
@@ -98,15 +98,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3984,
+   "mark": 0.3979,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 423.34,
+   "notional": 422.81,
    "margin": 139.31,
-   "upnl": 5.4,
-   "r": 0.3,
-   "funding_paid": 0.001,
-   "age_h": 2.9,
+   "upnl": 4.87,
+   "r": 0.27,
+   "funding_paid": 0.0,
+   "age_h": 3.1,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -120,15 +120,15 @@
    "tier": "mid",
    "mcap_rank": 123,
    "side": "long",
-   "score": 75.9,
+   "score": 79.9,
    "grade": "A",
-   "price": 0.3989,
-   "ret_1h": 1.04,
-   "ret_4h": 4.31,
-   "ret_24h": 12.59,
-   "vol_surge": 2.45,
+   "price": 0.3992,
+   "ret_1h": 1.11,
+   "ret_4h": 4.39,
+   "ret_24h": 12.67,
+   "vol_surge": 2.95,
    "atr_pct": 1.78,
-   "funding": -0.0065,
+   "funding": -0.0076,
    "stop_pct": 0.0
   }
  ],
