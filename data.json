@@ -1,5 +1,5 @@
 {
- "generated_at": 1784606449.5597608,
+ "generated_at": 1784607045.16381,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -13,7 +13,7 @@
    "symbol": "DOGE",
    "heat": 1.0,
    "kol": 0,
-   "square": 13
+   "square": 12
   },
   {
    "symbol": "ETH",
@@ -59,14 +59,14 @@
   }
  ],
  "status": {
-  "equity": 1030.42,
+  "equity": 1029.99,
   "cash": 883.26,
   "starting": 1000.0,
-  "pnl_pct": 3.04,
-  "day_pnl_pct": 0.75,
-  "drawdown_pct": 1.76,
+  "pnl_pct": 3.0,
+  "day_pnl_pct": 0.71,
+  "drawdown_pct": 1.8,
   "goal_progress_pct": 1.03,
-  "gross_notional": 425.78,
+  "gross_notional": 425.36,
   "gross_leverage": 0.41,
   "wins": 1,
   "losses": 1,
@@ -79,8 +79,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.43,
-  "btc_ret_24h": 1.03
+  "btc_ret_4h": 0.24,
+  "btc_ret_24h": 1.83
  },
  "funnel": {
   "cg_top": 249,
@@ -89,7 +89,7 @@
   "mcap_pass": 115,
   "venue_pass": 46,
   "deep_scanned": 46,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -98,40 +98,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.4007,
+   "mark": 0.4003,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 425.78,
+   "notional": 425.36,
    "margin": 139.31,
-   "upnl": 7.84,
-   "r": 0.44,
-   "funding_paid": -0.0,
-   "age_h": 3.2,
+   "upnl": 7.42,
+   "r": 0.41,
+   "funding_paid": -0.001,
+   "age_h": 3.4,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
    "reason": "LONG 5d-breakout @0.3895 ema stack 20>50>100 ext 3.2atr; volx3.0 atr1h 1.71% rs5d +7.9% fund +0.007%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "LDO",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 123,
-   "side": "long",
-   "score": 81.4,
-   "grade": "S",
-   "price": 0.401,
-   "ret_1h": 1.57,
-   "ret_4h": 4.86,
-   "ret_24h": 13.18,
-   "vol_surge": 3.61,
-   "atr_pct": 1.83,
-   "funding": -0.009,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "LDO",
