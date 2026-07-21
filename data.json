@@ -1,42 +1,18 @@
 {
- "generated_at": 1784620099.222665,
+ "generated_at": 1784620447.371451,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
    "symbol": "BTC",
    "heat": 1.0,
-   "kol": 6,
-   "square": 13
-  },
-  {
-   "symbol": "DOGE",
-   "heat": 1.0,
-   "kol": 0,
-   "square": 12
+   "kol": 5,
+   "square": 1
   },
   {
    "symbol": "ETH",
    "heat": 1.0,
-   "kol": 3,
-   "square": 12
-  },
-  {
-   "symbol": "SOL",
-   "heat": 1.0,
-   "kol": 1,
-   "square": 6
-  },
-  {
-   "symbol": "XRP",
-   "heat": 1.0,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "ARB",
-   "heat": 1.0,
-   "kol": 1,
+   "kol": 2,
    "square": 0
   },
   {
@@ -46,33 +22,98 @@
    "square": 0
   },
   {
-   "symbol": "VVV",
-   "heat": 1.0,
+   "symbol": "ARB",
+   "heat": 0.69,
    "kol": 1,
    "square": 0
   },
   {
-   "symbol": "BNB",
-   "heat": 0.23,
-   "kol": 0,
-   "square": 2
+   "symbol": "XRP",
+   "heat": 0.38,
+   "kol": 1,
+   "square": 0
   },
   {
-   "symbol": "TRUMP",
-   "heat": 0.18,
+   "symbol": "DOGE",
+   "heat": 0.17,
    "kol": 0,
-   "square": 2
+   "square": 1
   }
  ],
+ "copytrade": {
+  "leaders": 25,
+  "signals": [
+   {
+    "symbol": "BANK",
+    "n_leaders": 2,
+    "fills": 5,
+    "latest_ts": 1784619442.0
+   },
+   {
+    "symbol": "BTC",
+    "n_leaders": 2,
+    "fills": 19,
+    "latest_ts": 1784619855.0
+   },
+   {
+    "symbol": "XMR",
+    "n_leaders": 2,
+    "fills": 2,
+    "latest_ts": 1784617140.0
+   },
+   {
+    "symbol": "ACE",
+    "n_leaders": 1,
+    "fills": 4,
+    "latest_ts": 1784619933.0
+   },
+   {
+    "symbol": "DEXE",
+    "n_leaders": 1,
+    "fills": 18,
+    "latest_ts": 1784619783.0
+   },
+   {
+    "symbol": "LAB",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784619613.0
+   },
+   {
+    "symbol": "BEL",
+    "n_leaders": 1,
+    "fills": 2,
+    "latest_ts": 1784619603.0
+   },
+   {
+    "symbol": "BLUR",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784618693.0
+   },
+   {
+    "symbol": "AGT",
+    "n_leaders": 1,
+    "fills": 3,
+    "latest_ts": 1784618693.0
+   },
+   {
+    "symbol": "TRIA",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784618693.0
+   }
+  ]
+ },
  "status": {
-  "equity": 1026.28,
+  "equity": 1027.74,
   "cash": 700.84,
   "starting": 1000.0,
-  "pnl_pct": 2.63,
-  "day_pnl_pct": 0.34,
-  "drawdown_pct": 2.15,
-  "goal_progress_pct": 1.026,
-  "gross_notional": 968.38,
+  "pnl_pct": 2.77,
+  "day_pnl_pct": 0.49,
+  "drawdown_pct": 2.01,
+  "goal_progress_pct": 1.028,
+  "gross_notional": 969.85,
   "gross_leverage": 0.94,
   "wins": 1,
   "losses": 1,
@@ -85,8 +126,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.72,
-  "btc_ret_24h": 2.75
+  "btc_ret_4h": 0.89,
+  "btc_ret_24h": 2.92
  },
  "funnel": {
   "cg_top": 249,
@@ -104,15 +145,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3975,
+   "mark": 0.398,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 422.38,
+   "notional": 422.91,
    "margin": 139.31,
-   "upnl": 4.44,
-   "r": 0.25,
+   "upnl": 4.98,
+   "r": 0.28,
    "funding_paid": -0.026,
-   "age_h": 7.0,
+   "age_h": 7.1,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -124,15 +165,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1754,
+   "mark": 0.1757,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 546.0,
+   "notional": 546.94,
    "margin": 182.16,
-   "upnl": -0.48,
-   "r": -0.03,
-   "funding_paid": 0.016,
-   "age_h": 2.4,
+   "upnl": 0.46,
+   "r": 0.03,
+   "funding_paid": 0.017,
+   "age_h": 2.5,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
