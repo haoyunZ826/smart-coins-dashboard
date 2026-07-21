@@ -1,5 +1,5 @@
 {
- "generated_at": 1784667515.077305,
+ "generated_at": 1784668155.206858,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -41,7 +41,7 @@
   },
   {
    "symbol": "SOL",
-   "heat": 0.55,
+   "heat": 0.54,
    "kol": 1,
    "square": 2
   },
@@ -70,7 +70,7 @@
    {
     "symbol": "XRP",
     "n_leaders": 1,
-    "fills": 7,
+    "fills": 5,
     "latest_ts": 1784665013.0
    },
    {
@@ -82,14 +82,14 @@
   ]
  },
  "status": {
-  "equity": 991.7,
+  "equity": 994.81,
   "cash": 469.62,
   "starting": 1000.0,
-  "pnl_pct": -0.83,
-  "day_pnl_pct": 0.12,
-  "drawdown_pct": 5.45,
-  "goal_progress_pct": 0.992,
-  "gross_notional": 1588.88,
+  "pnl_pct": -0.52,
+  "day_pnl_pct": 0.43,
+  "drawdown_pct": 5.15,
+  "goal_progress_pct": 0.995,
+  "gross_notional": 1592.0,
   "gross_leverage": 1.6,
   "wins": 1,
   "losses": 2,
@@ -102,8 +102,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.17,
-  "btc_ret_24h": 1.62
+  "btc_ret_4h": 0.2,
+  "btc_ret_24h": 1.64
  },
  "funnel": {
   "cg_top": 249,
@@ -112,7 +112,7 @@
   "mcap_pass": 116,
   "venue_pass": 50,
   "deep_scanned": 50,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -121,15 +121,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3902,
+   "mark": 0.3909,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 414.62,
+   "notional": 415.37,
    "margin": 139.31,
-   "upnl": -3.31,
-   "r": -0.19,
-   "funding_paid": -0.054,
-   "age_h": 20.2,
+   "upnl": -2.57,
+   "r": -0.14,
+   "funding_paid": -0.053,
+   "age_h": 20.4,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -141,15 +141,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1733,
+   "mark": 0.1734,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 539.47,
+   "notional": 539.78,
    "margin": 182.16,
-   "upnl": -7.01,
-   "r": -0.39,
+   "upnl": -6.7,
+   "r": -0.37,
    "funding_paid": 0.101,
-   "age_h": 15.6,
+   "age_h": 15.7,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -161,40 +161,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.08646,
+   "mark": 0.08674,
    "stop": 0.08415595349999999,
    "liq": 0.05825022315933333,
-   "notional": 634.8,
+   "notional": 636.85,
    "margin": 211.93,
-   "upnl": -1.0,
-   "r": -0.06,
-   "funding_paid": 0.041,
-   "age_h": 10.3,
+   "upnl": 1.06,
+   "r": 0.06,
+   "funding_paid": 0.042,
+   "age_h": 10.5,
    "tp_hit": 0,
    "runner": false,
    "score": 70.1,
    "reason": "LONG 5d-breakout @0.08625 ema stack 20>50>100 ext 2.6atr; volx2.2 atr1h 1.13% rs5d +2.3% fund +0.005%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "JTO",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 127,
-   "side": "long",
-   "score": 67.8,
-   "grade": "B",
-   "price": 0.6377,
-   "ret_1h": 1.43,
-   "ret_4h": 2.92,
-   "ret_24h": 3.56,
-   "vol_surge": 0.8,
-   "atr_pct": 1.81,
-   "funding": 0.005,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "VIRTUAL",
