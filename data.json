@@ -1,5 +1,5 @@
 {
- "generated_at": 1784629902.784937,
+ "generated_at": 1784630515.5062568,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -56,9 +56,15 @@
   "leaders": 25,
   "signals": [
    {
+    "symbol": "NIGHT",
+    "n_leaders": 1,
+    "fills": 2,
+    "latest_ts": 1784629613.0
+   },
+   {
     "symbol": "DEXE",
     "n_leaders": 1,
-    "fills": 20,
+    "fills": 14,
     "latest_ts": 1784628883.0
    },
    {
@@ -68,51 +74,51 @@
     "latest_ts": 1784626506.0
    },
    {
-    "symbol": "XRP",
+    "symbol": "BTC",
     "n_leaders": 1,
-    "fills": 20,
-    "latest_ts": 1784629013.0
-   },
-   {
-    "symbol": "SOL",
-    "n_leaders": 1,
-    "fills": 5,
-    "latest_ts": 1784628643.0
+    "fills": 2,
+    "latest_ts": 1784629740.0
    },
    {
     "symbol": "ZEC",
     "n_leaders": 1,
     "fills": 8,
-    "latest_ts": 1784628295.0
+    "latest_ts": 1784629373.0
    },
    {
     "symbol": "HYPE",
     "n_leaders": 1,
     "fills": 4,
-    "latest_ts": 1784627574.0
+    "latest_ts": 1784629372.0
    },
    {
-    "symbol": "BTC",
+    "symbol": "SOL",
     "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784627007.0
+    "fills": 5,
+    "latest_ts": 1784629219.0
+   },
+   {
+    "symbol": "XRP",
+    "n_leaders": 1,
+    "fills": 18,
+    "latest_ts": 1784629013.0
    }
   ]
  },
  "status": {
-  "equity": 1029.46,
-  "cash": 498.8,
+  "equity": 1022.65,
+  "cash": 286.55,
   "starting": 1000.0,
-  "pnl_pct": 2.95,
-  "day_pnl_pct": 0.65,
-  "drawdown_pct": 1.85,
-  "goal_progress_pct": 1.029,
-  "gross_notional": 1577.08,
-  "gross_leverage": 1.53,
+  "pnl_pct": 2.26,
+  "day_pnl_pct": -0.01,
+  "drawdown_pct": 2.5,
+  "goal_progress_pct": 1.023,
+  "gross_notional": 2206.38,
+  "gross_leverage": 2.16,
   "wins": 1,
   "losses": 1,
-  "trade_count": 8,
-  "fees": 1.66,
+  "trade_count": 9,
+  "fees": 1.97,
   "funding": 0.05,
   "halted": false,
   "killed": false,
@@ -120,8 +126,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.69,
-  "btc_ret_24h": 3.22
+  "btc_ret_4h": 0.65,
+  "btc_ret_24h": 3.18
  },
  "funnel": {
   "cg_top": 249,
@@ -139,15 +145,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.4004,
+   "mark": 0.3986,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 425.46,
+   "notional": 423.55,
    "margin": 139.31,
-   "upnl": 7.53,
-   "r": 0.42,
-   "funding_paid": -0.043,
-   "age_h": 9.7,
+   "upnl": 5.61,
+   "r": 0.31,
+   "funding_paid": -0.044,
+   "age_h": 9.9,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -159,15 +165,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1753,
+   "mark": 0.1749,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 545.69,
+   "notional": 544.45,
    "margin": 182.16,
-   "upnl": -0.79,
-   "r": -0.04,
-   "funding_paid": 0.035,
-   "age_h": 5.1,
+   "upnl": -2.03,
+   "r": -0.11,
+   "funding_paid": 0.036,
+   "age_h": 5.3,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -179,19 +185,39 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.67360202,
-   "mark": 0.6744,
+   "mark": 0.67,
    "stop": 0.653560295,
    "liq": 0.4531096254533334,
-   "notional": 605.92,
+   "notional": 601.97,
    "margin": 201.74,
-   "upnl": 0.72,
-   "r": 0.04,
-   "funding_paid": 0.0,
-   "age_h": 0.0,
+   "upnl": -3.24,
+   "r": -0.18,
+   "funding_paid": 0.001,
+   "age_h": 0.2,
    "tp_hit": 0,
    "runner": false,
    "score": 76.5,
    "reason": "LONG 5d-breakout @0.6638 ema stack 20>50>100 ext 2.9atr; volx2.4 atr1h 1.19% rs5d +2.5% fund +0.005%"
+  },
+  {
+   "symbol": "ENA",
+   "venue": "okx",
+   "side": "long",
+   "leverage": 3,
+   "entry": 0.086595971,
+   "mark": 0.08668,
+   "stop": 0.08415595349999999,
+   "liq": 0.05825022315933333,
+   "notional": 636.41,
+   "margin": 211.93,
+   "upnl": 0.62,
+   "r": 0.03,
+   "funding_paid": 0.0,
+   "age_h": 0.0,
+   "tp_hit": 0,
+   "runner": false,
+   "score": 70.1,
+   "reason": "LONG 5d-breakout @0.08625 ema stack 20>50>100 ext 2.6atr; volx2.2 atr1h 1.13% rs5d +2.3% fund +0.005%"
   }
  ],
  "candidates": [
@@ -199,18 +225,18 @@
    "symbol": "VIRTUAL",
    "venue": "okx",
    "tier": "mid",
-   "mcap_rank": 110,
+   "mcap_rank": 107,
    "side": "long",
-   "score": 76.5,
+   "score": 79.1,
    "grade": "A",
-   "price": 0.6734,
-   "ret_1h": 2.22,
-   "ret_4h": 2.48,
-   "ret_24h": 9.41,
-   "vol_surge": 2.38,
-   "atr_pct": 1.19,
+   "price": 0.6701,
+   "ret_1h": 1.72,
+   "ret_4h": 1.98,
+   "ret_24h": 8.87,
+   "vol_surge": 2.9,
+   "atr_pct": 1.2,
    "funding": 0.005,
-   "stop_pct": 2.98
+   "stop_pct": 0.0
   },
   {
    "symbol": "ENA",
@@ -218,19 +244,34 @@
    "tier": "mid",
    "mcap_rank": 77,
    "side": "long",
-   "score": 66.6,
-   "grade": "B",
-   "price": 0.0864,
-   "ret_1h": 0.71,
-   "ret_4h": 0.78,
-   "ret_24h": 8.49,
-   "vol_surge": 1.97,
+   "score": 70.1,
+   "grade": "A",
+   "price": 0.08657,
+   "ret_1h": 0.91,
+   "ret_4h": 0.98,
+   "ret_24h": 8.7,
+   "vol_surge": 2.24,
    "atr_pct": 1.13,
    "funding": 0.005,
-   "stop_pct": 0.0
+   "stop_pct": 2.82
   }
  ],
  "trades": [
+  {
+   "symbol": "ENA",
+   "venue": "okx",
+   "action": "open",
+   "side": "long",
+   "price": 0.086595971,
+   "qty": 7342.067040813359,
+   "notional_usd": 635.7934245463294,
+   "fee_usd": 0.31789671227316474,
+   "realized_pnl_usd": 0.0,
+   "leverage": 3,
+   "timestamp": 1784630514.4930701,
+   "mode": "paper",
+   "reason": "A 70: LONG 5d-breakout @0.08625 ema stack 20>50>100 ext 2.6atr"
+  },
   {
    "symbol": "VIRTUAL",
    "venue": "okx",
