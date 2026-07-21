@@ -1,5 +1,5 @@
 {
- "generated_at": 1784663936.989158,
+ "generated_at": 1784664537.932737,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -74,28 +74,10 @@
   "leaders": 25,
   "signals": [
    {
-    "symbol": "KAITO",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784662854.0
-   },
-   {
-    "symbol": "DEXE",
-    "n_leaders": 1,
-    "fills": 14,
-    "latest_ts": 1784662854.0
-   },
-   {
     "symbol": "XRP",
     "n_leaders": 1,
-    "fills": 13,
-    "latest_ts": 1784662678.0
-   },
-   {
-    "symbol": "BTC",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784656439.0
+    "fills": 14,
+    "latest_ts": 1784663928.0
    },
    {
     "symbol": "HYPE",
@@ -106,28 +88,28 @@
   ]
  },
  "status": {
-  "equity": 957.28,
+  "equity": 957.93,
   "cash": 455.92,
   "starting": 1000.0,
-  "pnl_pct": -4.27,
-  "day_pnl_pct": -3.04,
-  "drawdown_pct": 15.26,
-  "goal_progress_pct": 0.957,
-  "gross_notional": 2543.38,
+  "pnl_pct": -4.21,
+  "day_pnl_pct": -2.98,
+  "drawdown_pct": 15.2,
+  "goal_progress_pct": 0.958,
+  "gross_notional": 2544.03,
   "gross_leverage": 2.66,
   "wins": 4,
   "losses": 7,
   "trade_count": 29,
   "fees": 9.43,
-  "funding": 0.4,
+  "funding": 0.41,
   "halted": false,
   "killed": false,
   "loss_streak": 0
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.34,
-  "btc_ret_24h": 2.01
+  "btc_ret_4h": -0.13,
+  "btc_ret_24h": 1.66
  },
  "funnel": {
   "cg_top": 249,
@@ -136,7 +118,7 @@
   "mcap_pass": 151,
   "venue_pass": 60,
   "deep_scanned": 60,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -145,15 +127,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.63415356,
-   "mark": 0.6532,
+   "mark": 0.6551,
    "stop": 0.648295187952133,
    "liq": 0.51112776936,
-   "notional": 328.31,
+   "notional": 329.26,
    "margin": 63.75,
-   "upnl": 9.57,
-   "r": 0.98,
-   "funding_paid": 0.06,
-   "age_h": 30.4,
+   "upnl": 10.53,
+   "r": 1.08,
+   "funding_paid": 0.061,
+   "age_h": 30.6,
    "tp_hit": 0,
    "runner": false,
    "score": 59.2,
@@ -165,15 +147,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 65476.28004,
-   "mark": 66390.6,
+   "mark": 66422.3,
    "stop": 64166.7544392,
    "liq": 52773.88171224,
-   "notional": 498.49,
+   "notional": 498.73,
    "margin": 98.33,
-   "upnl": 6.87,
-   "r": 0.7,
+   "upnl": 7.1,
+   "r": 0.72,
    "funding_paid": 0.003,
-   "age_h": 28.1,
+   "age_h": 28.2,
    "tp_hit": 0,
    "runner": false,
    "score": 62.1,
@@ -185,15 +167,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 2.9471783999999995e-06,
-   "mark": 2.888e-06,
+   "mark": 2.892e-06,
    "stop": 2.856470702857142e-06,
    "liq": 2.3754257903999998e-06,
-   "notional": 313.51,
+   "notional": 313.94,
    "margin": 63.99,
-   "upnl": -6.42,
-   "r": -0.65,
+   "upnl": -5.99,
+   "r": -0.61,
    "funding_paid": 0.052,
-   "age_h": 22.3,
+   "age_h": 22.5,
    "tp_hit": 0,
    "runner": false,
    "score": 61.1,
@@ -212,8 +194,8 @@
    "margin": 97.39,
    "upnl": -3.18,
    "r": -0.17,
-   "funding_paid": -0.069,
-   "age_h": 19.2,
+   "funding_paid": -0.068,
+   "age_h": 19.4,
    "tp_hit": 0,
    "runner": false,
    "score": 74.1,
@@ -225,22 +207,40 @@
    "side": "long",
    "leverage": 5,
    "entry": 47.949172,
-   "mark": 47.13,
+   "mark": 47.08,
    "stop": 46.99018856,
    "liq": 38.647032632,
-   "notional": 919.3,
+   "notional": 918.32,
    "margin": 187.06,
-   "upnl": -15.98,
-   "r": -0.85,
-   "funding_paid": 0.05,
-   "age_h": 5.6,
+   "upnl": -16.95,
+   "r": -0.91,
+   "funding_paid": 0.052,
+   "age_h": 5.7,
    "tp_hit": 0,
    "runner": false,
    "score": 68.7,
    "reason": "LONG 5d-breakout @47.92 ema stack 20>50>100 ext 1.6atr; volx3.3 atr1h 0.64% rs5d +3.0% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "JTO",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 129,
+   "side": "long",
+   "score": 67.2,
+   "grade": "B",
+   "price": 0.6358,
+   "ret_1h": 1.13,
+   "ret_4h": 2.61,
+   "ret_24h": 3.25,
+   "vol_surge": 0.2,
+   "atr_pct": 1.78,
+   "funding": 0.005,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "LTC",
