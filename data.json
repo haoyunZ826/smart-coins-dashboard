@@ -1,5 +1,5 @@
 {
- "generated_at": 1784629302.916107,
+ "generated_at": 1784629902.784937,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -13,7 +13,7 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 3,
-   "square": 2
+   "square": 3
   },
   {
    "symbol": "CRV",
@@ -41,7 +41,7 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.32,
+   "heat": 0.31,
    "kol": 0,
    "square": 2
   },
@@ -100,19 +100,19 @@
   ]
  },
  "status": {
-  "equity": 1028.24,
-  "cash": 700.84,
+  "equity": 1029.46,
+  "cash": 498.8,
   "starting": 1000.0,
-  "pnl_pct": 2.82,
-  "day_pnl_pct": 0.53,
-  "drawdown_pct": 1.97,
-  "goal_progress_pct": 1.028,
-  "gross_notional": 970.35,
-  "gross_leverage": 0.94,
+  "pnl_pct": 2.95,
+  "day_pnl_pct": 0.65,
+  "drawdown_pct": 1.85,
+  "goal_progress_pct": 1.029,
+  "gross_notional": 1577.08,
+  "gross_leverage": 1.53,
   "wins": 1,
   "losses": 1,
-  "trade_count": 7,
-  "fees": 1.35,
+  "trade_count": 8,
+  "fees": 1.66,
   "funding": 0.05,
   "halted": false,
   "killed": false,
@@ -120,8 +120,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.66,
-  "btc_ret_24h": 3.19
+  "btc_ret_4h": 0.69,
+  "btc_ret_24h": 3.22
  },
  "funnel": {
   "cg_top": 249,
@@ -130,7 +130,7 @@
   "mcap_pass": 116,
   "venue_pass": 49,
   "deep_scanned": 49,
-  "candidates": 0
+  "candidates": 2
  },
  "positions": [
   {
@@ -139,15 +139,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.4014,
+   "mark": 0.4004,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 426.53,
+   "notional": 425.46,
    "margin": 139.31,
-   "upnl": 8.59,
-   "r": 0.48,
-   "funding_paid": -0.042,
-   "age_h": 9.6,
+   "upnl": 7.53,
+   "r": 0.42,
+   "funding_paid": -0.043,
+   "age_h": 9.7,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -159,23 +159,93 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1747,
+   "mark": 0.1753,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 543.82,
+   "notional": 545.69,
    "margin": 182.16,
-   "upnl": -2.65,
-   "r": -0.15,
-   "funding_paid": 0.034,
-   "age_h": 4.9,
+   "upnl": -0.79,
+   "r": -0.04,
+   "funding_paid": 0.035,
+   "age_h": 5.1,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
    "reason": "LONG 5d-breakout @0.1733 ema stack 20>50>100 ext 2.8atr; volx2.6 atr1h 1.32% rs5d +5.9% fund +0.010%"
+  },
+  {
+   "symbol": "VIRTUAL",
+   "venue": "okx",
+   "side": "long",
+   "leverage": 3,
+   "entry": 0.67360202,
+   "mark": 0.6744,
+   "stop": 0.653560295,
+   "liq": 0.4531096254533334,
+   "notional": 605.92,
+   "margin": 201.74,
+   "upnl": 0.72,
+   "r": 0.04,
+   "funding_paid": 0.0,
+   "age_h": 0.0,
+   "tp_hit": 0,
+   "runner": false,
+   "score": 76.5,
+   "reason": "LONG 5d-breakout @0.6638 ema stack 20>50>100 ext 2.9atr; volx2.4 atr1h 1.19% rs5d +2.5% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "VIRTUAL",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 110,
+   "side": "long",
+   "score": 76.5,
+   "grade": "A",
+   "price": 0.6734,
+   "ret_1h": 2.22,
+   "ret_4h": 2.48,
+   "ret_24h": 9.41,
+   "vol_surge": 2.38,
+   "atr_pct": 1.19,
+   "funding": 0.005,
+   "stop_pct": 2.98
+  },
+  {
+   "symbol": "ENA",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 77,
+   "side": "long",
+   "score": 66.6,
+   "grade": "B",
+   "price": 0.0864,
+   "ret_1h": 0.71,
+   "ret_4h": 0.78,
+   "ret_24h": 8.49,
+   "vol_surge": 1.97,
+   "atr_pct": 1.13,
+   "funding": 0.005,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
+  {
+   "symbol": "VIRTUAL",
+   "venue": "okx",
+   "action": "open",
+   "side": "long",
+   "price": 0.67360202,
+   "qty": 898.4631423125985,
+   "notional_usd": 605.2065875573138,
+   "fee_usd": 0.3026032937786569,
+   "realized_pnl_usd": 0.0,
+   "leverage": 3,
+   "timestamp": 1784629870.688001,
+   "mode": "paper",
+   "reason": "A 76: LONG 5d-breakout @0.6638 ema stack 20>50>100 ext 2.9atr"
+  },
   {
    "symbol": "ADA",
    "venue": "okx",
