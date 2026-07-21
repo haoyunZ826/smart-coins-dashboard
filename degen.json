@@ -1,5 +1,5 @@
 {
- "generated_at": 1784659985.844932,
+ "generated_at": 1784660593.527474,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -80,87 +80,63 @@
   "leaders": 25,
   "signals": [
    {
+    "symbol": "KAITO",
+    "n_leaders": 1,
+    "fills": 2,
+    "latest_ts": 1784660154.0
+   },
+   {
     "symbol": "DEXE",
     "n_leaders": 1,
-    "fills": 8,
+    "fills": 4,
     "latest_ts": 1784659164.0
    },
    {
     "symbol": "LIT",
     "n_leaders": 1,
-    "fills": 4,
-    "latest_ts": 1784658744.0
-   },
-   {
-    "symbol": "KAITO",
-    "n_leaders": 1,
     "fills": 1,
-    "latest_ts": 1784656304.0
+    "latest_ts": 1784658744.0
    },
    {
     "symbol": "ZRO",
     "n_leaders": 1,
     "fills": 1,
     "latest_ts": 1784656029.0
-   },
-   {
-    "symbol": "AERO",
-    "n_leaders": 1,
-    "fills": 2,
-    "latest_ts": 1784656028.0
-   },
-   {
-    "symbol": "HYPE",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784656203.0
-   },
-   {
-    "symbol": "ZEC",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784654634.0
-   },
-   {
-    "symbol": "BTC",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784656439.0
    }
   ]
  },
  "status": {
-  "equity": 970.74,
+  "equity": 968.11,
   "cash": 455.94,
   "starting": 1000.0,
-  "pnl_pct": -2.93,
-  "day_pnl_pct": -1.68,
-  "drawdown_pct": 14.07,
-  "goal_progress_pct": 0.971,
-  "gross_notional": 2556.81,
-  "gross_leverage": 2.63,
+  "pnl_pct": -3.19,
+  "day_pnl_pct": -1.95,
+  "drawdown_pct": 14.3,
+  "goal_progress_pct": 0.968,
+  "gross_notional": 2554.18,
+  "gross_leverage": 2.64,
   "wins": 4,
   "losses": 7,
   "trade_count": 29,
   "fees": 9.43,
-  "funding": 0.38,
+  "funding": 0.39,
   "halted": false,
   "killed": false,
   "loss_streak": 0
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.74,
-  "btc_ret_24h": 1.69
+  "btc_ret_4h": -0.52,
+  "btc_ret_24h": 1.83
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 840,
-  "mcap_pass": 152,
+  "mcap_pass": 151,
   "venue_pass": 61,
   "deep_scanned": 61,
-  "candidates": 2
+  "candidates": 0
  },
  "positions": [
   {
@@ -169,15 +145,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.63415356,
-   "mark": 0.6669,
+   "mark": 0.6658,
    "stop": 0.648295187952133,
    "liq": 0.51112776936,
-   "notional": 335.2,
+   "notional": 334.64,
    "margin": 63.75,
-   "upnl": 16.46,
-   "r": 1.69,
+   "upnl": 15.91,
+   "r": 1.63,
    "funding_paid": 0.058,
-   "age_h": 29.3,
+   "age_h": 29.5,
    "tp_hit": 0,
    "runner": false,
    "score": 59.2,
@@ -189,15 +165,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 65476.28004,
-   "mark": 66306.3,
+   "mark": 66294.6,
    "stop": 64166.7544392,
    "liq": 52773.88171224,
-   "notional": 497.86,
+   "notional": 497.77,
    "margin": 98.33,
-   "upnl": 6.23,
-   "r": 0.63,
+   "upnl": 6.14,
+   "r": 0.62,
    "funding_paid": 0.001,
-   "age_h": 27.0,
+   "age_h": 27.1,
    "tp_hit": 0,
    "runner": false,
    "score": 62.1,
@@ -217,7 +193,7 @@
    "upnl": -6.64,
    "r": -0.67,
    "funding_paid": 0.054,
-   "age_h": 21.2,
+   "age_h": 21.4,
    "tp_hit": 0,
    "runner": false,
    "score": 61.1,
@@ -229,15 +205,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.39205676,
-   "mark": 0.392,
+   "mark": 0.3904,
    "stop": 0.37723226114285713,
    "liq": 0.31599774856,
-   "notional": 486.87,
+   "notional": 484.88,
    "margin": 97.39,
-   "upnl": -0.07,
-   "r": -0.0,
-   "funding_paid": -0.075,
-   "age_h": 18.1,
+   "upnl": -2.06,
+   "r": -0.11,
+   "funding_paid": -0.074,
+   "age_h": 18.3,
    "tp_hit": 0,
    "runner": false,
    "score": 74.1,
@@ -256,50 +232,15 @@
    "margin": 187.06,
    "upnl": -11.69,
    "r": -0.62,
-   "funding_paid": 0.038,
-   "age_h": 4.5,
+   "funding_paid": 0.04,
+   "age_h": 4.6,
    "tp_hit": 0,
    "runner": false,
    "score": 68.7,
    "reason": "LONG 5d-breakout @47.92 ema stack 20>50>100 ext 1.6atr; volx3.3 atr1h 0.64% rs5d +3.0% fund +0.005%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "HBAR",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 30,
-   "side": "long",
-   "score": 66.7,
-   "grade": "B",
-   "price": 0.06912,
-   "ret_1h": 0.61,
-   "ret_4h": 1.16,
-   "ret_24h": 3.86,
-   "vol_surge": 0.85,
-   "atr_pct": 0.66,
-   "funding": -0.0091,
-   "stop_pct": 0.0
-  },
-  {
-   "symbol": "JTO",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 128,
-   "side": "long",
-   "score": 64.2,
-   "grade": "B",
-   "price": 0.6337,
-   "ret_1h": 1.55,
-   "ret_4h": 1.0,
-   "ret_24h": 3.61,
-   "vol_surge": 0.88,
-   "atr_pct": 1.74,
-   "funding": 0.005,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "LTC",
