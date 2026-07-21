@@ -1,5 +1,5 @@
 {
- "generated_at": 1784616200.745932,
+ "generated_at": 1784616818.196428,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,19 +7,19 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 6,
-   "square": 10
+   "square": 9
   },
   {
    "symbol": "DOGE",
    "heat": 1.0,
    "kol": 0,
-   "square": 9
+   "square": 8
   },
   {
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 3,
-   "square": 10
+   "square": 9
   },
   {
    "symbol": "BONK",
@@ -58,28 +58,28 @@
    "square": 0
   },
   {
-   "symbol": "TRUMP",
-   "heat": 0.27,
-   "kol": 0,
-   "square": 3
-  },
-  {
    "symbol": "BNB",
    "heat": 0.24,
+   "kol": 0,
+   "square": 2
+  },
+  {
+   "symbol": "TRUMP",
+   "heat": 0.19,
    "kol": 0,
    "square": 2
   }
  ],
  "status": {
-  "equity": 996.65,
+  "equity": 990.94,
   "cash": 557.92,
   "starting": 1000.0,
-  "pnl_pct": -0.34,
-  "day_pnl_pct": 0.94,
-  "drawdown_pct": 11.77,
-  "goal_progress_pct": 0.997,
-  "gross_notional": 2062.66,
-  "gross_leverage": 2.07,
+  "pnl_pct": -0.91,
+  "day_pnl_pct": 0.37,
+  "drawdown_pct": 12.28,
+  "goal_progress_pct": 0.991,
+  "gross_notional": 2056.96,
+  "gross_leverage": 2.08,
   "wins": 3,
   "losses": 7,
   "trade_count": 27,
@@ -91,8 +91,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.77,
-  "btc_ret_24h": 3.13
+  "btc_ret_4h": 0.74,
+  "btc_ret_24h": 3.1
  },
  "funnel": {
   "cg_top": 249,
@@ -101,7 +101,7 @@
   "mcap_pass": 153,
   "venue_pass": 58,
   "deep_scanned": 58,
-  "candidates": 2
+  "candidates": 0
  },
  "positions": [
   {
@@ -110,15 +110,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 5.2400952,
-   "mark": 5.353,
+   "mark": 5.339,
    "stop": 5.287895107183768,
    "liq": 4.2235167312,
-   "notional": 421.57,
+   "notional": 420.47,
    "margin": 82.54,
-   "upnl": 8.89,
-   "r": 0.92,
+   "upnl": 7.79,
+   "r": 0.81,
    "funding_paid": -0.009,
-   "age_h": 21.1,
+   "age_h": 21.2,
    "tp_hit": 0,
    "runner": false,
    "score": 58.2,
@@ -130,15 +130,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.63415356,
-   "mark": 0.6585,
+   "mark": 0.6571,
    "stop": 0.6310263978094787,
    "liq": 0.51112776936,
-   "notional": 330.97,
+   "notional": 330.27,
    "margin": 63.75,
-   "upnl": 12.24,
-   "r": 1.25,
+   "upnl": 11.53,
+   "r": 1.18,
    "funding_paid": 0.034,
-   "age_h": 17.2,
+   "age_h": 17.3,
    "tp_hit": 0,
    "runner": false,
    "score": 59.2,
@@ -150,15 +150,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 65476.28004,
-   "mark": 65918.5,
+   "mark": 65866.7,
    "stop": 64166.7544392,
    "liq": 52773.88171224,
-   "notional": 494.95,
+   "notional": 494.56,
    "margin": 98.33,
-   "upnl": 3.32,
-   "r": 0.34,
+   "upnl": 2.93,
+   "r": 0.3,
    "funding_paid": 0.013,
-   "age_h": 14.8,
+   "age_h": 15.0,
    "tp_hit": 0,
    "runner": false,
    "score": 62.1,
@@ -170,15 +170,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 2.9471783999999995e-06,
-   "mark": 2.927e-06,
+   "mark": 2.921e-06,
    "stop": 2.856470702857142e-06,
    "liq": 2.3754257903999998e-06,
-   "notional": 317.74,
+   "notional": 317.09,
    "margin": 63.99,
-   "upnl": -2.19,
-   "r": -0.22,
+   "upnl": -2.84,
+   "r": -0.29,
    "funding_paid": 0.035,
-   "age_h": 9.0,
+   "age_h": 9.2,
    "tp_hit": 0,
    "runner": false,
    "score": 61.1,
@@ -190,57 +190,22 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.39205676,
-   "mark": 0.4005,
+   "mark": 0.3982,
    "stop": 0.37723226114285713,
    "liq": 0.31599774856,
-   "notional": 497.43,
+   "notional": 494.57,
    "margin": 97.39,
-   "upnl": 10.49,
-   "r": 0.57,
-   "funding_paid": -0.021,
-   "age_h": 6.0,
+   "upnl": 7.63,
+   "r": 0.41,
+   "funding_paid": -0.022,
+   "age_h": 6.2,
    "tp_hit": 0,
    "runner": false,
    "score": 74.1,
    "reason": "LONG 5d-breakout @0.3887 ema stack 20>50>100 ext 3.1atr; volx2.8 atr1h 1.72% rs5d +7.5% fund +0.007%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "SOL",
-   "venue": "okx",
-   "tier": "large",
-   "mcap_rank": 7,
-   "side": "long",
-   "score": 65.8,
-   "grade": "B",
-   "price": 78.72,
-   "ret_1h": 0.4,
-   "ret_4h": 0.94,
-   "ret_24h": 4.15,
-   "vol_surge": 0.58,
-   "atr_pct": 0.66,
-   "funding": 0.0089,
-   "stop_pct": 0.0
-  },
-  {
-   "symbol": "ETH",
-   "venue": "okx",
-   "tier": "large",
-   "mcap_rank": 2,
-   "side": "long",
-   "score": 63.4,
-   "grade": "B",
-   "price": 1937.45,
-   "ret_1h": 0.41,
-   "ret_4h": 1.1,
-   "ret_24h": 4.81,
-   "vol_surge": 0.88,
-   "atr_pct": 0.68,
-   "funding": -0.0045,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "LDO",
