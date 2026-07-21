@@ -1,5 +1,5 @@
 {
- "generated_at": 1784594874.457356,
+ "generated_at": 1784595476.22321,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -47,26 +47,26 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.41,
+   "heat": 0.4,
    "kol": 0,
    "square": 3
   },
   {
    "symbol": "BNB",
-   "heat": 0.14,
+   "heat": 0.13,
    "kol": 0,
    "square": 1
   }
  ],
  "status": {
-  "equity": 1022.87,
+  "equity": 1023.4,
   "cash": 883.26,
   "starting": 1000.0,
-  "pnl_pct": 2.29,
-  "day_pnl_pct": 0.01,
-  "drawdown_pct": 2.48,
+  "pnl_pct": 2.34,
+  "day_pnl_pct": 0.06,
+  "drawdown_pct": 2.43,
   "goal_progress_pct": 1.023,
-  "gross_notional": 418.24,
+  "gross_notional": 418.77,
   "gross_leverage": 0.41,
   "wins": 1,
   "losses": 1,
@@ -79,8 +79,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.21,
-  "btc_ret_24h": 1.47
+  "btc_ret_4h": 0.24,
+  "btc_ret_24h": 1.49
  },
  "funnel": {
   "cg_top": 249,
@@ -98,15 +98,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3936,
+   "mark": 0.3941,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 418.24,
+   "notional": 418.77,
    "margin": 139.31,
-   "upnl": 0.3,
-   "r": 0.02,
-   "funding_paid": 0.0,
-   "age_h": 0.0,
+   "upnl": 0.83,
+   "r": 0.05,
+   "funding_paid": 0.001,
+   "age_h": 0.2,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -120,16 +120,16 @@
    "tier": "mid",
    "mcap_rank": 125,
    "side": "long",
-   "score": 73.0,
+   "score": 73.1,
    "grade": "A",
-   "price": 0.3932,
-   "ret_1h": 2.82,
-   "ret_4h": 3.42,
-   "ret_24h": 11.04,
-   "vol_surge": 3.01,
+   "price": 0.3933,
+   "ret_1h": 2.85,
+   "ret_4h": 3.45,
+   "ret_24h": 11.07,
+   "vol_surge": 3.46,
    "atr_pct": 1.71,
-   "funding": 0.0074,
-   "stop_pct": 4.28
+   "funding": 0.0078,
+   "stop_pct": 0.0
   }
  ],
  "trades": [
