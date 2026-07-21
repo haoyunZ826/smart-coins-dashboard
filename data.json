@@ -1,5 +1,5 @@
 {
- "generated_at": 1784613311.633162,
+ "generated_at": 1784613913.152071,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,14 +59,14 @@
   }
  ],
  "status": {
-  "equity": 1031.43,
+  "equity": 1033.33,
   "cash": 700.84,
   "starting": 1000.0,
-  "pnl_pct": 3.14,
-  "day_pnl_pct": 0.84,
-  "drawdown_pct": 1.66,
-  "goal_progress_pct": 1.031,
-  "gross_notional": 973.53,
+  "pnl_pct": 3.33,
+  "day_pnl_pct": 1.03,
+  "drawdown_pct": 1.48,
+  "goal_progress_pct": 1.033,
+  "gross_notional": 975.44,
   "gross_leverage": 0.94,
   "wins": 1,
   "losses": 1,
@@ -79,8 +79,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.83,
-  "btc_ret_24h": 2.57
+  "btc_ret_4h": 0.52,
+  "btc_ret_24h": 2.88
  },
  "funnel": {
   "cg_top": 249,
@@ -89,7 +89,7 @@
   "mcap_pass": 116,
   "venue_pass": 48,
   "deep_scanned": 48,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -98,15 +98,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.4,
+   "mark": 0.4015,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 425.04,
+   "notional": 426.63,
    "margin": 139.31,
-   "upnl": 7.1,
-   "r": 0.4,
-   "funding_paid": -0.012,
-   "age_h": 5.1,
+   "upnl": 8.69,
+   "r": 0.49,
+   "funding_paid": -0.014,
+   "age_h": 5.3,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -118,40 +118,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1762,
+   "mark": 0.1763,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 548.49,
+   "notional": 548.8,
    "margin": 182.16,
-   "upnl": 2.02,
-   "r": 0.11,
-   "funding_paid": 0.003,
-   "age_h": 0.5,
+   "upnl": 2.33,
+   "r": 0.13,
+   "funding_paid": 0.005,
+   "age_h": 0.7,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
    "reason": "LONG 5d-breakout @0.1733 ema stack 20>50>100 ext 2.8atr; volx2.6 atr1h 1.32% rs5d +5.9% fund +0.010%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "ADA",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 17,
-   "side": "long",
-   "score": 75.8,
-   "grade": "A",
-   "price": 0.1765,
-   "ret_1h": 2.56,
-   "ret_4h": 3.82,
-   "ret_24h": 8.95,
-   "vol_surge": 4.11,
-   "atr_pct": 1.38,
-   "funding": 0.01,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "ADA",
