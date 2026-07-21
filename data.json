@@ -1,5 +1,5 @@
 {
- "generated_at": 1784620447.371451,
+ "generated_at": 1784621047.923129,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -12,12 +12,18 @@
   {
    "symbol": "ETH",
    "heat": 1.0,
-   "kol": 2,
+   "kol": 3,
    "square": 0
   },
   {
    "symbol": "CRV",
    "heat": 1.0,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "VVV",
+   "heat": 0.71,
    "kol": 1,
    "square": 0
   },
@@ -29,7 +35,7 @@
   },
   {
    "symbol": "XRP",
-   "heat": 0.38,
+   "heat": 0.37,
    "kol": 1,
    "square": 0
   },
@@ -44,76 +50,58 @@
   "leaders": 25,
   "signals": [
    {
-    "symbol": "BANK",
-    "n_leaders": 2,
-    "fills": 5,
-    "latest_ts": 1784619442.0
-   },
-   {
     "symbol": "BTC",
     "n_leaders": 2,
     "fills": 19,
     "latest_ts": 1784619855.0
    },
    {
-    "symbol": "XMR",
-    "n_leaders": 2,
-    "fills": 2,
-    "latest_ts": 1784617140.0
-   },
-   {
-    "symbol": "ACE",
-    "n_leaders": 1,
-    "fills": 4,
-    "latest_ts": 1784619933.0
-   },
-   {
-    "symbol": "DEXE",
-    "n_leaders": 1,
-    "fills": 18,
-    "latest_ts": 1784619783.0
-   },
-   {
-    "symbol": "LAB",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784619613.0
-   },
-   {
-    "symbol": "BEL",
+    "symbol": "VVV",
     "n_leaders": 1,
     "fills": 2,
-    "latest_ts": 1784619603.0
+    "latest_ts": 1784620493.0
    },
    {
-    "symbol": "BLUR",
+    "symbol": "XRP",
     "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784618693.0
+    "fills": 14,
+    "latest_ts": 1784620174.0
    },
    {
-    "symbol": "AGT",
+    "symbol": "ZEC",
+    "n_leaders": 1,
+    "fills": 2,
+    "latest_ts": 1784619808.0
+   },
+   {
+    "symbol": "HYPE",
     "n_leaders": 1,
     "fills": 3,
-    "latest_ts": 1784618693.0
+    "latest_ts": 1784618391.0
    },
    {
-    "symbol": "TRIA",
+    "symbol": "SOL",
     "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784618693.0
+    "fills": 6,
+    "latest_ts": 1784618214.0
+   },
+   {
+    "symbol": "ETH",
+    "n_leaders": 1,
+    "fills": 6,
+    "latest_ts": 1784616762.0
    }
   ]
  },
  "status": {
-  "equity": 1027.74,
+  "equity": 1028.58,
   "cash": 700.84,
   "starting": 1000.0,
-  "pnl_pct": 2.77,
-  "day_pnl_pct": 0.49,
-  "drawdown_pct": 2.01,
-  "goal_progress_pct": 1.028,
-  "gross_notional": 969.85,
+  "pnl_pct": 2.86,
+  "day_pnl_pct": 0.57,
+  "drawdown_pct": 1.94,
+  "goal_progress_pct": 1.029,
+  "gross_notional": 970.68,
   "gross_leverage": 0.94,
   "wins": 1,
   "losses": 1,
@@ -126,8 +114,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.89,
-  "btc_ret_24h": 2.92
+  "btc_ret_4h": 0.97,
+  "btc_ret_24h": 3.0
  },
  "funnel": {
   "cg_top": 249,
@@ -136,7 +124,7 @@
   "mcap_pass": 116,
   "venue_pass": 49,
   "deep_scanned": 49,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -145,15 +133,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.398,
+   "mark": 0.3982,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 422.91,
+   "notional": 423.13,
    "margin": 139.31,
-   "upnl": 4.98,
-   "r": 0.28,
-   "funding_paid": -0.026,
-   "age_h": 7.1,
+   "upnl": 5.19,
+   "r": 0.29,
+   "funding_paid": -0.028,
+   "age_h": 7.3,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -165,22 +153,40 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1757,
+   "mark": 0.1759,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 546.94,
+   "notional": 547.56,
    "margin": 182.16,
-   "upnl": 0.46,
-   "r": 0.03,
-   "funding_paid": 0.017,
-   "age_h": 2.5,
+   "upnl": 1.08,
+   "r": 0.06,
+   "funding_paid": 0.018,
+   "age_h": 2.6,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
    "reason": "LONG 5d-breakout @0.1733 ema stack 20>50>100 ext 2.8atr; volx2.6 atr1h 1.32% rs5d +5.9% fund +0.010%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "BTC",
+   "venue": "okx",
+   "tier": "large",
+   "mcap_rank": 1,
+   "side": "long",
+   "score": 66.0,
+   "grade": "B",
+   "price": 66166.4,
+   "ret_1h": 0.42,
+   "ret_4h": 0.96,
+   "ret_24h": 2.99,
+   "vol_surge": 1.38,
+   "atr_pct": 0.51,
+   "funding": 0.0017,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "ADA",
