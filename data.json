@@ -1,5 +1,5 @@
 {
- "generated_at": 1784716980.8245142,
+ "generated_at": 1784717575.408264,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -23,19 +23,19 @@
   },
   {
    "symbol": "XRP",
-   "heat": 0.95,
+   "heat": 0.94,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "HBAR",
-   "heat": 0.95,
+   "heat": 0.94,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "NIGHT",
-   "heat": 0.54,
+   "heat": 0.53,
    "kol": 0,
    "square": 4
   },
@@ -56,16 +56,16 @@
   "leaders": 25,
   "signals": [
    {
-    "symbol": "HYPE",
-    "n_leaders": 1,
-    "fills": 2,
-    "latest_ts": 1784716319.0
-   },
-   {
     "symbol": "SOL",
     "n_leaders": 1,
-    "fills": 9,
-    "latest_ts": 1784716150.0
+    "fills": 10,
+    "latest_ts": 1784716642.0
+   },
+   {
+    "symbol": "HYPE",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784716319.0
    },
    {
     "symbol": "ETH",
@@ -82,15 +82,15 @@
   ]
  },
  "status": {
-  "equity": 1009.21,
+  "equity": 1011.39,
   "cash": 235.65,
   "starting": 1000.0,
-  "pnl_pct": 0.92,
-  "day_pnl_pct": 1.89,
-  "drawdown_pct": 3.78,
-  "goal_progress_pct": 1.009,
-  "gross_notional": 2307.28,
-  "gross_leverage": 2.29,
+  "pnl_pct": 1.14,
+  "day_pnl_pct": 2.11,
+  "drawdown_pct": 3.57,
+  "goal_progress_pct": 1.011,
+  "gross_notional": 2309.46,
+  "gross_leverage": 2.28,
   "wins": 1,
   "losses": 2,
   "trade_count": 11,
@@ -102,8 +102,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.08,
-  "btc_ret_24h": -0.31
+  "btc_ret_4h": 0.23,
+  "btc_ret_24h": -0.15
  },
  "funnel": {
   "cg_top": 249,
@@ -112,7 +112,7 @@
   "mcap_pass": 115,
   "venue_pass": 51,
   "deep_scanned": 51,
-  "candidates": 1
+  "candidates": 2
  },
  "positions": [
   {
@@ -121,15 +121,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3948,
+   "mark": 0.3947,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 419.51,
+   "notional": 419.41,
    "margin": 139.31,
-   "upnl": 1.57,
-   "r": 0.09,
-   "funding_paid": 0.018,
-   "age_h": 33.9,
+   "upnl": 1.47,
+   "r": 0.08,
+   "funding_paid": 0.019,
+   "age_h": 34.1,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -148,8 +148,8 @@
    "margin": 182.16,
    "upnl": -6.7,
    "r": -0.37,
-   "funding_paid": 0.128,
-   "age_h": 29.3,
+   "funding_paid": 0.129,
+   "age_h": 29.5,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -161,15 +161,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.08802,
+   "mark": 0.08821,
    "stop": 0.08415595349999999,
    "liq": 0.05825022315933333,
-   "notional": 646.25,
+   "notional": 647.64,
    "margin": 211.93,
-   "upnl": 10.46,
-   "r": 0.58,
-   "funding_paid": 0.095,
-   "age_h": 24.0,
+   "upnl": 11.85,
+   "r": 0.66,
+   "funding_paid": 0.096,
+   "age_h": 24.2,
    "tp_hit": 0,
    "runner": false,
    "score": 70.1,
@@ -181,15 +181,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.070991291,
-   "mark": 0.07113,
+   "mark": 0.07122,
    "stop": 0.069216508725,
    "liq": 0.047753475079333335,
-   "notional": 701.75,
+   "notional": 702.63,
    "margin": 233.46,
-   "upnl": 1.37,
-   "r": 0.08,
-   "funding_paid": 0.008,
-   "age_h": 2.2,
+   "upnl": 2.26,
+   "r": 0.13,
+   "funding_paid": 0.009,
+   "age_h": 2.3,
    "tp_hit": 0,
    "runner": false,
    "score": 71.4,
@@ -203,15 +203,32 @@
    "tier": "mid",
    "mcap_rank": 39,
    "side": "long",
-   "score": 80.2,
+   "score": 80.8,
    "grade": "S",
-   "price": 3.773,
-   "ret_1h": 1.56,
-   "ret_4h": 2.17,
-   "ret_24h": 2.19,
-   "vol_surge": 3.48,
+   "price": 3.786,
+   "ret_1h": 1.91,
+   "ret_4h": 2.52,
+   "ret_24h": 2.55,
+   "vol_surge": 3.93,
    "atr_pct": 1.02,
    "funding": 0.01,
+   "stop_pct": 0.0
+  },
+  {
+   "symbol": "ONDO",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 41,
+   "side": "long",
+   "score": 75.0,
+   "grade": "A",
+   "price": 0.4117,
+   "ret_1h": 1.75,
+   "ret_4h": 3.76,
+   "ret_24h": 2.31,
+   "vol_surge": 2.17,
+   "atr_pct": 1.55,
+   "funding": 0.005,
    "stop_pct": 0.0
   }
  ],
