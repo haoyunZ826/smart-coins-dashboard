@@ -1,5 +1,5 @@
 {
- "generated_at": 1784747697.273199,
+ "generated_at": 1784748302.319341,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,21 +17,15 @@
   },
   {
    "symbol": "SUI",
-   "heat": 0.83,
+   "heat": 0.99,
    "kol": 0,
-   "square": 6
+   "square": 7
   },
   {
    "symbol": "SOL",
-   "heat": 0.4,
+   "heat": 0.39,
    "kol": 0,
    "square": 3
-  },
-  {
-   "symbol": "NIGHT",
-   "heat": 0.08,
-   "kol": 0,
-   "square": 1
   }
  ],
  "copytrade": {
@@ -40,27 +34,27 @@
    {
     "symbol": "HYPE",
     "n_leaders": 1,
-    "fills": 12,
-    "latest_ts": 1784747256.0
+    "fills": 11,
+    "latest_ts": 1784747622.0
    },
    {
     "symbol": "ZEC",
     "n_leaders": 1,
-    "fills": 3,
+    "fills": 2,
     "latest_ts": 1784747095.0
    }
   ]
  },
  "status": {
-  "equity": 1045.63,
+  "equity": 1051.9,
   "cash": 473.83,
   "starting": 1000.0,
-  "pnl_pct": 4.56,
-  "day_pnl_pct": 5.56,
-  "drawdown_pct": 4.26,
-  "goal_progress_pct": 1.046,
-  "gross_notional": 1638.61,
-  "gross_leverage": 1.57,
+  "pnl_pct": 5.19,
+  "day_pnl_pct": 6.2,
+  "drawdown_pct": 3.68,
+  "goal_progress_pct": 1.052,
+  "gross_notional": 1644.88,
+  "gross_leverage": 1.56,
   "wins": 2,
   "losses": 2,
   "trade_count": 12,
@@ -72,17 +66,17 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.37,
-  "btc_ret_24h": -0.98
+  "btc_ret_4h": -0.32,
+  "btc_ret_24h": -0.93
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 848,
   "mcap_pass": 115,
-  "venue_pass": 52,
-  "deep_scanned": 52,
-  "candidates": 0
+  "venue_pass": 51,
+  "deep_scanned": 51,
+  "candidates": 1
  },
  "positions": [
   {
@@ -91,15 +85,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3981,
+   "mark": 0.4002,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 423.02,
+   "notional": 425.25,
    "margin": 139.31,
-   "upnl": 5.08,
-   "r": 0.28,
-   "funding_paid": 0.03,
-   "age_h": 42.5,
+   "upnl": 7.31,
+   "r": 0.41,
+   "funding_paid": 0.029,
+   "age_h": 42.6,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -111,15 +105,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1741,
+   "mark": 0.1745,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 541.96,
+   "notional": 543.2,
    "margin": 182.16,
-   "upnl": -4.52,
-   "r": -0.25,
-   "funding_paid": 0.186,
-   "age_h": 37.8,
+   "upnl": -3.28,
+   "r": -0.18,
+   "funding_paid": 0.187,
+   "age_h": 38.0,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -131,22 +125,40 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.09175,
-   "stop": 0.08876489867819601,
+   "mark": 0.09213,
+   "stop": 0.08919841511411081,
    "liq": 0.05825022315933333,
-   "notional": 673.63,
+   "notional": 676.42,
    "margin": 211.93,
-   "upnl": 37.84,
-   "r": 2.11,
-   "funding_paid": 0.129,
-   "age_h": 32.6,
+   "upnl": 40.63,
+   "r": 2.27,
+   "funding_paid": 0.13,
+   "age_h": 32.7,
    "tp_hit": 0,
    "runner": false,
    "score": 70.1,
    "reason": "LONG 5d-breakout @0.08625 ema stack 20>50>100 ext 2.6atr; volx2.2 atr1h 1.13% rs5d +2.3% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "ENA",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 71,
+   "side": "long",
+   "score": 68.6,
+   "grade": "B",
+   "price": 0.09253,
+   "ret_1h": 1.03,
+   "ret_4h": 3.65,
+   "ret_24h": 7.38,
+   "vol_surge": 0.69,
+   "atr_pct": 1.55,
+   "funding": 0.005,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "HBAR",
