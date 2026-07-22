@@ -1,5 +1,5 @@
 {
- "generated_at": 1784721226.60915,
+ "generated_at": 1784721834.92751,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,13 +7,13 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 8
+   "square": 9
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 5,
-   "square": 8
+   "square": 9
   },
   {
    "symbol": "CRV",
@@ -29,19 +29,19 @@
   },
   {
    "symbol": "XRP",
-   "heat": 0.65,
+   "heat": 0.64,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "HBAR",
-   "heat": 0.65,
+   "heat": 0.64,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "BONK",
-   "heat": 0.58,
+   "heat": 0.57,
    "kol": 1,
    "square": 0
   },
@@ -53,7 +53,19 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.15,
+   "heat": 0.32,
+   "kol": 0,
+   "square": 2
+  },
+  {
+   "symbol": "SUI",
+   "heat": 0.17,
+   "kol": 0,
+   "square": 1
+  },
+  {
+   "symbol": "SOL",
+   "heat": 0.17,
    "kol": 0,
    "square": 1
   },
@@ -66,17 +78,36 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": []
+  "signals": [
+   {
+    "symbol": "ONDO",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784721446.0
+   },
+   {
+    "symbol": "KAITO",
+    "n_leaders": 1,
+    "fills": 3,
+    "latest_ts": 1784721435.0
+   },
+   {
+    "symbol": "DEXE",
+    "n_leaders": 1,
+    "fills": 4,
+    "latest_ts": 1784721385.0
+   }
+  ]
  },
  "status": {
-  "equity": 967.78,
+  "equity": 967.07,
   "cash": 642.76,
   "starting": 1000.0,
-  "pnl_pct": -3.22,
-  "day_pnl_pct": 1.34,
-  "drawdown_pct": 14.33,
-  "goal_progress_pct": 0.968,
-  "gross_notional": 1524.98,
+  "pnl_pct": -3.29,
+  "day_pnl_pct": 1.26,
+  "drawdown_pct": 14.39,
+  "goal_progress_pct": 0.967,
+  "gross_notional": 1524.27,
   "gross_leverage": 1.58,
   "wins": 5,
   "losses": 9,
@@ -89,8 +120,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.34,
-  "btc_ret_24h": -0.43
+  "btc_ret_4h": 0.27,
+  "btc_ret_24h": -0.5
  },
  "funnel": {
   "cg_top": 249,
@@ -108,15 +139,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 65476.28004,
-   "mark": 66003.1,
+   "mark": 65935.9,
    "stop": 64166.7544392,
    "liq": 52773.88171224,
-   "notional": 495.58,
+   "notional": 495.08,
    "margin": 98.33,
-   "upnl": 3.96,
-   "r": 0.4,
+   "upnl": 3.45,
+   "r": 0.35,
    "funding_paid": 0.032,
-   "age_h": 44.0,
+   "age_h": 44.2,
    "tp_hit": 0,
    "runner": false,
    "score": 62.1,
@@ -128,15 +159,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.39205676,
-   "mark": 0.3955,
+   "mark": 0.3954,
    "stop": 0.37723226114285713,
    "liq": 0.31599774856,
-   "notional": 491.22,
+   "notional": 491.09,
    "margin": 97.39,
-   "upnl": 4.28,
+   "upnl": 4.15,
    "r": 0.23,
-   "funding_paid": 0.028,
-   "age_h": 35.2,
+   "funding_paid": 0.029,
+   "age_h": 35.3,
    "tp_hit": 0,
    "runner": false,
    "score": 74.1,
@@ -148,15 +179,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.6378550399999999,
-   "mark": 0.6277,
+   "mark": 0.6281,
    "stop": 0.6124505965714285,
    "liq": 0.51411116224,
-   "notional": 117.57,
+   "notional": 117.64,
    "margin": 23.89,
-   "upnl": -1.9,
-   "r": -0.4,
+   "upnl": -1.83,
+   "r": -0.38,
    "funding_paid": 0.012,
-   "age_h": 15.5,
+   "age_h": 15.7,
    "tp_hit": 0,
    "runner": false,
    "score": 68.0,
@@ -168,15 +199,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 96.73868,
-   "mark": 96.08,
+   "mark": 95.91,
    "stop": 94.702866,
    "liq": 77.97137608000001,
-   "notional": 224.08,
+   "notional": 223.69,
    "margin": 45.12,
-   "upnl": -1.54,
-   "r": -0.32,
-   "funding_paid": 0.003,
-   "age_h": 10.1,
+   "upnl": -1.93,
+   "r": -0.41,
+   "funding_paid": 0.002,
+   "age_h": 10.2,
    "tp_hit": 0,
    "runner": false,
    "score": 63.3,
@@ -188,15 +219,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.109923952,
-   "mark": 0.12254,
+   "mark": 0.12269,
    "stop": 0.11404771080139373,
    "liq": 0.08859870531200001,
-   "notional": 196.53,
+   "notional": 196.77,
    "margin": 35.26,
-   "upnl": 20.23,
-   "r": 2.3,
-   "funding_paid": 0.011,
-   "age_h": 4.0,
+   "upnl": 20.47,
+   "r": 2.33,
+   "funding_paid": 0.012,
+   "age_h": 4.2,
    "tp_hit": 0,
    "runner": false,
    "score": 73.9,
