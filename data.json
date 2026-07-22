@@ -1,5 +1,5 @@
 {
- "generated_at": 1784752503.816488,
+ "generated_at": 1784753100.200324,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -30,17 +30,24 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": []
+  "signals": [
+   {
+    "symbol": "HYPE",
+    "n_leaders": 1,
+    "fills": 8,
+    "latest_ts": 1784752314.0
+   }
+  ]
  },
  "status": {
-  "equity": 1049.35,
+  "equity": 1048.85,
   "cash": 473.82,
   "starting": 1000.0,
-  "pnl_pct": 4.94,
-  "day_pnl_pct": -0.66,
-  "drawdown_pct": 3.91,
+  "pnl_pct": 4.89,
+  "day_pnl_pct": -0.7,
+  "drawdown_pct": 3.96,
   "goal_progress_pct": 1.049,
-  "gross_notional": 1642.34,
+  "gross_notional": 1641.84,
   "gross_leverage": 1.57,
   "wins": 2,
   "losses": 2,
@@ -53,8 +60,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.42,
-  "btc_ret_24h": -0.69
+  "btc_ret_4h": -0.45,
+  "btc_ret_24h": -0.72
  },
  "funnel": {
   "cg_top": 249,
@@ -72,15 +79,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3994,
+   "mark": 0.399,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 424.4,
+   "notional": 423.98,
    "margin": 139.31,
-   "upnl": 6.46,
-   "r": 0.36,
-   "funding_paid": 0.021,
-   "age_h": 43.8,
+   "upnl": 6.04,
+   "r": 0.34,
+   "funding_paid": 0.02,
+   "age_h": 44.0,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -99,8 +106,8 @@
    "margin": 182.16,
    "upnl": -3.28,
    "r": -0.18,
-   "funding_paid": 0.194,
-   "age_h": 39.2,
+   "funding_paid": 0.195,
+   "age_h": 39.3,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -112,15 +119,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.0919,
+   "mark": 0.09189,
    "stop": 0.08953559456426674,
    "liq": 0.05825022315933333,
-   "notional": 674.74,
+   "notional": 674.66,
    "margin": 211.93,
-   "upnl": 38.94,
+   "upnl": 38.87,
    "r": 2.17,
    "funding_paid": 0.135,
-   "age_h": 33.9,
+   "age_h": 34.1,
    "tp_hit": 0,
    "runner": false,
    "score": 70.1,
