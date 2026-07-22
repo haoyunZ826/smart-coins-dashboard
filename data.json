@@ -1,5 +1,5 @@
 {
- "generated_at": 1784734777.461823,
+ "generated_at": 1784735257.9231749,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,7 +17,7 @@
   },
   {
    "symbol": "SUI",
-   "heat": 0.63,
+   "heat": 0.62,
    "kol": 0,
    "square": 4
   },
@@ -38,48 +38,60 @@
   "leaders": 25,
   "signals": [
    {
-    "symbol": "SOL",
+    "symbol": "ONDO",
     "n_leaders": 1,
-    "fills": 18,
-    "latest_ts": 1784734335.0
+    "fills": 1,
+    "latest_ts": 1784732257.0
+   },
+   {
+    "symbol": "BTC",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784730579.0
    },
    {
     "symbol": "XRP",
     "n_leaders": 1,
-    "fills": 13,
-    "latest_ts": 1784734335.0
+    "fills": 14,
+    "latest_ts": 1784735012.0
+   },
+   {
+    "symbol": "SOL",
+    "n_leaders": 1,
+    "fills": 18,
+    "latest_ts": 1784735011.0
    },
    {
     "symbol": "ETH",
     "n_leaders": 1,
-    "fills": 4,
-    "latest_ts": 1784733974.0
+    "fills": 3,
+    "latest_ts": 1784734641.0
    }
   ]
  },
  "status": {
-  "equity": 1042.45,
-  "cash": 235.57,
+  "equity": 1053.8,
+  "cash": 235.56,
   "starting": 1000.0,
-  "pnl_pct": 4.25,
-  "day_pnl_pct": 5.24,
-  "drawdown_pct": 0.61,
-  "goal_progress_pct": 1.042,
-  "gross_notional": 2340.61,
-  "gross_leverage": 2.25,
+  "pnl_pct": 5.38,
+  "day_pnl_pct": 6.39,
+  "drawdown_pct": 0.12,
+  "goal_progress_pct": 1.054,
+  "gross_notional": 2351.96,
+  "gross_leverage": 2.23,
   "wins": 1,
   "losses": 2,
   "trade_count": 11,
   "fees": 2.62,
-  "funding": 0.43,
+  "funding": 0.44,
   "halted": false,
   "killed": false,
   "loss_streak": 2
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.03,
-  "btc_ret_24h": -1.01
+  "btc_ret_4h": 0.03,
+  "btc_ret_24h": -0.96
  },
  "funnel": {
   "cg_top": 249,
@@ -88,7 +100,7 @@
   "mcap_pass": 115,
   "venue_pass": 49,
   "deep_scanned": 49,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -97,15 +109,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3976,
+   "mark": 0.3978,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 422.49,
+   "notional": 422.7,
    "margin": 139.31,
-   "upnl": 4.55,
-   "r": 0.25,
-   "funding_paid": 0.036,
-   "age_h": 38.9,
+   "upnl": 4.76,
+   "r": 0.27,
+   "funding_paid": 0.037,
+   "age_h": 39.0,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -117,15 +129,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1774,
+   "mark": 0.179,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 552.23,
+   "notional": 557.21,
    "margin": 182.16,
-   "upnl": 5.75,
-   "r": 0.32,
-   "funding_paid": 0.161,
-   "age_h": 34.2,
+   "upnl": 10.73,
+   "r": 0.6,
+   "funding_paid": 0.162,
+   "age_h": 34.4,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -137,15 +149,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.08898,
+   "mark": 0.08955,
    "stop": 0.0867225545801086,
    "liq": 0.05825022315933333,
-   "notional": 653.3,
+   "notional": 657.48,
    "margin": 211.93,
-   "upnl": 17.5,
-   "r": 0.98,
-   "funding_paid": 0.115,
-   "age_h": 29.0,
+   "upnl": 21.69,
+   "r": 1.21,
+   "funding_paid": 0.116,
+   "age_h": 29.1,
    "tp_hit": 0,
    "runner": false,
    "score": 70.1,
@@ -157,22 +169,40 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.070991291,
-   "mark": 0.07223,
+   "mark": 0.07243,
    "stop": 0.0707436,
    "liq": 0.047753475079333335,
-   "notional": 712.6,
+   "notional": 714.57,
    "margin": 233.46,
-   "upnl": 12.22,
-   "r": 0.7,
+   "upnl": 14.19,
+   "r": 0.81,
    "funding_paid": 0.023,
-   "age_h": 7.1,
+   "age_h": 7.2,
    "tp_hit": 0,
    "runner": false,
    "score": 71.4,
    "reason": "LONG 5d-breakout @0.07076 ema stack 20>50>100 ext 2.2atr; volx0.8 atr1h 0.95% rs5d +2.3% fund +0.002%; social heat 1.00"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "ADA",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 17,
+   "side": "long",
+   "score": 68.3,
+   "grade": "B",
+   "price": 0.179,
+   "ret_1h": 2.11,
+   "ret_4h": 3.53,
+   "ret_24h": 2.34,
+   "vol_surge": 2.65,
+   "atr_pct": 1.09,
+   "funding": 0.01,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "HBAR",
