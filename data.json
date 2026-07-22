@@ -1,5 +1,5 @@
 {
- "generated_at": 1784684993.181559,
+ "generated_at": 1784685289.957282,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -39,14 +39,14 @@
   "signals": []
  },
  "status": {
-  "equity": 998.17,
-  "cash": 469.6,
+  "equity": 998.26,
+  "cash": 469.59,
   "starting": 1000.0,
-  "pnl_pct": -0.18,
-  "day_pnl_pct": 0.77,
+  "pnl_pct": -0.17,
+  "day_pnl_pct": 0.78,
   "drawdown_pct": 4.83,
   "goal_progress_pct": 0.998,
-  "gross_notional": 1595.38,
+  "gross_notional": 1595.47,
   "gross_leverage": 1.6,
   "wins": 1,
   "losses": 2,
@@ -59,8 +59,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.01,
-  "btc_ret_24h": 1.78
+  "btc_ret_4h": 0.11,
+  "btc_ret_24h": 1.88
  },
  "funnel": {
   "cg_top": 249,
@@ -69,7 +69,7 @@
   "mcap_pass": 115,
   "venue_pass": 50,
   "deep_scanned": 50,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -78,15 +78,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3883,
+   "mark": 0.3877,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 412.61,
+   "notional": 411.97,
    "margin": 139.31,
-   "upnl": -5.33,
-   "r": -0.3,
-   "funding_paid": -0.029,
-   "age_h": 25.0,
+   "upnl": -5.97,
+   "r": -0.33,
+   "funding_paid": -0.028,
+   "age_h": 25.1,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -106,7 +106,7 @@
    "upnl": -4.52,
    "r": -0.25,
    "funding_paid": 0.084,
-   "age_h": 20.4,
+   "age_h": 20.5,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -118,22 +118,40 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.08728,
+   "mark": 0.08738,
    "stop": 0.08415595349999999,
    "liq": 0.05825022315933333,
-   "notional": 640.82,
+   "notional": 641.55,
    "margin": 211.93,
-   "upnl": 5.02,
-   "r": 0.28,
+   "upnl": 5.76,
+   "r": 0.32,
    "funding_paid": 0.06,
-   "age_h": 15.1,
+   "age_h": 15.2,
    "tp_hit": 0,
    "runner": false,
    "score": 70.1,
    "reason": "LONG 5d-breakout @0.08625 ema stack 20>50>100 ext 2.6atr; volx2.2 atr1h 1.13% rs5d +2.3% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "AAVE",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 51,
+   "side": "long",
+   "score": 62.3,
+   "grade": "B",
+   "price": 96.69,
+   "ret_1h": 1.03,
+   "ret_4h": 1.69,
+   "ret_24h": 6.71,
+   "vol_surge": 0.97,
+   "atr_pct": 0.96,
+   "funding": 0.0006,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "VIRTUAL",
