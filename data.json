@@ -1,5 +1,5 @@
 {
- "generated_at": 1784735683.373568,
+ "generated_at": 1784736291.73472,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,13 +17,13 @@
   },
   {
    "symbol": "SUI",
-   "heat": 0.62,
+   "heat": 0.61,
    "kol": 0,
    "square": 4
   },
   {
    "symbol": "SOL",
-   "heat": 0.47,
+   "heat": 0.46,
    "kol": 0,
    "square": 3
   },
@@ -36,49 +36,18 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "ONDO",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784732257.0
-   },
-   {
-    "symbol": "BTC",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784730579.0
-   },
-   {
-    "symbol": "XRP",
-    "n_leaders": 1,
-    "fills": 14,
-    "latest_ts": 1784735012.0
-   },
-   {
-    "symbol": "SOL",
-    "n_leaders": 1,
-    "fills": 18,
-    "latest_ts": 1784735011.0
-   },
-   {
-    "symbol": "ETH",
-    "n_leaders": 1,
-    "fills": 3,
-    "latest_ts": 1784734641.0
-   }
-  ]
+  "signals": []
  },
  "status": {
-  "equity": 1045.81,
+  "equity": 1054.54,
   "cash": 235.56,
   "starting": 1000.0,
-  "pnl_pct": 4.58,
-  "day_pnl_pct": 5.58,
-  "drawdown_pct": 1.07,
-  "goal_progress_pct": 1.046,
-  "gross_notional": 2343.97,
-  "gross_leverage": 2.24,
+  "pnl_pct": 5.45,
+  "day_pnl_pct": 6.46,
+  "drawdown_pct": 0.24,
+  "goal_progress_pct": 1.055,
+  "gross_notional": 2352.7,
+  "gross_leverage": 2.23,
   "wins": 1,
   "losses": 2,
   "trade_count": 11,
@@ -90,8 +59,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.03,
-  "btc_ret_24h": -0.96
+  "btc_ret_4h": 0.59,
+  "btc_ret_24h": -0.78
  },
  "funnel": {
   "cg_top": 249,
@@ -100,7 +69,7 @@
   "mcap_pass": 115,
   "venue_pass": 49,
   "deep_scanned": 49,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -109,15 +78,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.3978,
+   "mark": 0.3993,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 422.7,
+   "notional": 424.29,
    "margin": 139.31,
-   "upnl": 4.76,
-   "r": 0.27,
+   "upnl": 6.36,
+   "r": 0.36,
    "funding_paid": 0.037,
-   "age_h": 39.1,
+   "age_h": 39.3,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -129,15 +98,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1777,
+   "mark": 0.1771,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 553.16,
+   "notional": 551.29,
    "margin": 182.16,
-   "upnl": 6.68,
-   "r": 0.37,
-   "funding_paid": 0.163,
-   "age_h": 34.5,
+   "upnl": 4.82,
+   "r": 0.27,
+   "funding_paid": 0.164,
+   "age_h": 34.7,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -149,15 +118,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.08912,
+   "mark": 0.08946,
    "stop": 0.0867225545801086,
    "liq": 0.05825022315933333,
-   "notional": 654.33,
+   "notional": 656.82,
    "margin": 211.93,
-   "upnl": 18.53,
-   "r": 1.03,
-   "funding_paid": 0.116,
-   "age_h": 29.2,
+   "upnl": 21.03,
+   "r": 1.17,
+   "funding_paid": 0.117,
+   "age_h": 29.4,
    "tp_hit": 0,
    "runner": false,
    "score": 70.1,
@@ -169,40 +138,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.070991291,
-   "mark": 0.07235,
+   "mark": 0.07301,
    "stop": 0.0707436,
    "liq": 0.047753475079333335,
-   "notional": 713.78,
+   "notional": 720.29,
    "margin": 233.46,
-   "upnl": 13.4,
-   "r": 0.77,
-   "funding_paid": 0.023,
-   "age_h": 7.3,
+   "upnl": 19.92,
+   "r": 1.14,
+   "funding_paid": 0.024,
+   "age_h": 7.5,
    "tp_hit": 0,
    "runner": false,
    "score": 71.4,
    "reason": "LONG 5d-breakout @0.07076 ema stack 20>50>100 ext 2.2atr; volx0.8 atr1h 0.95% rs5d +2.3% fund +0.002%; social heat 1.00"
   }
  ],
- "candidates": [
-  {
-   "symbol": "ADA",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 17,
-   "side": "long",
-   "score": 70.4,
-   "grade": "A",
-   "price": 0.1789,
-   "ret_1h": 2.05,
-   "ret_4h": 3.47,
-   "ret_24h": 2.29,
-   "vol_surge": 3.04,
-   "atr_pct": 1.09,
-   "funding": 0.01,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "HBAR",
