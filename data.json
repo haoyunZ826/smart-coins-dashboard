@@ -1,5 +1,5 @@
 {
- "generated_at": 1784710632.7933729,
+ "generated_at": 1784711224.079287,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,13 +7,13 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 7
+   "square": 8
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 5,
-   "square": 7
+   "square": 8
   },
   {
    "symbol": "XRP",
@@ -35,19 +35,19 @@
   },
   {
    "symbol": "NIGHT",
-   "heat": 0.59,
+   "heat": 0.58,
    "kol": 0,
    "square": 4
   },
   {
    "symbol": "HYPE",
-   "heat": 0.26,
+   "heat": 0.25,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "BNB",
-   "heat": 0.25,
+   "heat": 0.24,
    "kol": 0,
    "square": 2
   }
@@ -57,14 +57,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1003.09,
+  "equity": 1003.64,
   "cash": 235.69,
   "starting": 1000.0,
-  "pnl_pct": 0.31,
-  "day_pnl_pct": 1.27,
-  "drawdown_pct": 4.37,
-  "goal_progress_pct": 1.003,
-  "gross_notional": 2301.12,
+  "pnl_pct": 0.36,
+  "day_pnl_pct": 1.32,
+  "drawdown_pct": 4.31,
+  "goal_progress_pct": 1.004,
+  "gross_notional": 2301.68,
   "gross_leverage": 2.29,
   "wins": 1,
   "losses": 2,
@@ -77,8 +77,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.6,
-  "btc_ret_24h": -0.37
+  "btc_ret_4h": -0.01,
+  "btc_ret_24h": -0.47
  },
  "funnel": {
   "cg_top": 249,
@@ -87,7 +87,7 @@
   "mcap_pass": 115,
   "venue_pass": 50,
   "deep_scanned": 50,
-  "candidates": 2
+  "candidates": 0
  },
  "positions": [
   {
@@ -96,15 +96,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.39331795999999997,
-   "mark": 0.393,
+   "mark": 0.3915,
    "stop": 0.3764736225,
    "liq": 0.2645718810933333,
-   "notional": 417.6,
+   "notional": 416.01,
    "margin": 139.31,
-   "upnl": -0.34,
-   "r": -0.02,
+   "upnl": -1.93,
+   "r": -0.11,
    "funding_paid": 0.009,
-   "age_h": 32.2,
+   "age_h": 32.3,
    "tp_hit": 0,
    "runner": false,
    "score": 73.0,
@@ -116,15 +116,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1723,
+   "mark": 0.1724,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 536.35,
+   "notional": 536.66,
    "margin": 182.16,
-   "upnl": -10.13,
-   "r": -0.56,
-   "funding_paid": 0.116,
-   "age_h": 27.5,
+   "upnl": -9.81,
+   "r": -0.54,
+   "funding_paid": 0.117,
+   "age_h": 27.7,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -136,15 +136,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.08776,
+   "mark": 0.08789,
    "stop": 0.08415595349999999,
    "liq": 0.05825022315933333,
-   "notional": 644.34,
+   "notional": 645.29,
    "margin": 211.93,
-   "upnl": 8.55,
-   "r": 0.48,
-   "funding_paid": 0.088,
-   "age_h": 22.3,
+   "upnl": 9.5,
+   "r": 0.53,
+   "funding_paid": 0.089,
+   "age_h": 22.4,
    "tp_hit": 0,
    "runner": false,
    "score": 70.1,
@@ -156,57 +156,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.070991291,
-   "mark": 0.07124,
+   "mark": 0.07133,
    "stop": 0.069216508725,
    "liq": 0.047753475079333335,
-   "notional": 702.83,
+   "notional": 703.72,
    "margin": 233.46,
-   "upnl": 2.45,
-   "r": 0.14,
-   "funding_paid": 0.001,
-   "age_h": 0.4,
+   "upnl": 3.34,
+   "r": 0.19,
+   "funding_paid": 0.002,
+   "age_h": 0.6,
    "tp_hit": 0,
    "runner": false,
    "score": 71.4,
    "reason": "LONG 5d-breakout @0.07076 ema stack 20>50>100 ext 2.2atr; volx0.8 atr1h 0.95% rs5d +2.3% fund +0.002%; social heat 1.00"
   }
  ],
- "candidates": [
-  {
-   "symbol": "HBAR",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 29,
-   "side": "long",
-   "score": 76.5,
-   "grade": "A",
-   "price": 0.0712,
-   "ret_1h": 1.54,
-   "ret_4h": 1.73,
-   "ret_24h": 5.2,
-   "vol_surge": 1.28,
-   "atr_pct": 0.96,
-   "funding": 0.0036,
-   "stop_pct": 0.0
-  },
-  {
-   "symbol": "ETHFI",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 105,
-   "side": "long",
-   "score": 71.6,
-   "grade": "A",
-   "price": 0.471,
-   "ret_1h": 3.24,
-   "ret_4h": 2.59,
-   "ret_24h": 2.5,
-   "vol_surge": 7.04,
-   "atr_pct": 1.29,
-   "funding": -0.0058,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "HBAR",
