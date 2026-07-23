@@ -1,5 +1,5 @@
 {
- "generated_at": 1784818262.8521101,
+ "generated_at": 1784818600.299694,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,19 +7,19 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 10
+   "square": 11
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 4,
-   "square": 10
+   "square": 11
   },
   {
    "symbol": "SOL",
    "heat": 1.0,
    "kol": 1,
-   "square": 9
+   "square": 10
   },
   {
    "symbol": "DOGE",
@@ -72,31 +72,38 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": []
+  "signals": [
+   {
+    "symbol": "BTC",
+    "n_leaders": 2,
+    "fills": 4,
+    "latest_ts": 1784815224.0
+   }
+  ]
  },
  "status": {
-  "equity": 993.55,
-  "cash": 686.01,
+  "equity": 990.31,
+  "cash": 848.91,
   "starting": 1000.0,
-  "pnl_pct": -0.65,
-  "day_pnl_pct": -5.94,
-  "drawdown_pct": 9.02,
-  "goal_progress_pct": 0.994,
-  "gross_notional": 922.27,
-  "gross_leverage": 0.93,
+  "pnl_pct": -0.97,
+  "day_pnl_pct": -6.25,
+  "drawdown_pct": 9.32,
+  "goal_progress_pct": 0.99,
+  "gross_notional": 391.82,
+  "gross_leverage": 0.4,
   "wins": 3,
-  "losses": 4,
-  "trade_count": 17,
-  "fees": 4.01,
+  "losses": 5,
+  "trade_count": 18,
+  "fees": 4.27,
   "funding": 0.54,
   "halted": false,
   "killed": false,
-  "loss_streak": 1
+  "loss_streak": 2
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -1.12,
-  "btc_ret_24h": -1.22
+  "btc_ret_4h": -1.26,
+  "btc_ret_24h": -1.36
  },
  "funnel": {
   "cg_top": 249,
@@ -109,40 +116,20 @@
  },
  "positions": [
   {
-   "symbol": "ADA",
-   "venue": "okx",
-   "side": "long",
-   "leverage": 3,
-   "entry": 0.17555264999999998,
-   "mark": 0.1705,
-   "stop": 0.16976519999999998,
-   "liq": 0.1180884159,
-   "notional": 530.75,
-   "margin": 182.16,
-   "upnl": -15.73,
-   "r": -0.87,
-   "funding_paid": 0.28,
-   "age_h": 57.4,
-   "tp_hit": 0,
-   "runner": false,
-   "score": 74.3,
-   "reason": "LONG 5d-breakout @0.1733 ema stack 20>50>100 ext 2.8atr; volx2.6 atr1h 1.32% rs5d +5.9% fund +0.010%"
-  },
-  {
    "symbol": "BEAT",
    "venue": "okx",
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 2.855,
+   "mark": 2.8572,
    "stop": 2.706415228426396,
    "liq": 1.8425157222733335,
-   "notional": 391.52,
+   "notional": 391.82,
    "margin": 125.21,
-   "upnl": 15.89,
-   "r": 0.86,
-   "funding_paid": -0.053,
-   "age_h": 9.1,
+   "upnl": 16.19,
+   "r": 0.88,
+   "funding_paid": -0.052,
+   "age_h": 9.2,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
@@ -156,19 +143,34 @@
    "tier": "mid",
    "mcap_rank": 125,
    "side": "long",
-   "score": 65.6,
+   "score": 64.8,
    "grade": "B",
-   "price": 0.6516,
-   "ret_1h": 3.64,
-   "ret_4h": 4.27,
-   "ret_24h": 2.99,
-   "vol_surge": 3.32,
-   "atr_pct": 1.97,
+   "price": 0.6498,
+   "ret_1h": 3.36,
+   "ret_4h": 3.98,
+   "ret_24h": 2.7,
+   "vol_surge": 3.64,
+   "atr_pct": 1.98,
    "funding": 0.005,
    "stop_pct": 0.0
   }
  ],
  "trades": [
+  {
+   "symbol": "ADA",
+   "venue": "okx",
+   "action": "close",
+   "side": "long",
+   "price": 0.16944915000000002,
+   "qty": 0.0,
+   "notional_usd": 527.6362209341609,
+   "fee_usd": 0.2638181104670804,
+   "realized_pnl_usd": -19.263391411184646,
+   "leverage": 3,
+   "timestamp": 1784818600.281266,
+   "mode": "paper",
+   "reason": "stop_loss: -1.05R stop 0.169765"
+  },
   {
    "symbol": "UB",
    "venue": "okx",
