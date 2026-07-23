@@ -1,5 +1,5 @@
 {
- "generated_at": 1784823654.630412,
+ "generated_at": 1784824263.4962711,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -82,14 +82,14 @@
   ]
  },
  "status": {
-  "equity": 1009.06,
+  "equity": 1012.94,
   "cash": 848.91,
   "starting": 1000.0,
-  "pnl_pct": 0.91,
-  "day_pnl_pct": -4.47,
-  "drawdown_pct": 7.6,
-  "goal_progress_pct": 1.009,
-  "gross_notional": 410.57,
+  "pnl_pct": 1.29,
+  "day_pnl_pct": -4.1,
+  "drawdown_pct": 7.25,
+  "goal_progress_pct": 1.013,
+  "gross_notional": 414.45,
   "gross_leverage": 0.41,
   "wins": 3,
   "losses": 5,
@@ -102,8 +102,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.61,
-  "btc_ret_24h": -2.2
+  "btc_ret_4h": -0.53,
+  "btc_ret_24h": -2.13
  },
  "funnel": {
   "cg_top": 249,
@@ -121,15 +121,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 2.9939,
+   "mark": 3.0222,
    "stop": 2.838965171821933,
    "liq": 1.8425157222733335,
-   "notional": 410.57,
+   "notional": 414.45,
    "margin": 125.21,
-   "upnl": 34.94,
-   "r": 1.89,
+   "upnl": 38.82,
+   "r": 2.1,
    "funding_paid": -0.049,
-   "age_h": 10.6,
+   "age_h": 10.8,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
