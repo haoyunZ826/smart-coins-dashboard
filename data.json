@@ -1,5 +1,5 @@
 {
- "generated_at": 1784817342.201994,
+ "generated_at": 1784817954.94339,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -65,7 +65,7 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.36,
+   "heat": 0.35,
    "kol": 0,
    "square": 3
   }
@@ -75,14 +75,14 @@
   "signals": []
  },
  "status": {
-  "equity": 993.49,
+  "equity": 996.44,
   "cash": 686.02,
   "starting": 1000.0,
-  "pnl_pct": -0.65,
-  "day_pnl_pct": -5.95,
-  "drawdown_pct": 9.03,
-  "goal_progress_pct": 0.993,
-  "gross_notional": 922.21,
+  "pnl_pct": -0.36,
+  "day_pnl_pct": -5.67,
+  "drawdown_pct": 8.76,
+  "goal_progress_pct": 0.996,
+  "gross_notional": 925.17,
   "gross_leverage": 0.93,
   "wins": 3,
   "losses": 4,
@@ -95,8 +95,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.87,
-  "btc_ret_24h": -0.97
+  "btc_ret_4h": -0.96,
+  "btc_ret_24h": -1.06
  },
  "funnel": {
   "cg_top": 249,
@@ -105,7 +105,7 @@
   "mcap_pass": 115,
   "venue_pass": 52,
   "deep_scanned": 52,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -114,15 +114,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.17555264999999998,
-   "mark": 0.1709,
+   "mark": 0.1711,
    "stop": 0.16976519999999998,
    "liq": 0.1180884159,
-   "notional": 531.99,
+   "notional": 532.62,
    "margin": 182.16,
-   "upnl": -14.48,
-   "r": -0.8,
-   "funding_paid": 0.278,
-   "age_h": 57.2,
+   "upnl": -13.86,
+   "r": -0.77,
+   "funding_paid": 0.279,
+   "age_h": 57.3,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -134,22 +134,40 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 2.8455,
+   "mark": 2.8625,
    "stop": 2.706415228426396,
    "liq": 1.8425157222733335,
-   "notional": 390.22,
+   "notional": 392.55,
    "margin": 125.21,
-   "upnl": 14.59,
-   "r": 0.79,
+   "upnl": 16.92,
+   "r": 0.92,
    "funding_paid": -0.053,
-   "age_h": 8.9,
+   "age_h": 9.0,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
    "reason": "LONG 5d-breakout @2.6987 ema stack 20>50>100 ext 2.2atr; volx1.6 atr1h 1.97% rs5d +13.1% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "JTO",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 125,
+   "side": "long",
+   "score": 61.9,
+   "grade": "B",
+   "price": 0.6473,
+   "ret_1h": 2.96,
+   "ret_4h": 3.58,
+   "ret_24h": 2.31,
+   "vol_surge": 2.78,
+   "atr_pct": 1.91,
+   "funding": 0.005,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "UB",
