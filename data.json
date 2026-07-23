@@ -1,5 +1,5 @@
 {
- "generated_at": 1784810565.201828,
+ "generated_at": 1784811175.0990431,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -74,23 +74,23 @@
   "leaders": 25,
   "signals": [
    {
-    "symbol": "BTC",
+    "symbol": "ETH",
     "n_leaders": 1,
-    "fills": 2,
-    "latest_ts": 1784809491.0
+    "fills": 50,
+    "latest_ts": 1784810174.0
    }
   ]
  },
  "status": {
-  "equity": 1016.85,
+  "equity": 1022.17,
   "cash": 373.23,
   "starting": 1000.0,
-  "pnl_pct": 1.69,
-  "day_pnl_pct": -3.73,
-  "drawdown_pct": 6.89,
-  "goal_progress_pct": 1.017,
-  "gross_notional": 1900.39,
-  "gross_leverage": 1.87,
+  "pnl_pct": 2.22,
+  "day_pnl_pct": -3.23,
+  "drawdown_pct": 6.4,
+  "goal_progress_pct": 1.022,
+  "gross_notional": 1905.71,
+  "gross_leverage": 1.86,
   "wins": 2,
   "losses": 3,
   "trade_count": 15,
@@ -101,9 +101,9 @@
   "loss_streak": 1
  },
  "regime": {
-  "state": "risk_on",
-  "btc_ret_4h": -0.72,
-  "btc_ret_24h": -0.74
+  "state": "neutral",
+  "btc_ret_4h": -0.88,
+  "btc_ret_24h": -0.9
  },
  "funnel": {
   "cg_top": 249,
@@ -112,7 +112,7 @@
   "mcap_pass": 116,
   "venue_pass": 53,
   "deep_scanned": 53,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -128,8 +128,8 @@
    "margin": 182.16,
    "upnl": -7.95,
    "r": -0.44,
-   "funding_paid": 0.269,
-   "age_h": 55.3,
+   "funding_paid": 0.27,
+   "age_h": 55.5,
    "tp_hit": 0,
    "runner": false,
    "score": 74.3,
@@ -141,15 +141,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.086595971,
-   "mark": 0.09094,
+   "mark": 0.0911,
    "stop": 0.08953559456426674,
    "liq": 0.05825022315933333,
-   "notional": 667.69,
+   "notional": 668.86,
    "margin": 211.93,
-   "upnl": 31.89,
-   "r": 1.78,
+   "upnl": 33.07,
+   "r": 1.85,
    "funding_paid": 0.181,
-   "age_h": 50.0,
+   "age_h": 50.2,
    "tp_hit": 0,
    "runner": false,
    "score": 70.1,
@@ -161,15 +161,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 2.7778,
+   "mark": 2.8034,
    "stop": 2.706415228426396,
    "liq": 1.8425157222733335,
-   "notional": 380.93,
+   "notional": 384.44,
    "margin": 125.21,
-   "upnl": 5.3,
-   "r": 0.29,
-   "funding_paid": -0.05,
-   "age_h": 7.0,
+   "upnl": 8.81,
+   "r": 0.48,
+   "funding_paid": -0.051,
+   "age_h": 7.2,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
@@ -181,40 +181,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.13408021199999998,
-   "mark": 0.12834,
+   "mark": 0.1286,
    "stop": 0.12335379503999998,
    "liq": 0.090191289272,
-   "notional": 313.24,
+   "notional": 313.87,
    "margin": 109.08,
-   "upnl": -14.01,
-   "r": -0.54,
-   "funding_paid": 0.013,
-   "age_h": 2.0,
+   "upnl": -13.38,
+   "r": -0.51,
+   "funding_paid": 0.015,
+   "age_h": 2.2,
    "tp_hit": 0,
    "runner": false,
    "score": 81.6,
    "reason": "LONG 5d-breakout @0.12947 ema stack 20>50>100 ext 3.5atr; volx2.6 atr1h 3.24% rs5d +43.3% fund +0.005%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "WLFI",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 41,
-   "side": "long",
-   "score": 68.4,
-   "grade": "B",
-   "price": 0.06529,
-   "ret_1h": 1.04,
-   "ret_4h": 4.0,
-   "ret_24h": 15.6,
-   "vol_surge": 4.82,
-   "atr_pct": 3.36,
-   "funding": -0.0057,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "UB",
