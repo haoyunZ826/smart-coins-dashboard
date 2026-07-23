@@ -1,5 +1,5 @@
 {
- "generated_at": 1784841629.122014,
+ "generated_at": 1784842243.4960482,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -65,7 +65,7 @@
   },
   {
    "symbol": "HBAR",
-   "heat": 0.65,
+   "heat": 0.64,
    "kol": 1,
    "square": 0
   },
@@ -81,14 +81,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1006.69,
+  "equity": 1006.25,
   "cash": 848.89,
   "starting": 1000.0,
-  "pnl_pct": 0.67,
-  "day_pnl_pct": -0.19,
-  "drawdown_pct": 7.82,
-  "goal_progress_pct": 1.007,
-  "gross_notional": 408.21,
+  "pnl_pct": 0.62,
+  "day_pnl_pct": -0.24,
+  "drawdown_pct": 7.86,
+  "goal_progress_pct": 1.006,
+  "gross_notional": 407.77,
   "gross_leverage": 0.41,
   "wins": 3,
   "losses": 5,
@@ -100,9 +100,9 @@
   "loss_streak": 2
  },
  "regime": {
-  "state": "neutral",
-  "btc_ret_4h": 0.51,
-  "btc_ret_24h": -1.62
+  "state": "risk_on",
+  "btc_ret_4h": 0.68,
+  "btc_ret_24h": -1.46
  },
  "funnel": {
   "cg_top": 249,
@@ -120,15 +120,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 2.9767,
+   "mark": 2.9735,
    "stop": 2.9005597076653395,
    "liq": 1.8425157222733335,
-   "notional": 408.21,
+   "notional": 407.77,
    "margin": 125.21,
-   "upnl": 32.58,
-   "r": 1.76,
+   "upnl": 32.14,
+   "r": 1.74,
    "funding_paid": -0.037,
-   "age_h": 15.6,
+   "age_h": 15.8,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
