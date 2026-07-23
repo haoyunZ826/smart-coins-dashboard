@@ -1,5 +1,5 @@
 {
- "generated_at": 1784828085.7394931,
+ "generated_at": 1784828688.394932,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -80,28 +80,22 @@
   "leaders": 25,
   "signals": [
    {
-    "symbol": "ONDO",
+    "symbol": "BTC",
     "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784826929.0
-   },
-   {
-    "symbol": "LIT",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784826929.0
+    "fills": 10,
+    "latest_ts": 1784821105.0
    }
   ]
  },
  "status": {
-  "equity": 1007.54,
+  "equity": 1008.78,
   "cash": 848.9,
   "starting": 1000.0,
-  "pnl_pct": 0.75,
-  "day_pnl_pct": -4.61,
-  "drawdown_pct": 7.74,
-  "goal_progress_pct": 1.008,
-  "gross_notional": 409.06,
+  "pnl_pct": 0.88,
+  "day_pnl_pct": -4.5,
+  "drawdown_pct": 7.63,
+  "goal_progress_pct": 1.009,
+  "gross_notional": 410.29,
   "gross_leverage": 0.41,
   "wins": 3,
   "losses": 5,
@@ -114,16 +108,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.07,
-  "btc_ret_24h": -1.79
+  "btc_ret_4h": -0.11,
+  "btc_ret_24h": -1.84
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 855,
-  "mcap_pass": 114,
-  "venue_pass": 48,
-  "deep_scanned": 48,
+  "mcap_pass": 115,
+  "venue_pass": 49,
+  "deep_scanned": 49,
   "candidates": 0
  },
  "positions": [
@@ -133,15 +127,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 2.9829,
+   "mark": 2.9919,
    "stop": 2.9005597076653395,
    "liq": 1.8425157222733335,
-   "notional": 409.06,
+   "notional": 410.29,
    "margin": 125.21,
-   "upnl": 33.43,
-   "r": 1.81,
+   "upnl": 34.66,
+   "r": 1.88,
    "funding_paid": -0.046,
-   "age_h": 11.9,
+   "age_h": 12.0,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
