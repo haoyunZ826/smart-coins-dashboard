@@ -1,5 +1,5 @@
 {
- "generated_at": 1784827483.960242,
+ "generated_at": 1784828085.7394931,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -13,7 +13,7 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 4,
-   "square": 10
+   "square": 11
   },
   {
    "symbol": "SOL",
@@ -80,29 +80,29 @@
   "leaders": 25,
   "signals": [
    {
-    "symbol": "BEAT",
-    "n_leaders": 1,
-    "fills": 2,
-    "latest_ts": 1784826207.0
-   },
-   {
-    "symbol": "WLD",
+    "symbol": "ONDO",
     "n_leaders": 1,
     "fills": 1,
-    "latest_ts": 1784825117.0
+    "latest_ts": 1784826929.0
+   },
+   {
+    "symbol": "LIT",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784826929.0
    }
   ]
  },
  "status": {
-  "equity": 1004.64,
+  "equity": 1007.54,
   "cash": 848.9,
   "starting": 1000.0,
-  "pnl_pct": 0.46,
-  "day_pnl_pct": -4.89,
-  "drawdown_pct": 8.01,
-  "goal_progress_pct": 1.005,
-  "gross_notional": 406.15,
-  "gross_leverage": 0.4,
+  "pnl_pct": 0.75,
+  "day_pnl_pct": -4.61,
+  "drawdown_pct": 7.74,
+  "goal_progress_pct": 1.008,
+  "gross_notional": 409.06,
+  "gross_leverage": 0.41,
   "wins": 3,
   "losses": 5,
   "trade_count": 18,
@@ -114,8 +114,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.11,
-  "btc_ret_24h": -1.83
+  "btc_ret_4h": -0.07,
+  "btc_ret_24h": -1.79
  },
  "funnel": {
   "cg_top": 249,
@@ -133,15 +133,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 2.9617,
+   "mark": 2.9829,
    "stop": 2.9005597076653395,
    "liq": 1.8425157222733335,
-   "notional": 406.15,
+   "notional": 409.06,
    "margin": 125.21,
-   "upnl": 30.52,
-   "r": 1.65,
-   "funding_paid": -0.047,
-   "age_h": 11.7,
+   "upnl": 33.43,
+   "r": 1.81,
+   "funding_paid": -0.046,
+   "age_h": 11.9,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
