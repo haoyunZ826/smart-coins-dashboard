@@ -1,5 +1,5 @@
 {
- "generated_at": 1784832568.1338072,
+ "generated_at": 1784833172.183881,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -65,13 +65,13 @@
   },
   {
    "symbol": "ASTER",
-   "heat": 0.32,
+   "heat": 0.31,
    "kol": 0,
    "square": 2
   },
   {
    "symbol": "DEXE",
-   "heat": 0.12,
+   "heat": 0.11,
    "kol": 0,
    "square": 1
   }
@@ -81,14 +81,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1016.02,
+  "equity": 1016.51,
   "cash": 848.9,
   "starting": 1000.0,
-  "pnl_pct": 1.6,
-  "day_pnl_pct": -3.81,
-  "drawdown_pct": 6.97,
-  "goal_progress_pct": 1.016,
-  "gross_notional": 417.53,
+  "pnl_pct": 1.65,
+  "day_pnl_pct": -3.77,
+  "drawdown_pct": 6.92,
+  "goal_progress_pct": 1.017,
+  "gross_notional": 418.03,
   "gross_leverage": 0.41,
   "wins": 3,
   "losses": 5,
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.07,
-  "btc_ret_24h": -1.56
+  "btc_ret_4h": -0.02,
+  "btc_ret_24h": -1.51
  },
  "funnel": {
   "cg_top": 249,
@@ -120,15 +120,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 3.0447,
+   "mark": 3.0483,
    "stop": 2.9005597076653395,
    "liq": 1.8425157222733335,
-   "notional": 417.53,
+   "notional": 418.03,
    "margin": 125.21,
-   "upnl": 41.91,
-   "r": 2.27,
+   "upnl": 42.4,
+   "r": 2.3,
    "funding_paid": -0.043,
-   "age_h": 13.1,
+   "age_h": 13.3,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
