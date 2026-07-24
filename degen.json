@@ -1,5 +1,5 @@
 {
- "generated_at": 1784896005.442938,
+ "generated_at": 1784896593.230599,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,7 +7,7 @@
    "symbol": "BNB",
    "heat": 1.0,
    "kol": 1,
-   "square": 7
+   "square": 8
   },
   {
    "symbol": "ETH",
@@ -19,7 +19,7 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 6,
-   "square": 9
+   "square": 10
   },
   {
    "symbol": "HYPE",
@@ -100,14 +100,14 @@
   ]
  },
  "status": {
-  "equity": 1024.43,
+  "equity": 1023.31,
   "cash": 859.9,
   "starting": 1000.0,
-  "pnl_pct": 2.44,
-  "day_pnl_pct": 5.84,
-  "drawdown_pct": 9.31,
-  "goal_progress_pct": 1.024,
-  "gross_notional": 831.63,
+  "pnl_pct": 2.33,
+  "day_pnl_pct": 5.72,
+  "drawdown_pct": 9.41,
+  "goal_progress_pct": 1.023,
+  "gross_notional": 830.51,
   "gross_leverage": 0.81,
   "wins": 7,
   "losses": 13,
@@ -120,16 +120,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.42,
-  "btc_ret_24h": -0.2
+  "btc_ret_4h": -0.41,
+  "btc_ret_24h": -0.18
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 148,
-  "venue_pass": 57,
-  "deep_scanned": 57,
+  "venue_pass": 58,
+  "deep_scanned": 58,
   "candidates": 0
  },
  "positions": [
@@ -139,15 +139,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 65476.28004,
-   "mark": 65076.2,
+   "mark": 64962.9,
    "stop": 64166.7544392,
    "liq": 52773.88171224,
-   "notional": 488.62,
+   "notional": 487.77,
    "margin": 98.33,
-   "upnl": -3.0,
-   "r": -0.31,
+   "upnl": -3.85,
+   "r": -0.39,
    "funding_paid": 0.051,
-   "age_h": 92.5,
+   "age_h": 92.7,
    "tp_hit": 0,
    "runner": false,
    "score": 62.1,
@@ -159,15 +159,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.84,
+   "mark": 3.837,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 343.0,
+   "notional": 342.74,
    "margin": 68.45,
-   "upnl": 0.76,
-   "r": 0.08,
+   "upnl": 0.49,
+   "r": 0.05,
    "funding_paid": 0.038,
-   "age_h": 44.3,
+   "age_h": 44.4,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,

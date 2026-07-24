@@ -1,5 +1,5 @@
 {
- "generated_at": 1784895978.730103,
+ "generated_at": 1784896602.170339,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -60,14 +60,7 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "BTC",
-    "n_leaders": 1,
-    "fills": 2,
-    "latest_ts": 1784894108.0
-   }
-  ]
+  "signals": []
  },
  "status": {
   "equity": 1036.84,
