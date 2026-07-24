@@ -1,5 +1,5 @@
 {
- "generated_at": 1784897196.418657,
+ "generated_at": 1784897820.42963,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -60,20 +60,7 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "BTC",
-    "n_leaders": 2,
-    "fills": 3,
-    "latest_ts": 1784894108.0
-   },
-   {
-    "symbol": "WLD",
-    "n_leaders": 1,
-    "fills": 2,
-    "latest_ts": 1784894479.0
-   }
-  ]
+  "signals": []
  },
  "status": {
   "equity": 1036.84,
@@ -96,8 +83,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.59,
-  "btc_ret_24h": -0.37
+  "btc_ret_4h": -0.66,
+  "btc_ret_24h": -0.44
  },
  "funnel": {
   "cg_top": 249,
