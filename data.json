@@ -1,5 +1,5 @@
 {
- "generated_at": 1784858770.159362,
+ "generated_at": 1784859976.24485,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -65,7 +65,7 @@
   },
   {
    "symbol": "VIRTUAL",
-   "heat": 0.37,
+   "heat": 0.36,
    "kol": 1,
    "square": 0
   },
@@ -81,34 +81,34 @@
   "signals": []
  },
  "status": {
-  "equity": 1021.39,
+  "equity": 1018.42,
   "cash": 848.92,
   "starting": 1000.0,
-  "pnl_pct": 2.14,
-  "day_pnl_pct": 1.26,
-  "drawdown_pct": 6.47,
-  "goal_progress_pct": 1.021,
-  "gross_notional": 422.9,
+  "pnl_pct": 1.84,
+  "day_pnl_pct": 0.97,
+  "drawdown_pct": 6.75,
+  "goal_progress_pct": 1.018,
+  "gross_notional": 419.92,
   "gross_leverage": 0.41,
   "wins": 3,
   "losses": 5,
   "trade_count": 18,
   "fees": 4.27,
-  "funding": 0.54,
+  "funding": 0.53,
   "halted": false,
   "killed": false,
   "loss_streak": 2
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.14,
-  "btc_ret_24h": -1.14
+  "btc_ret_4h": -0.06,
+  "btc_ret_24h": -0.99
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 855,
-  "mcap_pass": 114,
+  "mcap_pass": 115,
   "venue_pass": 48,
   "deep_scanned": 48,
   "candidates": 0
@@ -120,15 +120,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 3.0838,
+   "mark": 3.0621,
    "stop": 2.9005597076653395,
    "liq": 1.8425157222733335,
-   "notional": 422.9,
+   "notional": 419.92,
    "margin": 125.21,
-   "upnl": 47.27,
-   "r": 2.56,
-   "funding_paid": -0.059,
-   "age_h": 20.4,
+   "upnl": 44.29,
+   "r": 2.4,
+   "funding_paid": -0.063,
+   "age_h": 20.7,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
