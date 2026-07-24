@@ -1,5 +1,5 @@
 {
- "generated_at": 1784871306.6238809,
+ "generated_at": 1784871895.031065,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,7 +59,7 @@
   },
   {
    "symbol": "CRV",
-   "heat": 0.6,
+   "heat": 0.59,
    "kol": 1,
    "square": 0
   },
@@ -75,14 +75,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1033.83,
+  "equity": 1032.97,
   "cash": 903.21,
   "starting": 1000.0,
-  "pnl_pct": 3.38,
-  "day_pnl_pct": 2.5,
-  "drawdown_pct": 5.34,
-  "goal_progress_pct": 1.034,
-  "gross_notional": 305.91,
+  "pnl_pct": 3.3,
+  "day_pnl_pct": 2.41,
+  "drawdown_pct": 5.41,
+  "goal_progress_pct": 1.033,
+  "gross_notional": 305.05,
   "gross_leverage": 0.3,
   "wins": 3,
   "losses": 5,
@@ -103,8 +103,8 @@
   "okx_perps": 411,
   "gate_perps": 855,
   "mcap_pass": 113,
-  "venue_pass": 47,
-  "deep_scanned": 47,
+  "venue_pass": 48,
+  "deep_scanned": 48,
   "candidates": 0
  },
  "positions": [
@@ -114,15 +114,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 3.1867,
+   "mark": 3.1778,
    "stop": 3.02655704086477,
    "liq": 1.8425157222733335,
-   "notional": 305.91,
+   "notional": 305.05,
    "margin": 87.65,
-   "upnl": 42.97,
-   "r": 3.32,
+   "upnl": 42.11,
+   "r": 3.26,
    "funding_paid": -0.076,
-   "age_h": 23.9,
+   "age_h": 24.0,
    "tp_hit": 1,
    "runner": false,
    "score": 72.8,
