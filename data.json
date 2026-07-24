@@ -1,5 +1,5 @@
 {
- "generated_at": 1784910172.900655,
+ "generated_at": 1784910795.492569,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -74,9 +74,27 @@
   "leaders": 25,
   "signals": [
    {
+    "symbol": "GRAM",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784909819.0
+   },
+   {
+    "symbol": "BEAT",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784909809.0
+   },
+   {
+    "symbol": "DEXE",
+    "n_leaders": 1,
+    "fills": 2,
+    "latest_ts": 1784909809.0
+   },
+   {
     "symbol": "BTC",
-    "n_leaders": 2,
-    "fills": 10,
+    "n_leaders": 1,
+    "fills": 2,
     "latest_ts": 1784904416.0
    }
   ]
@@ -102,8 +120,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.98,
-  "btc_ret_24h": -0.94
+  "btc_ret_4h": -1.14,
+  "btc_ret_24h": -1.11
  },
  "funnel": {
   "cg_top": 249,

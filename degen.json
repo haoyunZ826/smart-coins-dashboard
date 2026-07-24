@@ -1,5 +1,5 @@
 {
- "generated_at": 1784910180.359031,
+ "generated_at": 1784910797.794775,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,19 +7,19 @@
    "symbol": "BNB",
    "heat": 1.0,
    "kol": 1,
-   "square": 10
+   "square": 9
   },
   {
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 8
+   "square": 7
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 7,
-   "square": 8
+   "square": 7
   },
   {
    "symbol": "HYPE",
@@ -46,12 +46,6 @@
    "square": 0
   },
   {
-   "symbol": "CRV",
-   "heat": 1.0,
-   "kol": 1,
-   "square": 0
-  },
-  {
    "symbol": "ARB",
    "heat": 1.0,
    "kol": 1,
@@ -70,6 +64,12 @@
    "square": 0
   },
   {
+   "symbol": "CRV",
+   "heat": 0.91,
+   "kol": 1,
+   "square": 0
+  },
+  {
    "symbol": "DEXE",
    "heat": 0.34,
    "kol": 0,
@@ -80,22 +80,34 @@
   "leaders": 25,
   "signals": [
    {
-    "symbol": "BTC",
+    "symbol": "GRAM",
     "n_leaders": 1,
-    "fills": 5,
-    "latest_ts": 1784904416.0
+    "fills": 1,
+    "latest_ts": 1784909819.0
+   },
+   {
+    "symbol": "BEAT",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784909809.0
+   },
+   {
+    "symbol": "KAITO",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784909799.0
    }
   ]
  },
  "status": {
-  "equity": 1017.24,
+  "equity": 1017.33,
   "cash": 947.77,
   "starting": 1000.0,
-  "pnl_pct": 1.72,
-  "day_pnl_pct": 5.09,
-  "drawdown_pct": 9.95,
+  "pnl_pct": 1.73,
+  "day_pnl_pct": 5.1,
+  "drawdown_pct": 9.94,
   "goal_progress_pct": 1.017,
-  "gross_notional": 343.27,
+  "gross_notional": 343.36,
   "gross_leverage": 0.34,
   "wins": 7,
   "losses": 14,
@@ -108,8 +120,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.97,
-  "btc_ret_24h": -0.93
+  "btc_ret_4h": -1.17,
+  "btc_ret_24h": -1.14
  },
  "funnel": {
   "cg_top": 249,
@@ -127,15 +139,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.843,
+   "mark": 3.844,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 343.27,
+   "notional": 343.36,
    "margin": 68.45,
-   "upnl": 1.02,
-   "r": 0.11,
+   "upnl": 1.11,
+   "r": 0.12,
    "funding_paid": 0.035,
-   "age_h": 48.2,
+   "age_h": 48.4,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,
