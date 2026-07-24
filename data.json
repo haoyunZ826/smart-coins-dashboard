@@ -1,5 +1,5 @@
 {
- "generated_at": 1784912010.885799,
+ "generated_at": 1784912575.985659,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,27 +59,20 @@
   },
   {
    "symbol": "ZEC",
-   "heat": 0.96,
+   "heat": 0.95,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "TRX",
-   "heat": 0.96,
+   "heat": 0.95,
    "kol": 1,
    "square": 0
   }
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "ONDO",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784911329.0
-   }
-  ]
+  "signals": []
  },
  "status": {
   "equity": 1036.84,
@@ -102,8 +95,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -1.38,
-  "btc_ret_24h": -1.34
+  "btc_ret_4h": -1.2,
+  "btc_ret_24h": -1.16
  },
  "funnel": {
   "cg_top": 249,
