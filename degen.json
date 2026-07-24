@@ -1,5 +1,5 @@
 {
- "generated_at": 1784921104.1070678,
+ "generated_at": 1784921714.806245,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,13 +7,13 @@
    "symbol": "BNB",
    "heat": 1.0,
    "kol": 1,
-   "square": 9
+   "square": 8
   },
   {
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 7
+   "square": 6
   },
   {
    "symbol": "BTC",
@@ -71,24 +71,55 @@
   },
   {
    "symbol": "VIRTUAL",
-   "heat": 0.77,
+   "heat": 0.59,
    "kol": 1,
    "square": 0
   }
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": []
+  "signals": [
+   {
+    "symbol": "SOL",
+    "n_leaders": 1,
+    "fills": 7,
+    "latest_ts": 1784921250.0
+   },
+   {
+    "symbol": "DOGE",
+    "n_leaders": 1,
+    "fills": 11,
+    "latest_ts": 1784920989.0
+   },
+   {
+    "symbol": "ZEC",
+    "n_leaders": 1,
+    "fills": 5,
+    "latest_ts": 1784920800.0
+   },
+   {
+    "symbol": "DEXE",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784917185.0
+   },
+   {
+    "symbol": "HYPE",
+    "n_leaders": 1,
+    "fills": 2,
+    "latest_ts": 1784916645.0
+   }
+  ]
  },
  "status": {
-  "equity": 1014.74,
+  "equity": 1015.36,
   "cash": 947.77,
   "starting": 1000.0,
-  "pnl_pct": 1.47,
-  "day_pnl_pct": 4.84,
-  "drawdown_pct": 10.17,
+  "pnl_pct": 1.54,
+  "day_pnl_pct": 4.9,
+  "drawdown_pct": 10.11,
   "goal_progress_pct": 1.015,
-  "gross_notional": 340.77,
+  "gross_notional": 341.4,
   "gross_leverage": 0.34,
   "wins": 7,
   "losses": 14,
@@ -101,16 +132,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.18,
-  "btc_ret_24h": -0.99
+  "btc_ret_4h": 0.19,
+  "btc_ret_24h": -0.98
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 153,
-  "venue_pass": 61,
-  "deep_scanned": 61,
+  "venue_pass": 60,
+  "deep_scanned": 60,
   "candidates": 0
  },
  "positions": [
@@ -120,15 +151,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.815,
+   "mark": 3.822,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 340.77,
+   "notional": 341.4,
    "margin": 68.45,
-   "upnl": -1.48,
-   "r": -0.15,
+   "upnl": -0.85,
+   "r": -0.09,
    "funding_paid": 0.037,
-   "age_h": 51.2,
+   "age_h": 51.4,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,
