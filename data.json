@@ -1,5 +1,5 @@
 {
- "generated_at": 1784893555.290112,
+ "generated_at": 1784894123.153992,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -64,7 +64,7 @@
    {
     "symbol": "BTC",
     "n_leaders": 1,
-    "fills": 48,
+    "fills": 8,
     "latest_ts": 1784887974.0
    },
    {
