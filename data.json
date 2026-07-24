@@ -1,5 +1,5 @@
 {
- "generated_at": 1784902858.7882812,
+ "generated_at": 1784903509.4936619,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -63,27 +63,9 @@
   "signals": [
    {
     "symbol": "BTC",
-    "n_leaders": 4,
-    "fills": 11,
-    "latest_ts": 1784901114.0
-   },
-   {
-    "symbol": "SOL",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784898446.0
-   },
-   {
-    "symbol": "BNB",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784901604.0
-   },
-   {
-    "symbol": "HYPE",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784898424.0
+    "n_leaders": 2,
+    "fills": 10,
+    "latest_ts": 1784902721.0
    }
   ]
  },
@@ -108,16 +90,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -1.5,
-  "btc_ret_24h": -1.44
+  "btc_ret_4h": -1.85,
+  "btc_ret_24h": -1.79
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 112,
-  "venue_pass": 48,
-  "deep_scanned": 48,
+  "mcap_pass": 110,
+  "venue_pass": 47,
+  "deep_scanned": 47,
   "candidates": 0
  },
  "positions": [],
