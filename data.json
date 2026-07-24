@@ -1,5 +1,5 @@
 {
- "generated_at": 1784908360.5431612,
+ "generated_at": 1784908950.493818,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -75,9 +75,15 @@
   "signals": [
    {
     "symbol": "BTC",
-    "n_leaders": 3,
-    "fills": 28,
+    "n_leaders": 2,
+    "fills": 20,
     "latest_ts": 1784904416.0
+   },
+   {
+    "symbol": "BNB",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784901604.0
    }
   ]
  },
@@ -110,8 +116,8 @@
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 110,
-  "venue_pass": 46,
-  "deep_scanned": 46,
+  "venue_pass": 47,
+  "deep_scanned": 47,
   "candidates": 0
  },
  "positions": [],
