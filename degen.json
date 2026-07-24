@@ -1,5 +1,5 @@
 {
- "generated_at": 1784877718.791357,
+ "generated_at": 1784878085.405975,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,7 +7,7 @@
    "symbol": "BNB",
    "heat": 1.0,
    "kol": 1,
-   "square": 4
+   "square": 5
   },
   {
    "symbol": "ETH",
@@ -19,7 +19,7 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 6,
-   "square": 11
+   "square": 10
   },
   {
    "symbol": "HYPE",
@@ -61,7 +61,7 @@
    "symbol": "SOL",
    "heat": 1.0,
    "kol": 1,
-   "square": 6
+   "square": 5
   },
   {
    "symbol": "HBAR",
@@ -81,19 +81,19 @@
   "signals": []
  },
  "status": {
-  "equity": 1034.88,
-  "cash": 721.23,
+  "equity": 1034.59,
+  "cash": 686.8,
   "starting": 1000.0,
-  "pnl_pct": 3.49,
-  "day_pnl_pct": 6.92,
-  "drawdown_pct": 8.39,
+  "pnl_pct": 3.46,
+  "day_pnl_pct": 6.89,
+  "drawdown_pct": 8.41,
   "goal_progress_pct": 1.035,
-  "gross_notional": 1231.47,
-  "gross_leverage": 1.19,
+  "gross_notional": 1402.98,
+  "gross_leverage": 1.36,
   "wins": 6,
   "losses": 12,
-  "trade_count": 42,
-  "fees": 11.41,
+  "trade_count": 43,
+  "fees": 11.5,
   "funding": 0.51,
   "halted": false,
   "killed": false,
@@ -101,17 +101,17 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.38,
-  "btc_ret_24h": 0.4
+  "btc_ret_4h": 0.33,
+  "btc_ret_24h": 0.34
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 855,
-  "mcap_pass": 149,
-  "venue_pass": 58,
-  "deep_scanned": 58,
-  "candidates": 0
+  "mcap_pass": 154,
+  "venue_pass": 59,
+  "deep_scanned": 59,
+  "candidates": 1
  },
  "positions": [
   {
@@ -120,15 +120,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 65476.28004,
-   "mark": 65675.2,
+   "mark": 65610.6,
    "stop": 64166.7544392,
    "liq": 52773.88171224,
-   "notional": 493.12,
+   "notional": 492.63,
    "margin": 98.33,
-   "upnl": 1.49,
-   "r": 0.15,
+   "upnl": 1.01,
+   "r": 0.1,
    "funding_paid": 0.046,
-   "age_h": 87.5,
+   "age_h": 87.6,
    "tp_hit": 0,
    "runner": false,
    "score": 62.1,
@@ -140,15 +140,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.868,
+   "mark": 3.86,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 345.51,
+   "notional": 344.79,
    "margin": 68.45,
-   "upnl": 3.26,
-   "r": 0.34,
+   "upnl": 2.54,
+   "r": 0.26,
    "funding_paid": 0.037,
-   "age_h": 39.2,
+   "age_h": 39.3,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,
@@ -160,23 +160,76 @@
    "side": "long",
    "leverage": 5,
    "entry": 2.73799476,
-   "mark": 3.4321,
+   "mark": 3.4401,
    "stop": 3.2433862315027953,
    "liq": 2.20682377656,
-   "notional": 392.84,
+   "notional": 393.76,
    "margin": 62.68,
-   "upnl": 79.45,
-   "r": 5.86,
+   "upnl": 80.36,
+   "r": 5.92,
    "funding_paid": -0.086,
-   "age_h": 25.6,
+   "age_h": 25.7,
    "tp_hit": 1,
    "runner": false,
    "score": 73.8,
    "reason": "LONG 5d-breakout @2.6987 ema stack 20>50>100 ext 2.2atr; volx1.6 atr1h 1.97% rs5d +13.1% fund +0.005%"
+  },
+  {
+   "symbol": "US",
+   "venue": "gate",
+   "side": "long",
+   "leverage": 5,
+   "entry": 0.051224481599999996,
+   "mark": 0.051248,
+   "stop": 0.04813255961142857,
+   "liq": 0.0412869321696,
+   "notional": 171.79,
+   "margin": 34.34,
+   "upnl": 0.08,
+   "r": 0.01,
+   "funding_paid": 0.0,
+   "age_h": 0.0,
+   "tp_hit": 0,
+   "runner": false,
+   "score": 63.0,
+   "reason": "LONG 5d-breakout @0.050373 ema stack 20>50>100 ext 2.9atr; volx1.2 atr1h 2.74% rs5d +10.5% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "US",
+   "venue": "gate",
+   "tier": "mid",
+   "mcap_rank": 200,
+   "side": "long",
+   "score": 63.0,
+   "grade": "B",
+   "price": 0.051204,
+   "ret_1h": 2.75,
+   "ret_4h": 10.05,
+   "ret_24h": 12.37,
+   "vol_surge": 1.23,
+   "atr_pct": 2.74,
+   "funding": 0.005,
+   "stop_pct": 6.04
+  }
+ ],
  "trades": [
+  {
+   "symbol": "US",
+   "venue": "gate",
+   "action": "open",
+   "side": "long",
+   "price": 0.051224481599999996,
+   "qty": 3352.161914617939,
+   "notional_usd": 171.7127563155674,
+   "fee_usd": 0.0858563781577837,
+   "realized_pnl_usd": 0.0,
+   "leverage": 5,
+   "timestamp": 1784878063.348272,
+   "mode": "paper",
+   "reason": "B 63: LONG 5d-breakout @0.050373 ema stack 20>50>100 ext 2.9atr"
+  },
   {
    "symbol": "BEAT",
    "venue": "okx",
