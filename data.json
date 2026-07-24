@@ -1,5 +1,5 @@
 {
- "generated_at": 1784890525.455661,
+ "generated_at": 1784891127.516758,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -60,17 +60,24 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": []
+  "signals": [
+   {
+    "symbol": "BTC",
+    "n_leaders": 1,
+    "fills": 2,
+    "latest_ts": 1784884799.0
+   }
+  ]
  },
  "status": {
-  "equity": 1062.67,
+  "equity": 1054.63,
   "cash": 981.32,
   "starting": 1000.0,
-  "pnl_pct": 6.27,
-  "day_pnl_pct": 5.36,
-  "drawdown_pct": 2.7,
-  "goal_progress_pct": 1.063,
-  "gross_notional": 237.8,
+  "pnl_pct": 5.46,
+  "day_pnl_pct": 4.56,
+  "drawdown_pct": 3.43,
+  "goal_progress_pct": 1.055,
+  "gross_notional": 229.76,
   "gross_leverage": 0.22,
   "wins": 4,
   "losses": 5,
@@ -83,8 +90,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.87,
-  "btc_ret_24h": -1.26
+  "btc_ret_4h": -0.76,
+  "btc_ret_24h": -0.85
  },
  "funnel": {
   "cg_top": 249,
@@ -93,7 +100,7 @@
   "mcap_pass": 112,
   "venue_pass": 50,
   "deep_scanned": 50,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -102,40 +109,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.052072617099999996,
-   "mark": 0.052768,
+   "mark": 0.050984,
    "stop": 0.047957632975,
    "liq": 0.03502751376926667,
-   "notional": 237.8,
+   "notional": 229.76,
    "margin": 78.22,
-   "upnl": 3.13,
-   "r": 0.17,
-   "funding_paid": 0.0,
-   "age_h": 0.3,
+   "upnl": -4.91,
+   "r": -0.26,
+   "funding_paid": 0.001,
+   "age_h": 0.5,
    "tp_hit": 0,
    "runner": false,
    "score": 75.5,
    "reason": "LONG 5d-breakout @0.0518 ema stack 20>50>100 ext 2.4atr; volx3.3 atr1h 3.16% rs5d +13.3% fund +0.005%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "US",
-   "venue": "gate",
-   "tier": "mid",
-   "mcap_rank": 195,
-   "side": "long",
-   "score": 77.8,
-   "grade": "A",
-   "price": 0.052922,
-   "ret_1h": 4.52,
-   "ret_4h": 6.2,
-   "ret_24h": 15.74,
-   "vol_surge": 6.02,
-   "atr_pct": 3.29,
-   "funding": 0.005,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "US",
