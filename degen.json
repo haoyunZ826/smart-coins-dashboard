@@ -1,5 +1,5 @@
 {
- "generated_at": 1784900841.6200871,
+ "generated_at": 1784901095.743894,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -71,7 +71,7 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.49,
+   "heat": 0.48,
    "kol": 0,
    "square": 4
   }
@@ -118,28 +118,28 @@
   ]
  },
  "status": {
-  "equity": 1014.41,
-  "cash": 859.9,
+  "equity": 1010.81,
+  "cash": 947.77,
   "starting": 1000.0,
-  "pnl_pct": 1.44,
-  "day_pnl_pct": 4.8,
-  "drawdown_pct": 10.2,
-  "goal_progress_pct": 1.014,
-  "gross_notional": 821.6,
-  "gross_leverage": 0.81,
+  "pnl_pct": 1.08,
+  "day_pnl_pct": 4.43,
+  "drawdown_pct": 10.52,
+  "goal_progress_pct": 1.011,
+  "gross_notional": 336.84,
+  "gross_leverage": 0.33,
   "wins": 7,
-  "losses": 13,
-  "trade_count": 46,
-  "fees": 11.78,
+  "losses": 14,
+  "trade_count": 47,
+  "fees": 12.02,
   "funding": 0.5,
   "halted": false,
   "killed": false,
-  "loss_streak": 1
+  "loss_streak": 2
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -1.09,
-  "btc_ret_24h": -0.74
+  "btc_ret_4h": -1.32,
+  "btc_ret_24h": -0.97
  },
  "funnel": {
   "cg_top": 249,
@@ -152,40 +152,20 @@
  },
  "positions": [
   {
-   "symbol": "BTC",
-   "venue": "okx",
-   "side": "long",
-   "leverage": 5,
-   "entry": 65476.28004,
-   "mark": 64371.8,
-   "stop": 64166.7544392,
-   "liq": 52773.88171224,
-   "notional": 483.33,
-   "margin": 98.33,
-   "upnl": -8.29,
-   "r": -0.84,
-   "funding_paid": 0.053,
-   "age_h": 93.9,
-   "tp_hit": 0,
-   "runner": false,
-   "score": 62.1,
-   "reason": "LONG 5d-breakout @65088 ema stack 20>50>100 ext 1.9atr; volx3.2 atr1h 0.75% rs5d +0.1% fund +0.001%; social heat 1.00"
-  },
-  {
    "symbol": "UNI",
    "venue": "okx",
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.787,
+   "mark": 3.771,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 338.27,
+   "notional": 336.84,
    "margin": 68.45,
-   "upnl": -3.98,
-   "r": -0.41,
+   "upnl": -5.41,
+   "r": -0.56,
    "funding_paid": 0.037,
-   "age_h": 45.6,
+   "age_h": 45.7,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,
@@ -194,6 +174,21 @@
  ],
  "candidates": [],
  "trades": [
+  {
+   "symbol": "BTC",
+   "venue": "okx",
+   "action": "close",
+   "side": "long",
+   "price": 64115.14368000001,
+   "qty": 0.0,
+   "notional_usd": 481.59901872887644,
+   "fee_usd": 0.2407995093644382,
+   "realized_pnl_usd": -10.460845647426165,
+   "leverage": 5,
+   "timestamp": 1784901074.716887,
+   "mode": "paper",
+   "reason": "stop_loss: -1.02R stop 64166.8"
+  },
   {
    "symbol": "US",
    "venue": "gate",
