@@ -1,5 +1,5 @@
 {
- "generated_at": 1784919880.8340821,
+ "generated_at": 1784920500.518363,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -13,7 +13,7 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 7,
-   "square": 8
+   "square": 9
   },
   {
    "symbol": "SOL",
@@ -25,7 +25,7 @@
    "symbol": "DOGE",
    "heat": 1.0,
    "kol": 2,
-   "square": 4
+   "square": 5
   },
   {
    "symbol": "HYPE",
@@ -71,45 +71,14 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.32,
+   "heat": 0.31,
    "kol": 0,
    "square": 2
   }
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "SOL",
-    "n_leaders": 1,
-    "fills": 6,
-    "latest_ts": 1784918977.0
-   },
-   {
-    "symbol": "ZEC",
-    "n_leaders": 1,
-    "fills": 3,
-    "latest_ts": 1784918968.0
-   },
-   {
-    "symbol": "DOGE",
-    "n_leaders": 1,
-    "fills": 10,
-    "latest_ts": 1784918892.0
-   },
-   {
-    "symbol": "DEXE",
-    "n_leaders": 1,
-    "fills": 2,
-    "latest_ts": 1784917185.0
-   },
-   {
-    "symbol": "HYPE",
-    "n_leaders": 1,
-    "fills": 6,
-    "latest_ts": 1784916645.0
-   }
-  ]
+  "signals": []
  },
  "status": {
   "equity": 1036.84,
@@ -132,16 +101,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.27,
-  "btc_ret_24h": -0.9
+  "btc_ret_4h": 0.11,
+  "btc_ret_24h": -1.06
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 111,
-  "venue_pass": 48,
-  "deep_scanned": 48,
+  "mcap_pass": 110,
+  "venue_pass": 46,
+  "deep_scanned": 46,
   "candidates": 0
  },
  "positions": [],
