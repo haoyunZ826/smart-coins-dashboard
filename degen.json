@@ -1,5 +1,5 @@
 {
- "generated_at": 1784901095.743894,
+ "generated_at": 1784901700.344824,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -81,33 +81,15 @@
   "signals": [
    {
     "symbol": "BTC",
-    "n_leaders": 3,
-    "fills": 11,
-    "latest_ts": 1784899859.0
+    "n_leaders": 2,
+    "fills": 6,
+    "latest_ts": 1784901114.0
    },
    {
     "symbol": "SOL",
     "n_leaders": 1,
     "fills": 1,
     "latest_ts": 1784898446.0
-   },
-   {
-    "symbol": "BEAT",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784900458.0
-   },
-   {
-    "symbol": "KAITO",
-    "n_leaders": 1,
-    "fills": 3,
-    "latest_ts": 1784899878.0
-   },
-   {
-    "symbol": "DEXE",
-    "n_leaders": 1,
-    "fills": 8,
-    "latest_ts": 1784899778.0
    },
    {
     "symbol": "HYPE",
@@ -118,14 +100,14 @@
   ]
  },
  "status": {
-  "equity": 1010.81,
+  "equity": 1011.7,
   "cash": 947.77,
   "starting": 1000.0,
-  "pnl_pct": 1.08,
-  "day_pnl_pct": 4.43,
-  "drawdown_pct": 10.52,
-  "goal_progress_pct": 1.011,
-  "gross_notional": 336.84,
+  "pnl_pct": 1.17,
+  "day_pnl_pct": 4.52,
+  "drawdown_pct": 10.44,
+  "goal_progress_pct": 1.012,
+  "gross_notional": 337.73,
   "gross_leverage": 0.33,
   "wins": 7,
   "losses": 14,
@@ -138,14 +120,14 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -1.32,
-  "btc_ret_24h": -0.97
+  "btc_ret_4h": -1.28,
+  "btc_ret_24h": -1.22
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 153,
+  "mcap_pass": 152,
   "venue_pass": 60,
   "deep_scanned": 60,
   "candidates": 0
@@ -157,15 +139,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.771,
+   "mark": 3.781,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 336.84,
+   "notional": 337.73,
    "margin": 68.45,
-   "upnl": -5.41,
-   "r": -0.56,
-   "funding_paid": 0.037,
-   "age_h": 45.7,
+   "upnl": -4.51,
+   "r": -0.47,
+   "funding_paid": 0.036,
+   "age_h": 45.9,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,
