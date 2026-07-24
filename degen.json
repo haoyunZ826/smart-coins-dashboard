@@ -1,5 +1,5 @@
 {
- "generated_at": 1784929598.741813,
+ "generated_at": 1784930230.194645,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -80,46 +80,34 @@
   "leaders": 25,
   "signals": [
    {
+    "symbol": "LDO",
+    "n_leaders": 1,
+    "fills": 2,
+    "latest_ts": 1784928259.0
+   },
+   {
+    "symbol": "KAITO",
+    "n_leaders": 1,
+    "fills": 3,
+    "latest_ts": 1784926950.0
+   },
+   {
     "symbol": "BNB",
     "n_leaders": 1,
     "fills": 1,
     "latest_ts": 1784923589.0
-   },
-   {
-    "symbol": "XRP",
-    "n_leaders": 1,
-    "fills": 7,
-    "latest_ts": 1784928725.0
-   },
-   {
-    "symbol": "ZEC",
-    "n_leaders": 1,
-    "fills": 3,
-    "latest_ts": 1784927640.0
-   },
-   {
-    "symbol": "DOGE",
-    "n_leaders": 1,
-    "fills": 12,
-    "latest_ts": 1784927636.0
-   },
-   {
-    "symbol": "HYPE",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784927513.0
    }
   ]
  },
  "status": {
-  "equity": 1011.69,
+  "equity": 1009.82,
   "cash": 947.76,
   "starting": 1000.0,
-  "pnl_pct": 1.17,
-  "day_pnl_pct": -0.45,
-  "drawdown_pct": 10.44,
-  "goal_progress_pct": 1.012,
-  "gross_notional": 337.73,
+  "pnl_pct": 0.98,
+  "day_pnl_pct": -0.63,
+  "drawdown_pct": 10.61,
+  "goal_progress_pct": 1.01,
+  "gross_notional": 335.86,
   "gross_leverage": 0.33,
   "wins": 7,
   "losses": 14,
@@ -132,8 +120,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.05,
-  "btc_ret_24h": -1.56
+  "btc_ret_4h": -0.07,
+  "btc_ret_24h": -1.58
  },
  "funnel": {
   "cg_top": 249,
@@ -151,15 +139,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.781,
+   "mark": 3.76,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 337.73,
+   "notional": 335.86,
    "margin": 68.45,
-   "upnl": -4.51,
-   "r": -0.47,
-   "funding_paid": 0.044,
-   "age_h": 53.6,
+   "upnl": -6.39,
+   "r": -0.66,
+   "funding_paid": 0.045,
+   "age_h": 53.8,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,
