@@ -1,5 +1,5 @@
 {
- "generated_at": 1784903509.4936619,
+ "generated_at": 1784904130.1129751,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -62,10 +62,22 @@
   "leaders": 25,
   "signals": [
    {
+    "symbol": "BNB",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784901604.0
+   },
+   {
+    "symbol": "HYPE",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784898424.0
+   },
+   {
     "symbol": "BTC",
-    "n_leaders": 2,
-    "fills": 10,
-    "latest_ts": 1784902721.0
+    "n_leaders": 1,
+    "fills": 27,
+    "latest_ts": 1784902947.0
    }
   ]
  },
@@ -90,8 +102,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -1.85,
-  "btc_ret_24h": -1.79
+  "btc_ret_4h": -1.73,
+  "btc_ret_24h": -1.67
  },
  "funnel": {
   "cg_top": 249,
