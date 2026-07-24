@@ -1,5 +1,5 @@
 {
- "generated_at": 1784895384.316166,
+ "generated_at": 1784895978.730103,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -64,14 +64,8 @@
    {
     "symbol": "BTC",
     "n_leaders": 1,
-    "fills": 10,
-    "latest_ts": 1784894108.0
-   },
-   {
-    "symbol": "WLD",
-    "n_leaders": 1,
     "fills": 2,
-    "latest_ts": 1784894479.0
+    "latest_ts": 1784894108.0
    }
   ]
  },
@@ -95,17 +89,17 @@
   "loss_streak": 1
  },
  "regime": {
-  "state": "risk_on",
-  "btc_ret_4h": -0.33,
-  "btc_ret_24h": -0.1
+  "state": "neutral",
+  "btc_ret_4h": -0.38,
+  "btc_ret_24h": -0.16
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 112,
-  "venue_pass": 48,
-  "deep_scanned": 48,
+  "venue_pass": 49,
+  "deep_scanned": 49,
   "candidates": 0
  },
  "positions": [],
