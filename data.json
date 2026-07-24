@@ -1,5 +1,5 @@
 {
- "generated_at": 1784882335.827071,
+ "generated_at": 1784882934.861143,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -62,6 +62,12 @@
   "leaders": 25,
   "signals": [
    {
+    "symbol": "BTC",
+    "n_leaders": 2,
+    "fills": 5,
+    "latest_ts": 1784882136.0
+   },
+   {
     "symbol": "LTC",
     "n_leaders": 1,
     "fills": 1,
@@ -70,14 +76,14 @@
   ]
  },
  "status": {
-  "equity": 1065.29,
+  "equity": 1065.96,
   "cash": 903.21,
   "starting": 1000.0,
-  "pnl_pct": 6.53,
-  "day_pnl_pct": 5.62,
-  "drawdown_pct": 2.46,
-  "goal_progress_pct": 1.065,
-  "gross_notional": 337.37,
+  "pnl_pct": 6.6,
+  "day_pnl_pct": 5.68,
+  "drawdown_pct": 2.39,
+  "goal_progress_pct": 1.066,
+  "gross_notional": 338.04,
   "gross_leverage": 0.32,
   "wins": 3,
   "losses": 5,
@@ -90,13 +96,13 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.14,
-  "btc_ret_24h": -0.34
+  "btc_ret_4h": 0.18,
+  "btc_ret_24h": -0.3
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
-  "gate_perps": 852,
+  "gate_perps": 850,
   "mcap_pass": 113,
   "venue_pass": 49,
   "deep_scanned": 49,
@@ -109,15 +115,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 3.5145,
+   "mark": 3.5215,
    "stop": 3.319271499196582,
    "liq": 1.8425157222733335,
-   "notional": 337.37,
+   "notional": 338.04,
    "margin": 87.65,
-   "upnl": 74.43,
-   "r": 5.76,
+   "upnl": 75.1,
+   "r": 5.81,
    "funding_paid": -0.074,
-   "age_h": 26.9,
+   "age_h": 27.1,
    "tp_hit": 1,
    "runner": false,
    "score": 72.8,
