@@ -1,5 +1,5 @@
 {
- "generated_at": 1784922600.6145961,
+ "generated_at": 1784923211.2632902,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,7 +7,7 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 9
+   "square": 8
   },
   {
    "symbol": "BTC",
@@ -49,7 +49,7 @@
    "symbol": "BNB",
    "heat": 1.0,
    "kol": 1,
-   "square": 12
+   "square": 11
   },
   {
    "symbol": "HBAR",
@@ -71,33 +71,14 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.31,
+   "heat": 0.3,
    "kol": 0,
    "square": 2
   }
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "SOL",
-    "n_leaders": 1,
-    "fills": 10,
-    "latest_ts": 1784921909.0
-   },
-   {
-    "symbol": "DOGE",
-    "n_leaders": 1,
-    "fills": 10,
-    "latest_ts": 1784921546.0
-   },
-   {
-    "symbol": "ZEC",
-    "n_leaders": 1,
-    "fills": 5,
-    "latest_ts": 1784920800.0
-   }
-  ]
+  "signals": []
  },
  "status": {
   "equity": 1036.84,
@@ -120,8 +101,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.27,
-  "btc_ret_24h": -0.9
+  "btc_ret_4h": 0.18,
+  "btc_ret_24h": -0.99
  },
  "funnel": {
   "cg_top": 249,
