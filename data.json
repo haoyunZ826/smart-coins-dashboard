@@ -1,5 +1,5 @@
 {
- "generated_at": 1784935682.142428,
+ "generated_at": 1784936325.380809,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -71,7 +71,7 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.97,
+   "heat": 0.96,
    "kol": 1,
    "square": 0
   }
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.09,
-  "btc_ret_24h": -1.42
+  "btc_ret_4h": -0.07,
+  "btc_ret_24h": -1.41
  },
  "funnel": {
   "cg_top": 249,
