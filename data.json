@@ -1,5 +1,5 @@
 {
- "generated_at": 1784886656.419155,
+ "generated_at": 1784887071.0389109,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -76,28 +76,28 @@
   ]
  },
  "status": {
-  "equity": 1081.46,
-  "cash": 953.06,
+  "equity": 1059.66,
+  "cash": 1059.66,
   "starting": 1000.0,
-  "pnl_pct": 8.15,
-  "day_pnl_pct": 7.22,
-  "drawdown_pct": 0.97,
-  "goal_progress_pct": 1.081,
-  "gross_notional": 251.11,
-  "gross_leverage": 0.23,
-  "wins": 3,
+  "pnl_pct": 5.97,
+  "day_pnl_pct": 5.06,
+  "drawdown_pct": 2.97,
+  "goal_progress_pct": 1.06,
+  "gross_notional": 0.0,
+  "gross_leverage": 0.0,
+  "wins": 4,
   "losses": 5,
-  "trade_count": 20,
-  "fees": 4.39,
+  "trade_count": 21,
+  "fees": 4.5,
   "funding": 0.51,
   "halted": false,
   "killed": false,
-  "loss_streak": 2
+  "loss_streak": 0
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.34,
-  "btc_ret_24h": -0.83
+  "btc_ret_4h": -0.28,
+  "btc_ret_24h": -0.77
  },
  "funnel": {
   "cg_top": 249,
@@ -108,30 +108,24 @@
   "deep_scanned": 49,
   "candidates": 0
  },
- "positions": [
+ "positions": [],
+ "candidates": [],
+ "trades": [
   {
    "symbol": "BEAT",
    "venue": "okx",
+   "action": "close",
    "side": "long",
+   "price": 3.41417544,
+   "qty": 0.0,
+   "notional_usd": 229.48818521653317,
+   "fee_usd": 0.11474409260826658,
+   "realized_pnl_usd": 45.24626138547569,
    "leverage": 3,
-   "entry": 2.73912149,
-   "mark": 3.737,
-   "stop": 3.4246678367965524,
-   "liq": 1.8425157222733335,
-   "notional": 251.11,
-   "margin": 61.35,
-   "upnl": 67.05,
-   "r": 7.41,
-   "funding_paid": -0.082,
-   "age_h": 28.1,
-   "tp_hit": 2,
-   "runner": true,
-   "score": 72.8,
-   "reason": "LONG 5d-breakout @2.6987 ema stack 20>50>100 ext 2.2atr; volx1.6 atr1h 1.97% rs5d +13.1% fund +0.005%"
-  }
- ],
- "candidates": [],
- "trades": [
+   "timestamp": 1784887041.0243819,
+   "mode": "paper",
+   "reason": "trailing_stop: +5.02R stop 3.42467"
+  },
   {
    "symbol": "BEAT",
    "venue": "okx",
