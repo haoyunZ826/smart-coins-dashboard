@@ -1,5 +1,5 @@
 {
- "generated_at": 1784898998.5257869,
+ "generated_at": 1784899625.676367,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -63,21 +63,21 @@
   "signals": [
    {
     "symbol": "BTC",
-    "n_leaders": 1,
-    "fills": 3,
-    "latest_ts": 1784897819.0
-   },
-   {
-    "symbol": "SOL",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784898446.0
+    "n_leaders": 2,
+    "fills": 11,
+    "latest_ts": 1784898927.0
    },
    {
     "symbol": "ETHFI",
     "n_leaders": 1,
     "fills": 5,
     "latest_ts": 1784897058.0
+   },
+   {
+    "symbol": "HYPE",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784898424.0
    }
   ]
  },
@@ -102,16 +102,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -1.05,
-  "btc_ret_24h": -0.7
+  "btc_ret_4h": -0.98,
+  "btc_ret_24h": -0.63
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 112,
-  "venue_pass": 48,
-  "deep_scanned": 48,
+  "mcap_pass": 111,
+  "venue_pass": 49,
+  "deep_scanned": 49,
   "candidates": 0
  },
  "positions": [],
