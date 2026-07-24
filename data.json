@@ -1,5 +1,5 @@
 {
- "generated_at": 1784919268.620636,
+ "generated_at": 1784919880.8340821,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -80,22 +80,22 @@
   "leaders": 25,
   "signals": [
    {
+    "symbol": "SOL",
+    "n_leaders": 1,
+    "fills": 6,
+    "latest_ts": 1784918977.0
+   },
+   {
     "symbol": "ZEC",
     "n_leaders": 1,
-    "fills": 2,
-    "latest_ts": 1784918429.0
+    "fills": 3,
+    "latest_ts": 1784918968.0
    },
    {
     "symbol": "DOGE",
     "n_leaders": 1,
     "fills": 10,
-    "latest_ts": 1784918348.0
-   },
-   {
-    "symbol": "SOL",
-    "n_leaders": 1,
-    "fills": 6,
-    "latest_ts": 1784918239.0
+    "latest_ts": 1784918892.0
    },
    {
     "symbol": "DEXE",
@@ -106,7 +106,7 @@
    {
     "symbol": "HYPE",
     "n_leaders": 1,
-    "fills": 8,
+    "fills": 6,
     "latest_ts": 1784916645.0
    }
   ]
@@ -132,8 +132,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.29,
-  "btc_ret_24h": -0.96
+  "btc_ret_4h": 0.27,
+  "btc_ret_24h": -0.9
  },
  "funnel": {
   "cg_top": 249,
