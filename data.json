@@ -1,5 +1,5 @@
 {
- "generated_at": 1784891127.516758,
+ "generated_at": 1784891759.934232,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -63,22 +63,34 @@
   "signals": [
    {
     "symbol": "BTC",
+    "n_leaders": 2,
+    "fills": 51,
+    "latest_ts": 1784887974.0
+   },
+   {
+    "symbol": "GRAM",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784888759.0
+   },
+   {
+    "symbol": "BEAT",
     "n_leaders": 1,
     "fills": 2,
-    "latest_ts": 1784884799.0
+    "latest_ts": 1784888408.0
    }
   ]
  },
  "status": {
-  "equity": 1054.63,
+  "equity": 1048.0,
   "cash": 981.32,
   "starting": 1000.0,
-  "pnl_pct": 5.46,
-  "day_pnl_pct": 4.56,
-  "drawdown_pct": 3.43,
-  "goal_progress_pct": 1.055,
-  "gross_notional": 229.76,
-  "gross_leverage": 0.22,
+  "pnl_pct": 4.8,
+  "day_pnl_pct": 3.9,
+  "drawdown_pct": 4.04,
+  "goal_progress_pct": 1.048,
+  "gross_notional": 223.12,
+  "gross_leverage": 0.21,
   "wins": 4,
   "losses": 5,
   "trade_count": 22,
@@ -98,8 +110,8 @@
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 112,
-  "venue_pass": 50,
-  "deep_scanned": 50,
+  "venue_pass": 49,
+  "deep_scanned": 49,
   "candidates": 0
  },
  "positions": [
@@ -109,15 +121,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.052072617099999996,
-   "mark": 0.050984,
+   "mark": 0.049512,
    "stop": 0.047957632975,
    "liq": 0.03502751376926667,
-   "notional": 229.76,
+   "notional": 223.12,
    "margin": 78.22,
-   "upnl": -4.91,
-   "r": -0.26,
+   "upnl": -11.54,
+   "r": -0.62,
    "funding_paid": 0.001,
-   "age_h": 0.5,
+   "age_h": 0.7,
    "tp_hit": 0,
    "runner": false,
    "score": 75.5,
