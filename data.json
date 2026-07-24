@@ -1,5 +1,5 @@
 {
- "generated_at": 1784923831.013569,
+ "generated_at": 1784924420.542059,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -78,45 +78,14 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "XRP",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784923152.0
-   },
-   {
-    "symbol": "SOL",
-    "n_leaders": 1,
-    "fills": 10,
-    "latest_ts": 1784922711.0
-   },
-   {
-    "symbol": "DOGE",
-    "n_leaders": 1,
-    "fills": 10,
-    "latest_ts": 1784922566.0
-   },
-   {
-    "symbol": "DEXE",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784922384.0
-   },
-   {
-    "symbol": "ZEC",
-    "n_leaders": 1,
-    "fills": 4,
-    "latest_ts": 1784920800.0
-   }
-  ]
+  "signals": []
  },
  "status": {
   "equity": 1036.84,
   "cash": 1036.84,
   "starting": 1000.0,
   "pnl_pct": 3.68,
-  "day_pnl_pct": 2.8,
+  "day_pnl_pct": 0.0,
   "drawdown_pct": 5.06,
   "goal_progress_pct": 1.037,
   "gross_notional": 0.0,
@@ -132,8 +101,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.4,
-  "btc_ret_24h": -1.42
+  "btc_ret_4h": 0.39,
+  "btc_ret_24h": -1.43
  },
  "funnel": {
   "cg_top": 249,
