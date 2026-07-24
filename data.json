@@ -1,5 +1,5 @@
 {
- "generated_at": 1784869474.931689,
+ "generated_at": 1784870096.0665522,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,7 +59,7 @@
   },
   {
    "symbol": "CRV",
-   "heat": 0.63,
+   "heat": 0.62,
    "kol": 1,
    "square": 0
   },
@@ -75,14 +75,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1036.78,
+  "equity": 1035.78,
   "cash": 903.21,
   "starting": 1000.0,
-  "pnl_pct": 3.68,
-  "day_pnl_pct": 2.79,
-  "drawdown_pct": 5.07,
-  "goal_progress_pct": 1.037,
-  "gross_notional": 308.86,
+  "pnl_pct": 3.58,
+  "day_pnl_pct": 2.69,
+  "drawdown_pct": 5.16,
+  "goal_progress_pct": 1.036,
+  "gross_notional": 307.86,
   "gross_leverage": 0.3,
   "wins": 3,
   "losses": 5,
@@ -95,8 +95,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.33,
-  "btc_ret_24h": -0.61
+  "btc_ret_4h": 0.45,
+  "btc_ret_24h": -0.49
  },
  "funnel": {
   "cg_top": 249,
@@ -105,7 +105,7 @@
   "mcap_pass": 114,
   "venue_pass": 48,
   "deep_scanned": 48,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -114,22 +114,40 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 3.2175,
-   "stop": 3.0118604722820725,
+   "mark": 3.2071,
+   "stop": 3.02655704086477,
    "liq": 1.8425157222733335,
-   "notional": 308.86,
+   "notional": 307.86,
    "margin": 87.65,
-   "upnl": 45.92,
-   "r": 3.55,
-   "funding_paid": -0.075,
-   "age_h": 23.3,
+   "upnl": 44.92,
+   "r": 3.48,
+   "funding_paid": -0.076,
+   "age_h": 23.5,
    "tp_hit": 1,
    "runner": false,
    "score": 72.8,
    "reason": "LONG 5d-breakout @2.6987 ema stack 20>50>100 ext 2.2atr; volx1.6 atr1h 1.97% rs5d +13.1% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "BEAT",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 66,
+   "side": "long",
+   "score": 68.7,
+   "grade": "B",
+   "price": 3.2094,
+   "ret_1h": 0.89,
+   "ret_4h": 4.01,
+   "ret_24h": 16.74,
+   "vol_surge": 0.49,
+   "atr_pct": 2.84,
+   "funding": -0.0045,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "BEAT",
