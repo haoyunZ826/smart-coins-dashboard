@@ -1,5 +1,5 @@
 {
- "generated_at": 1784861971.044605,
+ "generated_at": 1784862092.720395,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -65,7 +65,7 @@
   },
   {
    "symbol": "ASTER",
-   "heat": 0.32,
+   "heat": 0.31,
    "kol": 0,
    "square": 3
   },
@@ -81,14 +81,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1027.98,
+  "equity": 1027.79,
   "cash": 903.21,
   "starting": 1000.0,
-  "pnl_pct": 2.8,
-  "day_pnl_pct": 1.92,
-  "drawdown_pct": 5.87,
+  "pnl_pct": 2.78,
+  "day_pnl_pct": 1.9,
+  "drawdown_pct": 5.89,
   "goal_progress_pct": 1.028,
-  "gross_notional": 300.07,
+  "gross_notional": 299.88,
   "gross_leverage": 0.29,
   "wins": 3,
   "losses": 5,
@@ -120,13 +120,13 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 3.1259,
+   "mark": 3.1239,
    "stop": 2.9468024139064384,
    "liq": 1.8425157222733335,
-   "notional": 300.07,
+   "notional": 299.88,
    "margin": 87.65,
-   "upnl": 37.13,
-   "r": 2.87,
+   "upnl": 36.94,
+   "r": 2.86,
    "funding_paid": -0.068,
    "age_h": 21.3,
    "tp_hit": 1,
