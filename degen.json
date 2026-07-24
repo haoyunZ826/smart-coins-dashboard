@@ -1,5 +1,5 @@
 {
- "generated_at": 1784922016.862283,
+ "generated_at": 1784922622.194931,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -71,55 +71,24 @@
   },
   {
    "symbol": "VIRTUAL",
-   "heat": 0.59,
+   "heat": 0.58,
    "kol": 1,
    "square": 0
   }
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "SOL",
-    "n_leaders": 1,
-    "fills": 7,
-    "latest_ts": 1784921250.0
-   },
-   {
-    "symbol": "DOGE",
-    "n_leaders": 1,
-    "fills": 11,
-    "latest_ts": 1784920989.0
-   },
-   {
-    "symbol": "ZEC",
-    "n_leaders": 1,
-    "fills": 5,
-    "latest_ts": 1784920800.0
-   },
-   {
-    "symbol": "DEXE",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784917185.0
-   },
-   {
-    "symbol": "HYPE",
-    "n_leaders": 1,
-    "fills": 2,
-    "latest_ts": 1784916645.0
-   }
-  ]
+  "signals": []
  },
  "status": {
-  "equity": 1015.63,
+  "equity": 1015.01,
   "cash": 947.76,
   "starting": 1000.0,
-  "pnl_pct": 1.56,
-  "day_pnl_pct": 4.93,
-  "drawdown_pct": 10.09,
-  "goal_progress_pct": 1.016,
-  "gross_notional": 341.66,
+  "pnl_pct": 1.5,
+  "day_pnl_pct": 4.86,
+  "drawdown_pct": 10.15,
+  "goal_progress_pct": 1.015,
+  "gross_notional": 341.04,
   "gross_leverage": 0.34,
   "wins": 7,
   "losses": 14,
@@ -132,8 +101,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.26,
-  "btc_ret_24h": -0.91
+  "btc_ret_4h": 0.19,
+  "btc_ret_24h": -0.98
  },
  "funnel": {
   "cg_top": 249,
@@ -151,15 +120,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.825,
+   "mark": 3.818,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 341.66,
+   "notional": 341.04,
    "margin": 68.45,
-   "upnl": -0.58,
-   "r": -0.06,
-   "funding_paid": 0.037,
-   "age_h": 51.5,
+   "upnl": -1.21,
+   "r": -0.13,
+   "funding_paid": 0.038,
+   "age_h": 51.7,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,

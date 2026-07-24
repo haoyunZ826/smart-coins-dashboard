@@ -1,5 +1,5 @@
 {
- "generated_at": 1784921980.9167202,
+ "generated_at": 1784922600.6145961,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -80,10 +80,22 @@
   "leaders": 25,
   "signals": [
    {
-    "symbol": "BEAT",
+    "symbol": "SOL",
     "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784921169.0
+    "fills": 10,
+    "latest_ts": 1784921909.0
+   },
+   {
+    "symbol": "DOGE",
+    "n_leaders": 1,
+    "fills": 10,
+    "latest_ts": 1784921546.0
+   },
+   {
+    "symbol": "ZEC",
+    "n_leaders": 1,
+    "fills": 5,
+    "latest_ts": 1784920800.0
    }
   ]
  },
@@ -108,16 +120,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.21,
-  "btc_ret_24h": -0.96
+  "btc_ret_4h": 0.27,
+  "btc_ret_24h": -0.9
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 110,
-  "venue_pass": 46,
-  "deep_scanned": 46,
+  "mcap_pass": 111,
+  "venue_pass": 48,
+  "deep_scanned": 48,
   "candidates": 0
  },
  "positions": [],
