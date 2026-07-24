@@ -1,5 +1,5 @@
 {
- "generated_at": 1784858256.1665752,
+ "generated_at": 1784858770.159362,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,19 +7,19 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 11
+   "square": 10
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 6,
-   "square": 14
+   "square": 13
   },
   {
    "symbol": "SOL",
    "heat": 1.0,
    "kol": 1,
-   "square": 10
+   "square": 9
   },
   {
    "symbol": "DOGE",
@@ -65,13 +65,13 @@
   },
   {
    "symbol": "VIRTUAL",
-   "heat": 0.55,
+   "heat": 0.37,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.34,
+   "heat": 0.33,
    "kol": 0,
    "square": 3
   }
@@ -82,11 +82,11 @@
  },
  "status": {
   "equity": 1021.39,
-  "cash": 848.91,
+  "cash": 848.92,
   "starting": 1000.0,
   "pnl_pct": 2.14,
   "day_pnl_pct": 1.26,
-  "drawdown_pct": 6.48,
+  "drawdown_pct": 6.47,
   "goal_progress_pct": 1.021,
   "gross_notional": 422.9,
   "gross_leverage": 0.41,
@@ -127,8 +127,8 @@
    "margin": 125.21,
    "upnl": 47.27,
    "r": 2.56,
-   "funding_paid": -0.057,
-   "age_h": 20.2,
+   "funding_paid": -0.059,
+   "age_h": 20.4,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
