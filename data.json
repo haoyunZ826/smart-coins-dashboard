@@ -1,5 +1,5 @@
 {
- "generated_at": 1784888347.3363168,
+ "generated_at": 1784888940.60415,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -64,14 +64,8 @@
    {
     "symbol": "BTC",
     "n_leaders": 1,
-    "fills": 42,
-    "latest_ts": 1784886235.0
-   },
-   {
-    "symbol": "BEAT",
-    "n_leaders": 1,
-    "fills": 4,
-    "latest_ts": 1784887668.0
+    "fills": 3,
+    "latest_ts": 1784884799.0
    }
   ]
  },
@@ -96,8 +90,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.73,
-  "btc_ret_24h": -1.11
+  "btc_ret_4h": -0.71,
+  "btc_ret_24h": -1.1
  },
  "funnel": {
   "cg_top": 249,
