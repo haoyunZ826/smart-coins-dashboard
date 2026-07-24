@@ -1,5 +1,5 @@
 {
- "generated_at": 1784930230.194645,
+ "generated_at": 1784930850.341693,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -78,36 +78,17 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "LDO",
-    "n_leaders": 1,
-    "fills": 2,
-    "latest_ts": 1784928259.0
-   },
-   {
-    "symbol": "KAITO",
-    "n_leaders": 1,
-    "fills": 3,
-    "latest_ts": 1784926950.0
-   },
-   {
-    "symbol": "BNB",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784923589.0
-   }
-  ]
+  "signals": []
  },
  "status": {
-  "equity": 1009.82,
+  "equity": 1010.62,
   "cash": 947.76,
   "starting": 1000.0,
-  "pnl_pct": 0.98,
-  "day_pnl_pct": -0.63,
-  "drawdown_pct": 10.61,
-  "goal_progress_pct": 1.01,
-  "gross_notional": 335.86,
+  "pnl_pct": 1.06,
+  "day_pnl_pct": -0.55,
+  "drawdown_pct": 10.53,
+  "goal_progress_pct": 1.011,
+  "gross_notional": 336.66,
   "gross_leverage": 0.33,
   "wins": 7,
   "losses": 14,
@@ -119,17 +100,17 @@
   "loss_streak": 2
  },
  "regime": {
-  "state": "neutral",
-  "btc_ret_4h": -0.07,
-  "btc_ret_24h": -1.58
+  "state": "risk_off",
+  "btc_ret_4h": -0.2,
+  "btc_ret_24h": -1.61
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 153,
-  "venue_pass": 61,
-  "deep_scanned": 61,
+  "mcap_pass": 147,
+  "venue_pass": 58,
+  "deep_scanned": 58,
   "candidates": 0
  },
  "positions": [
@@ -139,15 +120,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.76,
+   "mark": 3.769,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 335.86,
+   "notional": 336.66,
    "margin": 68.45,
-   "upnl": -6.39,
-   "r": -0.66,
-   "funding_paid": 0.045,
-   "age_h": 53.8,
+   "upnl": -5.59,
+   "r": -0.58,
+   "funding_paid": 0.046,
+   "age_h": 54.0,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,
