@@ -1,5 +1,5 @@
 {
- "generated_at": 1784889933.012726,
+ "generated_at": 1784890525.455661,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -60,30 +60,17 @@
  ],
  "copytrade": {
   "leaders": 25,
-  "signals": [
-   {
-    "symbol": "GRAM",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784888759.0
-   },
-   {
-    "symbol": "BEAT",
-    "n_leaders": 1,
-    "fills": 4,
-    "latest_ts": 1784888408.0
-   }
-  ]
+  "signals": []
  },
  "status": {
-  "equity": 1058.63,
+  "equity": 1062.67,
   "cash": 981.32,
   "starting": 1000.0,
-  "pnl_pct": 5.86,
-  "day_pnl_pct": 4.96,
-  "drawdown_pct": 3.06,
-  "goal_progress_pct": 1.059,
-  "gross_notional": 233.76,
+  "pnl_pct": 6.27,
+  "day_pnl_pct": 5.36,
+  "drawdown_pct": 2.7,
+  "goal_progress_pct": 1.063,
+  "gross_notional": 237.8,
   "gross_leverage": 0.22,
   "wins": 4,
   "losses": 5,
@@ -96,8 +83,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.68,
-  "btc_ret_24h": -1.07
+  "btc_ret_4h": -0.87,
+  "btc_ret_24h": -1.26
  },
  "funnel": {
   "cg_top": 249,
@@ -106,7 +93,7 @@
   "mcap_pass": 112,
   "venue_pass": 50,
   "deep_scanned": 50,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -115,22 +102,40 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.052072617099999996,
-   "mark": 0.051872,
+   "mark": 0.052768,
    "stop": 0.047957632975,
    "liq": 0.03502751376926667,
-   "notional": 233.76,
+   "notional": 237.8,
    "margin": 78.22,
-   "upnl": -0.9,
-   "r": -0.05,
+   "upnl": 3.13,
+   "r": 0.17,
    "funding_paid": 0.0,
-   "age_h": 0.2,
+   "age_h": 0.3,
    "tp_hit": 0,
    "runner": false,
    "score": 75.5,
    "reason": "LONG 5d-breakout @0.0518 ema stack 20>50>100 ext 2.4atr; volx3.3 atr1h 3.16% rs5d +13.3% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "US",
+   "venue": "gate",
+   "tier": "mid",
+   "mcap_rank": 195,
+   "side": "long",
+   "score": 77.8,
+   "grade": "A",
+   "price": 0.052922,
+   "ret_1h": 4.52,
+   "ret_4h": 6.2,
+   "ret_24h": 15.74,
+   "vol_surge": 6.02,
+   "atr_pct": 3.29,
+   "funding": 0.005,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "US",
