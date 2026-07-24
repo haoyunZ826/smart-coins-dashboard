@@ -1,5 +1,5 @@
 {
- "generated_at": 1784870686.031223,
+ "generated_at": 1784871306.6238809,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,7 +7,7 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 9
+   "square": 10
   },
   {
    "symbol": "BTC",
@@ -49,7 +49,7 @@
    "symbol": "BNB",
    "heat": 1.0,
    "kol": 1,
-   "square": 2
+   "square": 3
   },
   {
    "symbol": "HBAR",
@@ -59,13 +59,13 @@
   },
   {
    "symbol": "CRV",
-   "heat": 0.61,
+   "heat": 0.6,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.19,
+   "heat": 0.18,
    "kol": 0,
    "square": 2
   }
@@ -75,14 +75,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1036.43,
+  "equity": 1033.83,
   "cash": 903.21,
   "starting": 1000.0,
-  "pnl_pct": 3.64,
-  "day_pnl_pct": 2.75,
-  "drawdown_pct": 5.1,
-  "goal_progress_pct": 1.036,
-  "gross_notional": 308.51,
+  "pnl_pct": 3.38,
+  "day_pnl_pct": 2.5,
+  "drawdown_pct": 5.34,
+  "goal_progress_pct": 1.034,
+  "gross_notional": 305.91,
   "gross_leverage": 0.3,
   "wins": 3,
   "losses": 5,
@@ -95,17 +95,17 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.42,
-  "btc_ret_24h": -0.52
+  "btc_ret_4h": 0.35,
+  "btc_ret_24h": -0.59
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 855,
-  "mcap_pass": 114,
-  "venue_pass": 48,
-  "deep_scanned": 48,
-  "candidates": 1
+  "mcap_pass": 113,
+  "venue_pass": 47,
+  "deep_scanned": 47,
+  "candidates": 0
  },
  "positions": [
   {
@@ -114,40 +114,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 3.2138,
+   "mark": 3.1867,
    "stop": 3.02655704086477,
    "liq": 1.8425157222733335,
-   "notional": 308.51,
+   "notional": 305.91,
    "margin": 87.65,
-   "upnl": 45.57,
-   "r": 3.52,
+   "upnl": 42.97,
+   "r": 3.32,
    "funding_paid": -0.076,
-   "age_h": 23.7,
+   "age_h": 23.9,
    "tp_hit": 1,
    "runner": false,
    "score": 72.8,
    "reason": "LONG 5d-breakout @2.6987 ema stack 20>50>100 ext 2.2atr; volx1.6 atr1h 1.97% rs5d +13.1% fund +0.005%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "BEAT",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 66,
-   "side": "long",
-   "score": 68.7,
-   "grade": "B",
-   "price": 3.2143,
-   "ret_1h": 1.04,
-   "ret_4h": 4.16,
-   "ret_24h": 16.92,
-   "vol_surge": 0.69,
-   "atr_pct": 2.84,
-   "funding": -0.0003,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "BEAT",
