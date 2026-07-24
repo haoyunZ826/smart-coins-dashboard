@@ -1,5 +1,5 @@
 {
- "generated_at": 1784851572.2875679,
+ "generated_at": 1784852166.515456,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,19 +7,19 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 8
+   "square": 9
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 5,
-   "square": 11
+   "square": 12
   },
   {
    "symbol": "SOL",
    "heat": 1.0,
    "kol": 1,
-   "square": 7
+   "square": 8
   },
   {
    "symbol": "DOGE",
@@ -65,13 +65,13 @@
   },
   {
    "symbol": "VIRTUAL",
-   "heat": 0.98,
+   "heat": 0.97,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.38,
+   "heat": 0.37,
    "kol": 0,
    "square": 3
   }
@@ -81,14 +81,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1010.71,
+  "equity": 1012.28,
   "cash": 848.89,
   "starting": 1000.0,
-  "pnl_pct": 1.07,
-  "day_pnl_pct": 0.2,
-  "drawdown_pct": 7.45,
-  "goal_progress_pct": 1.011,
-  "gross_notional": 412.24,
+  "pnl_pct": 1.23,
+  "day_pnl_pct": 0.36,
+  "drawdown_pct": 7.31,
+  "goal_progress_pct": 1.012,
+  "gross_notional": 413.8,
   "gross_leverage": 0.41,
   "wins": 3,
   "losses": 5,
@@ -100,17 +100,17 @@
   "loss_streak": 2
  },
  "regime": {
-  "state": "risk_on",
-  "btc_ret_4h": -0.06,
-  "btc_ret_24h": -1.45
+  "state": "neutral",
+  "btc_ret_4h": -0.31,
+  "btc_ret_24h": -1.7
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 855,
   "mcap_pass": 115,
-  "venue_pass": 49,
-  "deep_scanned": 49,
+  "venue_pass": 48,
+  "deep_scanned": 48,
   "candidates": 0
  },
  "positions": [
@@ -120,15 +120,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 3.0061,
+   "mark": 3.0175,
    "stop": 2.9005597076653395,
    "liq": 1.8425157222733335,
-   "notional": 412.24,
+   "notional": 413.8,
    "margin": 125.21,
-   "upnl": 36.61,
-   "r": 1.98,
-   "funding_paid": -0.034,
-   "age_h": 18.4,
+   "upnl": 38.18,
+   "r": 2.07,
+   "funding_paid": -0.035,
+   "age_h": 18.5,
    "tp_hit": 0,
    "runner": false,
    "score": 72.8,
