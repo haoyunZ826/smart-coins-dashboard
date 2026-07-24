@@ -1,5 +1,5 @@
 {
- "generated_at": 1784867725.776596,
+ "generated_at": 1784868316.207971,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -25,7 +25,7 @@
    "symbol": "DOGE",
    "heat": 1.0,
    "kol": 2,
-   "square": 2
+   "square": 1
   },
   {
    "symbol": "HYPE",
@@ -40,12 +40,6 @@
    "square": 0
   },
   {
-   "symbol": "CRV",
-   "heat": 1.0,
-   "kol": 1,
-   "square": 0
-  },
-  {
    "symbol": "ARB",
    "heat": 1.0,
    "kol": 1,
@@ -55,7 +49,7 @@
    "symbol": "BNB",
    "heat": 1.0,
    "kol": 1,
-   "square": 1
+   "square": 2
   },
   {
    "symbol": "HBAR",
@@ -64,10 +58,16 @@
    "square": 0
   },
   {
+   "symbol": "CRV",
+   "heat": 0.64,
+   "kol": 1,
+   "square": 0
+  },
+  {
    "symbol": "ASTER",
-   "heat": 0.28,
+   "heat": 0.2,
    "kol": 0,
-   "square": 3
+   "square": 2
   }
  ],
  "copytrade": {
@@ -75,14 +75,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1031.87,
+  "equity": 1029.26,
   "cash": 903.21,
   "starting": 1000.0,
-  "pnl_pct": 3.19,
-  "day_pnl_pct": 2.3,
-  "drawdown_pct": 5.52,
-  "goal_progress_pct": 1.032,
-  "gross_notional": 303.95,
+  "pnl_pct": 2.93,
+  "day_pnl_pct": 2.04,
+  "drawdown_pct": 5.76,
+  "goal_progress_pct": 1.029,
+  "gross_notional": 301.34,
   "gross_leverage": 0.29,
   "wins": 3,
   "losses": 5,
@@ -95,8 +95,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.65,
-  "btc_ret_24h": -0.34
+  "btc_ret_4h": 0.57,
+  "btc_ret_24h": -0.42
  },
  "funnel": {
   "cg_top": 249,
@@ -114,15 +114,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 3.1663,
+   "mark": 3.1391,
    "stop": 2.992389859127926,
    "liq": 1.8425157222733335,
-   "notional": 303.95,
+   "notional": 301.34,
    "margin": 87.65,
-   "upnl": 41.01,
-   "r": 3.17,
+   "upnl": 38.4,
+   "r": 2.97,
    "funding_paid": -0.074,
-   "age_h": 22.9,
+   "age_h": 23.0,
    "tp_hit": 1,
    "runner": false,
    "score": 72.8,
