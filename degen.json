@@ -1,5 +1,5 @@
 {
- "generated_at": 1784915636.697623,
+ "generated_at": 1784916246.8717692,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -65,13 +65,13 @@
   },
   {
    "symbol": "TRX",
-   "heat": 0.96,
+   "heat": 0.95,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ZEC",
-   "heat": 0.96,
+   "heat": 0.95,
    "kol": 1,
    "square": 0
   }
@@ -81,14 +81,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1014.83,
+  "equity": 1015.1,
   "cash": 947.77,
   "starting": 1000.0,
-  "pnl_pct": 1.48,
-  "day_pnl_pct": 4.85,
-  "drawdown_pct": 10.16,
+  "pnl_pct": 1.51,
+  "day_pnl_pct": 4.87,
+  "drawdown_pct": 10.14,
   "goal_progress_pct": 1.015,
-  "gross_notional": 340.86,
+  "gross_notional": 341.13,
   "gross_leverage": 0.34,
   "wins": 7,
   "losses": 14,
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.01,
-  "btc_ret_24h": -0.82
+  "btc_ret_4h": 0.05,
+  "btc_ret_24h": -0.77
  },
  "funnel": {
   "cg_top": 249,
@@ -120,15 +120,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.816,
+   "mark": 3.819,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 340.86,
+   "notional": 341.13,
    "margin": 68.45,
-   "upnl": -1.39,
-   "r": -0.14,
+   "upnl": -1.12,
+   "r": -0.12,
    "funding_paid": 0.035,
-   "age_h": 49.7,
+   "age_h": 49.9,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,
