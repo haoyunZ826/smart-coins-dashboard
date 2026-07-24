@@ -1,5 +1,5 @@
 {
- "generated_at": 1784861378.278498,
+ "generated_at": 1784861971.044605,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,19 +7,19 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 10
+   "square": 9
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 6,
-   "square": 13
+   "square": 12
   },
   {
    "symbol": "SOL",
    "heat": 1.0,
    "kol": 1,
-   "square": 9
+   "square": 8
   },
   {
    "symbol": "DOGE",
@@ -64,16 +64,16 @@
    "square": 0
   },
   {
-   "symbol": "VIRTUAL",
-   "heat": 0.35,
-   "kol": 1,
-   "square": 0
-  },
-  {
    "symbol": "ASTER",
    "heat": 0.32,
    "kol": 0,
    "square": 3
+  },
+  {
+   "symbol": "VIRTUAL",
+   "heat": 0.18,
+   "kol": 1,
+   "square": 0
   }
  ],
  "copytrade": {
@@ -81,14 +81,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1030.1,
+  "equity": 1027.98,
   "cash": 903.21,
   "starting": 1000.0,
-  "pnl_pct": 3.01,
-  "day_pnl_pct": 2.13,
-  "drawdown_pct": 5.68,
-  "goal_progress_pct": 1.03,
-  "gross_notional": 302.19,
+  "pnl_pct": 2.8,
+  "day_pnl_pct": 1.92,
+  "drawdown_pct": 5.87,
+  "goal_progress_pct": 1.028,
+  "gross_notional": 300.07,
   "gross_leverage": 0.29,
   "wins": 3,
   "losses": 5,
@@ -101,7 +101,7 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.22,
+  "btc_ret_4h": -0.23,
   "btc_ret_24h": -1.16
  },
  "funnel": {
@@ -111,7 +111,7 @@
   "mcap_pass": 114,
   "venue_pass": 49,
   "deep_scanned": 49,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -120,22 +120,40 @@
    "side": "long",
    "leverage": 3,
    "entry": 2.73912149,
-   "mark": 3.148,
+   "mark": 3.1259,
    "stop": 2.9468024139064384,
    "liq": 1.8425157222733335,
-   "notional": 302.19,
+   "notional": 300.07,
    "margin": 87.65,
-   "upnl": 39.25,
-   "r": 3.04,
-   "funding_paid": -0.067,
-   "age_h": 21.1,
+   "upnl": 37.13,
+   "r": 2.87,
+   "funding_paid": -0.068,
+   "age_h": 21.3,
    "tp_hit": 1,
    "runner": false,
    "score": 72.8,
    "reason": "LONG 5d-breakout @2.6987 ema stack 20>50>100 ext 2.2atr; volx1.6 atr1h 1.97% rs5d +13.1% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "BEAT",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 68,
+   "side": "long",
+   "score": 73.1,
+   "grade": "A",
+   "price": 3.1248,
+   "ret_1h": 1.26,
+   "ret_4h": 4.46,
+   "ret_24h": 17.69,
+   "vol_surge": 0.96,
+   "atr_pct": 3.15,
+   "funding": -0.0164,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "BEAT",
