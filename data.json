@@ -1,5 +1,5 @@
 {
- "generated_at": 1784908950.493818,
+ "generated_at": 1784909559.894891,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -59,13 +59,13 @@
   },
   {
    "symbol": "ZEC",
-   "heat": 0.65,
+   "heat": 0.64,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "TRX",
-   "heat": 0.65,
+   "heat": 0.64,
    "kol": 1,
    "square": 0
   }
@@ -76,14 +76,8 @@
    {
     "symbol": "BTC",
     "n_leaders": 2,
-    "fills": 20,
+    "fills": 10,
     "latest_ts": 1784904416.0
-   },
-   {
-    "symbol": "BNB",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784901604.0
    }
   ]
  },
@@ -108,8 +102,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -1.43,
-  "btc_ret_24h": -1.25
+  "btc_ret_4h": -0.93,
+  "btc_ret_24h": -0.9
  },
  "funnel": {
   "cg_top": 249,
