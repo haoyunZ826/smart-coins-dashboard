@@ -1,5 +1,5 @@
 {
- "generated_at": 1784898432.91456,
+ "generated_at": 1784898998.5257869,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -13,7 +13,7 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 6,
-   "square": 8
+   "square": 9
   },
   {
    "symbol": "SOL",
@@ -49,7 +49,7 @@
    "symbol": "BNB",
    "heat": 1.0,
    "kol": 1,
-   "square": 9
+   "square": 10
   },
   {
    "symbol": "HBAR",
@@ -62,16 +62,22 @@
   "leaders": 25,
   "signals": [
    {
+    "symbol": "BTC",
+    "n_leaders": 1,
+    "fills": 3,
+    "latest_ts": 1784897819.0
+   },
+   {
+    "symbol": "SOL",
+    "n_leaders": 1,
+    "fills": 1,
+    "latest_ts": 1784898446.0
+   },
+   {
     "symbol": "ETHFI",
     "n_leaders": 1,
     "fills": 5,
     "latest_ts": 1784897058.0
-   },
-   {
-    "symbol": "BTC",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784893694.0
    }
   ]
  },
@@ -96,8 +102,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.87,
-  "btc_ret_24h": -0.52
+  "btc_ret_4h": -1.05,
+  "btc_ret_24h": -0.7
  },
  "funnel": {
   "cg_top": 249,
