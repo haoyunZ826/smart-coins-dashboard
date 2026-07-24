@@ -1,5 +1,5 @@
 {
- "generated_at": 1784925189.842613,
+ "generated_at": 1784928952.583764,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,19 +7,19 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 8
+   "square": 7
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 7,
-   "square": 10
+   "square": 9
   },
   {
    "symbol": "SOL",
    "heat": 1.0,
    "kol": 2,
-   "square": 2
+   "square": 1
   },
   {
    "symbol": "DOGE",
@@ -71,7 +71,7 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.3,
+   "heat": 0.28,
    "kol": 0,
    "square": 2
   }
@@ -86,34 +86,34 @@
     "latest_ts": 1784923589.0
    },
    {
-    "symbol": "XRP",
+    "symbol": "ZEC",
     "n_leaders": 1,
-    "fills": 4,
-    "latest_ts": 1784924270.0
+    "fills": 3,
+    "latest_ts": 1784927640.0
    },
    {
     "symbol": "DOGE",
     "n_leaders": 1,
-    "fills": 9,
-    "latest_ts": 1784924070.0
+    "fills": 12,
+    "latest_ts": 1784927636.0
+   },
+   {
+    "symbol": "XRP",
+    "n_leaders": 1,
+    "fills": 7,
+    "latest_ts": 1784927628.0
    },
    {
     "symbol": "SOL",
     "n_leaders": 1,
-    "fills": 8,
+    "fills": 1,
     "latest_ts": 1784922711.0
    },
    {
-    "symbol": "DEXE",
+    "symbol": "HYPE",
     "n_leaders": 1,
     "fills": 1,
-    "latest_ts": 1784922384.0
-   },
-   {
-    "symbol": "ZEC",
-    "n_leaders": 1,
-    "fills": 1,
-    "latest_ts": 1784920800.0
+    "latest_ts": 1784927513.0
    }
   ]
  },
@@ -138,8 +138,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.46,
-  "btc_ret_24h": -1.36
+  "btc_ret_4h": 0.0,
+  "btc_ret_24h": -1.51
  },
  "funnel": {
   "cg_top": 249,
