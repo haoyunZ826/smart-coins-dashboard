@@ -1,5 +1,5 @@
 {
- "generated_at": 1784888940.60415,
+ "generated_at": 1784889331.095238,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -49,7 +49,7 @@
    "symbol": "BNB",
    "heat": 1.0,
    "kol": 1,
-   "square": 6
+   "square": 7
   },
   {
    "symbol": "HBAR",
@@ -62,27 +62,33 @@
   "leaders": 25,
   "signals": [
    {
-    "symbol": "BTC",
+    "symbol": "GRAM",
     "n_leaders": 1,
-    "fills": 3,
-    "latest_ts": 1784884799.0
+    "fills": 1,
+    "latest_ts": 1784888759.0
+   },
+   {
+    "symbol": "BEAT",
+    "n_leaders": 1,
+    "fills": 6,
+    "latest_ts": 1784888408.0
    }
   ]
  },
  "status": {
-  "equity": 1059.66,
-  "cash": 1059.66,
+  "equity": 1059.81,
+  "cash": 981.32,
   "starting": 1000.0,
-  "pnl_pct": 5.97,
-  "day_pnl_pct": 5.06,
-  "drawdown_pct": 2.97,
+  "pnl_pct": 5.98,
+  "day_pnl_pct": 5.07,
+  "drawdown_pct": 2.96,
   "goal_progress_pct": 1.06,
-  "gross_notional": 0.0,
-  "gross_leverage": 0.0,
+  "gross_notional": 234.94,
+  "gross_leverage": 0.22,
   "wins": 4,
   "losses": 5,
-  "trade_count": 21,
-  "fees": 4.5,
+  "trade_count": 22,
+  "fees": 4.62,
   "funding": 0.51,
   "halted": false,
   "killed": false,
@@ -90,21 +96,75 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.71,
-  "btc_ret_24h": -1.1
+  "btc_ret_4h": -0.66,
+  "btc_ret_24h": -1.05
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 112,
-  "venue_pass": 49,
-  "deep_scanned": 49,
-  "candidates": 0
+  "venue_pass": 50,
+  "deep_scanned": 50,
+  "candidates": 1
  },
- "positions": [],
- "candidates": [],
+ "positions": [
+  {
+   "symbol": "US",
+   "venue": "gate",
+   "side": "long",
+   "leverage": 3,
+   "entry": 0.052072617099999996,
+   "mark": 0.052134,
+   "stop": 0.047957632975,
+   "liq": 0.03502751376926667,
+   "notional": 234.94,
+   "margin": 78.22,
+   "upnl": 0.28,
+   "r": 0.01,
+   "funding_paid": 0.0,
+   "age_h": 0.0,
+   "tp_hit": 0,
+   "runner": false,
+   "score": 75.5,
+   "reason": "LONG 5d-breakout @0.0518 ema stack 20>50>100 ext 2.4atr; volx3.3 atr1h 3.16% rs5d +13.3% fund +0.005%"
+  }
+ ],
+ "candidates": [
+  {
+   "symbol": "US",
+   "venue": "gate",
+   "tier": "mid",
+   "mcap_rank": 197,
+   "side": "long",
+   "score": 75.5,
+   "grade": "A",
+   "price": 0.052057,
+   "ret_1h": 2.81,
+   "ret_4h": 4.46,
+   "ret_24h": 13.85,
+   "vol_surge": 3.31,
+   "atr_pct": 3.16,
+   "funding": 0.005,
+   "stop_pct": 7.9
+  }
+ ],
  "trades": [
+  {
+   "symbol": "US",
+   "venue": "gate",
+   "action": "open",
+   "side": "long",
+   "price": 0.052072617099999996,
+   "qty": 4506.449524794736,
+   "notional_usd": 234.66262058511322,
+   "fee_usd": 0.1173313102925566,
+   "realized_pnl_usd": 0.0,
+   "leverage": 3,
+   "timestamp": 1784889298.625939,
+   "mode": "paper",
+   "reason": "A 76: LONG 5d-breakout @0.0518 ema stack 20>50>100 ext 2.4atr"
+  },
   {
    "symbol": "BEAT",
    "venue": "okx",
