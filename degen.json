@@ -1,8 +1,33 @@
 {
- "generated_at": 1785006850.573365,
+ "generated_at": 1785011463.366553,
  "mode": "paper",
  "strategy": "v2",
- "social": [],
+ "social": [
+  {
+   "symbol": "BTC",
+   "heat": 0.16,
+   "kol": 0,
+   "square": 1
+  },
+  {
+   "symbol": "DEXE",
+   "heat": 0.16,
+   "kol": 0,
+   "square": 1
+  },
+  {
+   "symbol": "SHIB",
+   "heat": 0.16,
+   "kol": 0,
+   "square": 1
+  },
+  {
+   "symbol": "ETH",
+   "heat": 0.16,
+   "kol": 0,
+   "square": 1
+  }
+ ],
  "copytrade": {
   "leaders": 0,
   "signals": []
@@ -12,7 +37,7 @@
   "cash": 1002.88,
   "starting": 1000.0,
   "pnl_pct": 0.29,
-  "day_pnl_pct": -1.32,
+  "day_pnl_pct": 0.0,
   "drawdown_pct": 11.22,
   "goal_progress_pct": 1.003,
   "gross_notional": 0.0,
@@ -28,16 +53,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.4,
-  "btc_ret_24h": 0.33
+  "btc_ret_4h": 0.33,
+  "btc_ret_24h": 0.26
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 156,
-  "venue_pass": 58,
-  "deep_scanned": 58,
+  "mcap_pass": 150,
+  "venue_pass": 57,
+  "deep_scanned": 57,
   "candidates": 0
  },
  "positions": [],

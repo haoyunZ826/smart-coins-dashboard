@@ -1,35 +1,23 @@
 {
- "generated_at": 1785006845.368335,
+ "generated_at": 1785010400.481326,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
-   "symbol": "BTC",
-   "heat": 0.4,
-   "kol": 2,
+   "symbol": "ETH",
+   "heat": 0.21,
+   "kol": 1,
    "square": 0
   },
   {
-   "symbol": "ETH",
-   "heat": 0.23,
+   "symbol": "BTC",
+   "heat": 0.21,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "SOL",
-   "heat": 0.23,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "TRUMP",
-   "heat": 0.18,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "WLD",
-   "heat": 0.18,
+   "heat": 0.21,
    "kol": 1,
    "square": 0
   }
@@ -59,16 +47,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.4,
-  "btc_ret_24h": 0.33
+  "btc_ret_4h": 0.28,
+  "btc_ret_24h": 0.36
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 115,
-  "venue_pass": 47,
-  "deep_scanned": 47,
+  "mcap_pass": 114,
+  "venue_pass": 45,
+  "deep_scanned": 45,
   "candidates": 0
  },
  "positions": [],
