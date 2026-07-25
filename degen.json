@@ -1,5 +1,5 @@
 {
- "generated_at": 1785022921.664615,
+ "generated_at": 1785023530.218922,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -35,7 +35,7 @@
   },
   {
    "symbol": "XRP",
-   "heat": 0.33,
+   "heat": 0.32,
    "kol": 1,
    "square": 0
   },
