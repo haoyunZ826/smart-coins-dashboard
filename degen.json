@@ -1,53 +1,77 @@
 {
- "generated_at": 1785014074.073112,
+ "generated_at": 1785019290.9613829,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
    "symbol": "BTC",
    "heat": 1.0,
-   "kol": 1,
+   "kol": 5,
+   "square": 1
+  },
+  {
+   "symbol": "ETH",
+   "heat": 0.89,
+   "kol": 2,
    "square": 1
   },
   {
    "symbol": "TAO",
-   "heat": 0.67,
+   "heat": 0.63,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.67,
+   "heat": 0.63,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "SOL",
+   "heat": 0.37,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "XRP",
+   "heat": 0.34,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "TRUMP",
+   "heat": 0.33,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "WLD",
+   "heat": 0.33,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "UNI",
-   "heat": 0.34,
+   "heat": 0.32,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LIT",
-   "heat": 0.34,
+   "heat": 0.32,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "DEXE",
-   "heat": 0.16,
+   "heat": 0.15,
    "kol": 0,
    "square": 1
   },
   {
    "symbol": "SHIB",
-   "heat": 0.16,
-   "kol": 0,
-   "square": 1
-  },
-  {
-   "symbol": "ETH",
-   "heat": 0.16,
+   "heat": 0.15,
    "kol": 0,
    "square": 1
   }
@@ -77,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.0,
-  "btc_ret_24h": 0.19
+  "btc_ret_4h": -0.04,
+  "btc_ret_24h": 0.37
  },
  "funnel": {
   "cg_top": 249,
