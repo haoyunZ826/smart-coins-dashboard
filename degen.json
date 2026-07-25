@@ -1,5 +1,5 @@
 {
- "generated_at": 1784966484.490936,
+ "generated_at": 1784970612.81933,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -35,43 +35,43 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.84,
+   "heat": 0.78,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.84,
+   "heat": 0.78,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "UNI",
-   "heat": 0.84,
+   "heat": 0.78,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LIT",
-   "heat": 0.84,
+   "heat": 0.78,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "HBAR",
-   "heat": 0.8,
+   "heat": 0.74,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "TRX",
-   "heat": 0.66,
+   "heat": 0.61,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ZEC",
-   "heat": 0.66,
+   "heat": 0.61,
    "kol": 1,
    "square": 0
   }
@@ -101,14 +101,14 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.09,
-  "btc_ret_24h": -2.27
+  "btc_ret_4h": -0.16,
+  "btc_ret_24h": -1.85
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 153,
+  "mcap_pass": 154,
   "venue_pass": 60,
   "deep_scanned": 60,
   "candidates": 0
