@@ -1,5 +1,5 @@
 {
- "generated_at": 1785022327.955306,
+ "generated_at": 1785022937.005166,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,13 +17,13 @@
   },
   {
    "symbol": "HYPE",
-   "heat": 0.7,
+   "heat": 0.69,
    "kol": 2,
    "square": 0
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.7,
+   "heat": 0.69,
    "kol": 2,
    "square": 0
   },
@@ -35,25 +35,13 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.66,
+   "heat": 0.65,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "XRP",
-   "heat": 0.36,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "ZEC",
-   "heat": 0.34,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "TRX",
-   "heat": 0.34,
+   "heat": 0.35,
    "kol": 1,
    "square": 0
   },
@@ -65,6 +53,18 @@
   },
   {
    "symbol": "LIT",
+   "heat": 0.33,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "ZEC",
+   "heat": 0.33,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "TRX",
    "heat": 0.33,
    "kol": 1,
    "square": 0
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.01,
-  "btc_ret_24h": 0.39
+  "btc_ret_4h": 0.05,
+  "btc_ret_24h": 0.43
  },
  "funnel": {
   "cg_top": 249,
