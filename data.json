@@ -1,5 +1,5 @@
 {
- "generated_at": 1785021096.98347,
+ "generated_at": 1785021715.85254,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,13 +17,13 @@
   },
   {
    "symbol": "HYPE",
-   "heat": 0.71,
+   "heat": 0.7,
    "kol": 2,
    "square": 0
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.71,
+   "heat": 0.7,
    "kol": 2,
    "square": 0
   },
@@ -35,7 +35,7 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.67,
+   "heat": 0.66,
    "kol": 1,
    "square": 0
   },
@@ -71,7 +71,7 @@
   },
   {
    "symbol": "SHIB",
-   "heat": 0.17,
+   "heat": 0.16,
    "kol": 0,
    "square": 1
   }
@@ -108,9 +108,9 @@
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 115,
-  "venue_pass": 44,
-  "deep_scanned": 44,
+  "mcap_pass": 113,
+  "venue_pass": 43,
+  "deep_scanned": 43,
   "candidates": 0
  },
  "positions": [],
