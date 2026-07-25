@@ -1,5 +1,5 @@
 {
- "generated_at": 1784939334.715084,
+ "generated_at": 1784939956.701576,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -40,12 +40,6 @@
    "square": 0
   },
   {
-   "symbol": "ARB",
-   "heat": 1.0,
-   "kol": 1,
-   "square": 0
-  },
-  {
    "symbol": "SOL",
    "heat": 1.0,
    "kol": 2,
@@ -71,7 +65,13 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.93,
+   "heat": 1.0,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "ASTER",
+   "heat": 1.0,
    "kol": 1,
    "square": 0
   }
@@ -81,14 +81,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1013.11,
+  "equity": 1012.75,
   "cash": 947.75,
   "starting": 1000.0,
-  "pnl_pct": 1.31,
-  "day_pnl_pct": -0.31,
-  "drawdown_pct": 10.31,
+  "pnl_pct": 1.28,
+  "day_pnl_pct": -0.34,
+  "drawdown_pct": 10.35,
   "goal_progress_pct": 1.013,
-  "gross_notional": 339.16,
+  "gross_notional": 338.81,
   "gross_leverage": 0.33,
   "wins": 7,
   "losses": 14,
@@ -101,16 +101,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.0,
-  "btc_ret_24h": -1.24
+  "btc_ret_4h": -0.02,
+  "btc_ret_24h": -1.26
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 153,
-  "venue_pass": 60,
-  "deep_scanned": 60,
+  "venue_pass": 58,
+  "deep_scanned": 58,
   "candidates": 0
  },
  "positions": [
@@ -120,15 +120,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 3.8315319999999997,
-   "mark": 3.797,
+   "mark": 3.793,
    "stop": 3.7236888799999996,
    "liq": 3.088214792,
-   "notional": 339.16,
+   "notional": 338.81,
    "margin": 68.45,
-   "upnl": -3.08,
-   "r": -0.32,
-   "funding_paid": 0.055,
-   "age_h": 56.3,
+   "upnl": -3.44,
+   "r": -0.36,
+   "funding_paid": 0.056,
+   "age_h": 56.5,
    "tp_hit": 0,
    "runner": false,
    "score": 62.6,
