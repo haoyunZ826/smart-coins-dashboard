@@ -1,35 +1,23 @@
 {
- "generated_at": 1785004927.9819798,
+ "generated_at": 1785006845.368335,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
    "symbol": "BTC",
-   "heat": 0.62,
-   "kol": 3,
-   "square": 0
-  },
-  {
-   "symbol": "ETH",
-   "heat": 0.42,
+   "heat": 0.4,
    "kol": 2,
    "square": 0
   },
   {
+   "symbol": "ETH",
+   "heat": 0.23,
+   "kol": 1,
+   "square": 0
+  },
+  {
    "symbol": "SOL",
-   "heat": 0.24,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "HBAR",
-   "heat": 0.21,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "DOGE",
-   "heat": 0.2,
+   "heat": 0.23,
    "kol": 1,
    "square": 0
   },
@@ -71,14 +59,14 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.3,
-  "btc_ret_24h": 0.2
+  "btc_ret_4h": 0.4,
+  "btc_ret_24h": 0.33
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 114,
+  "mcap_pass": 115,
   "venue_pass": 47,
   "deep_scanned": 47,
   "candidates": 0
