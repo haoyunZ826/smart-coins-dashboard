@@ -1,5 +1,5 @@
 {
- "generated_at": 1784939953.687406,
+ "generated_at": 1784940565.9633229,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -101,16 +101,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.02,
-  "btc_ret_24h": -1.26
+  "btc_ret_4h": -0.11,
+  "btc_ret_24h": -1.34
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 114,
-  "venue_pass": 50,
-  "deep_scanned": 50,
+  "mcap_pass": 113,
+  "venue_pass": 48,
+  "deep_scanned": 48,
   "candidates": 0
  },
  "positions": [],
