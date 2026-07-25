@@ -1,5 +1,5 @@
 {
- "generated_at": 1784977467.8819358,
+ "generated_at": 1784980344.318203,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -13,65 +13,65 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 6,
-   "square": 2
+   "square": 1
   },
   {
    "symbol": "HYPE",
-   "heat": 0.78,
+   "heat": 0.38,
    "kol": 2,
    "square": 0
   },
   {
    "symbol": "SOL",
-   "heat": 0.77,
-   "kol": 2,
-   "square": 0
-  },
-  {
-   "symbol": "DOGE",
-   "heat": 0.6,
+   "heat": 0.37,
    "kol": 2,
    "square": 0
   },
   {
    "symbol": "HBAR",
-   "heat": 0.45,
+   "heat": 0.22,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "DOGE",
+   "heat": 0.21,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "TRX",
-   "heat": 0.37,
+   "heat": 0.18,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ZEC",
-   "heat": 0.37,
+   "heat": 0.18,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "TAO",
-   "heat": 0.36,
+   "heat": 0.18,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.36,
+   "heat": 0.18,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "UNI",
-   "heat": 0.36,
+   "heat": 0.18,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LIT",
-   "heat": 0.36,
+   "heat": 0.18,
    "kol": 1,
    "square": 0
   }
@@ -101,16 +101,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.02,
-  "btc_ret_24h": -1.42
+  "btc_ret_4h": 0.1,
+  "btc_ret_24h": -1.55
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 153,
-  "venue_pass": 60,
-  "deep_scanned": 60,
+  "mcap_pass": 150,
+  "venue_pass": 58,
+  "deep_scanned": 58,
   "candidates": 0
  },
  "positions": [],
