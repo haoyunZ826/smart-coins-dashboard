@@ -1,5 +1,5 @@
 {
- "generated_at": 1785021715.85254,
+ "generated_at": 1785022327.955306,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -29,7 +29,7 @@
   },
   {
    "symbol": "WLD",
-   "heat": 0.69,
+   "heat": 0.68,
    "kol": 2,
    "square": 0
   },
@@ -101,16 +101,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.04,
-  "btc_ret_24h": 0.42
+  "btc_ret_4h": 0.01,
+  "btc_ret_24h": 0.39
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 113,
-  "venue_pass": 43,
-  "deep_scanned": 43,
+  "venue_pass": 44,
+  "deep_scanned": 44,
   "candidates": 0
  },
  "positions": [],
