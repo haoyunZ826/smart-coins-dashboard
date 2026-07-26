@@ -1,5 +1,5 @@
 {
- "generated_at": 1785050426.215565,
+ "generated_at": 1785051034.916197,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -11,25 +11,25 @@
   },
   {
    "symbol": "ETH",
-   "heat": 1.0,
+   "heat": 0.99,
    "kol": 2,
    "square": 4
   },
   {
    "symbol": "SHIB",
-   "heat": 0.41,
+   "heat": 0.4,
    "kol": 0,
    "square": 3
   },
   {
    "symbol": "TAO",
-   "heat": 0.39,
+   "heat": 0.38,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.39,
+   "heat": 0.38,
    "kol": 1,
    "square": 0
   },
@@ -41,7 +41,7 @@
   },
   {
    "symbol": "SOL",
-   "heat": 0.24,
+   "heat": 0.23,
    "kol": 1,
    "square": 0
   },
@@ -53,13 +53,13 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.21,
+   "heat": 0.2,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.21,
+   "heat": 0.2,
    "kol": 1,
    "square": 0
   },
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.17,
-  "btc_ret_24h": 0.67
+  "btc_ret_4h": -0.27,
+  "btc_ret_24h": 0.58
  },
  "funnel": {
   "cg_top": 249,
