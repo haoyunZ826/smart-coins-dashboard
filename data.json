@@ -1,5 +1,5 @@
 {
- "generated_at": 1785083739.5257769,
+ "generated_at": 1785084320.0782888,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -29,19 +29,19 @@
   },
   {
    "symbol": "DOGE",
-   "heat": 0.55,
-   "kol": 0,
-   "square": 4
-  },
-  {
-   "symbol": "SOL",
    "heat": 0.54,
    "kol": 0,
    "square": 4
   },
   {
+   "symbol": "SOL",
+   "heat": 0.53,
+   "kol": 0,
+   "square": 4
+  },
+  {
    "symbol": "XRP",
-   "heat": 0.12,
+   "heat": 0.11,
    "kol": 0,
    "square": 1
   },
@@ -77,20 +77,38 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.54,
-  "btc_ret_24h": 0.93
+  "btc_ret_4h": 0.57,
+  "btc_ret_24h": 0.96
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 111,
-  "venue_pass": 44,
-  "deep_scanned": 44,
-  "candidates": 0
+  "mcap_pass": 113,
+  "venue_pass": 45,
+  "deep_scanned": 45,
+  "candidates": 1
  },
  "positions": [],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "LTC",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 27,
+   "side": "long",
+   "score": 65.2,
+   "grade": "B",
+   "price": 48.08,
+   "ret_1h": 0.75,
+   "ret_4h": 1.61,
+   "ret_24h": 4.18,
+   "vol_surge": 2.29,
+   "atr_pct": 0.59,
+   "funding": 0.0045,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "US",
