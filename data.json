@@ -1,5 +1,5 @@
 {
- "generated_at": 1785062546.826952,
+ "generated_at": 1785063129.280264,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,13 +17,13 @@
   },
   {
    "symbol": "SHIB",
-   "heat": 0.75,
+   "heat": 0.74,
    "kol": 0,
    "square": 6
   },
   {
    "symbol": "DEXE",
-   "heat": 0.65,
+   "heat": 0.64,
    "kol": 0,
    "square": 5
   },
@@ -35,25 +35,25 @@
   },
   {
    "symbol": "HYPE",
-   "heat": 0.37,
-   "kol": 2,
-   "square": 0
-  },
-  {
-   "symbol": "TRUMP",
-   "heat": 0.37,
-   "kol": 2,
-   "square": 0
-  },
-  {
-   "symbol": "WLD",
    "heat": 0.36,
    "kol": 2,
    "square": 0
   },
   {
-   "symbol": "TAO",
+   "symbol": "TRUMP",
+   "heat": 0.36,
+   "kol": 2,
+   "square": 0
+  },
+  {
+   "symbol": "WLD",
    "heat": 0.35,
+   "kol": 2,
+   "square": 0
+  },
+  {
+   "symbol": "TAO",
+   "heat": 0.34,
    "kol": 1,
    "square": 0
   },
@@ -64,14 +64,14 @@
    "square": 1
   },
   {
-   "symbol": "ZEC",
-   "heat": 0.18,
+   "symbol": "UNI",
+   "heat": 0.17,
    "kol": 1,
    "square": 0
   },
   {
-   "symbol": "TRX",
-   "heat": 0.18,
+   "symbol": "LIT",
+   "heat": 0.17,
    "kol": 1,
    "square": 0
   }
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.16,
-  "btc_ret_24h": 0.75
+  "btc_ret_4h": 0.13,
+  "btc_ret_24h": 0.72
  },
  "funnel": {
   "cg_top": 249,
