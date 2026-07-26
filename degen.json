@@ -1,5 +1,5 @@
 {
- "generated_at": 1785086256.452924,
+ "generated_at": 1785086860.4830809,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -28,14 +28,14 @@
    "square": 6
   },
   {
-   "symbol": "SOL",
+   "symbol": "DOGE",
    "heat": 0.25,
    "kol": 0,
    "square": 2
   },
   {
-   "symbol": "DOGE",
-   "heat": 0.25,
+   "symbol": "SOL",
+   "heat": 0.24,
    "kol": 0,
    "square": 2
   },
@@ -83,14 +83,14 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.35,
-  "btc_ret_24h": 0.75
+  "btc_ret_4h": 0.34,
+  "btc_ret_24h": 0.74
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 149,
+  "mcap_pass": 154,
   "venue_pass": 52,
   "deep_scanned": 52,
   "candidates": 0
