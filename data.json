@@ -1,5 +1,5 @@
 {
- "generated_at": 1785087485.2513669,
+ "generated_at": 1785088098.0961652,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,13 +7,13 @@
    "symbol": "SHIB",
    "heat": 1.0,
    "kol": 0,
-   "square": 12
+   "square": 11
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 0,
-   "square": 12
+   "square": 11
   },
   {
    "symbol": "DEXE",
@@ -23,9 +23,9 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.77,
+   "heat": 0.68,
    "kol": 0,
-   "square": 7
+   "square": 6
   },
   {
    "symbol": "SOL",
@@ -35,7 +35,7 @@
   },
   {
    "symbol": "DOGE",
-   "heat": 0.52,
+   "heat": 0.51,
    "kol": 0,
    "square": 4
   },
@@ -57,14 +57,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1032.05,
+  "equity": 1034.65,
   "cash": 929.49,
   "starting": 1000.0,
-  "pnl_pct": 3.21,
-  "day_pnl_pct": -0.46,
-  "drawdown_pct": 5.5,
-  "goal_progress_pct": 1.032,
-  "gross_notional": 316.93,
+  "pnl_pct": 3.47,
+  "day_pnl_pct": -0.21,
+  "drawdown_pct": 5.26,
+  "goal_progress_pct": 1.035,
+  "gross_notional": 319.53,
   "gross_leverage": 0.31,
   "wins": 4,
   "losses": 6,
@@ -76,9 +76,9 @@
   "loss_streak": 1
  },
  "regime": {
-  "state": "neutral",
-  "btc_ret_4h": 0.35,
-  "btc_ret_24h": 0.75
+  "state": "risk_off",
+  "btc_ret_4h": 0.27,
+  "btc_ret_24h": 0.67
  },
  "funnel": {
   "cg_top": 249,
@@ -96,15 +96,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 7.1731513,
-   "mark": 7.07,
+   "mark": 7.128,
    "stop": 6.970769175,
    "liq": 4.825139774466667,
-   "notional": 316.93,
+   "notional": 319.53,
    "margin": 107.19,
-   "upnl": -4.62,
-   "r": -0.51,
+   "upnl": -2.02,
+   "r": -0.22,
    "funding_paid": 0.003,
-   "age_h": 0.7,
+   "age_h": 0.8,
    "tp_hit": 0,
    "runner": false,
    "score": 70.2,
