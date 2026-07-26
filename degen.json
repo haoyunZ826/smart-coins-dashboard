@@ -1,5 +1,5 @@
 {
- "generated_at": 1785024749.240596,
+ "generated_at": 1785025357.243542,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,19 +17,19 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.59,
+   "heat": 0.58,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.59,
+   "heat": 0.58,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "SOL",
-   "heat": 0.35,
+   "heat": 0.34,
    "kol": 1,
    "square": 0
   },
@@ -40,26 +40,26 @@
    "square": 0
   },
   {
+   "symbol": "TRUMP",
+   "heat": 0.3,
+   "kol": 1,
+   "square": 0
+  },
+  {
    "symbol": "WLD",
-   "heat": 0.31,
+   "heat": 0.3,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "UNI",
-   "heat": 0.3,
+   "heat": 0.29,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LIT",
-   "heat": 0.3,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "TRUMP",
-   "heat": 0.3,
+   "heat": 0.29,
    "kol": 1,
    "square": 0
   },
@@ -101,16 +101,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.14,
-  "btc_ret_24h": 0.56
+  "btc_ret_4h": 0.16,
+  "btc_ret_24h": 0.57
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 156,
-  "venue_pass": 56,
-  "deep_scanned": 56,
+  "venue_pass": 55,
+  "deep_scanned": 55,
   "candidates": 0
  },
  "positions": [],
