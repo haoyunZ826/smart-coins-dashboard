@@ -1,5 +1,5 @@
 {
- "generated_at": 1785075857.997819,
+ "generated_at": 1785076465.775627,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -23,19 +23,19 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.48,
+   "heat": 0.47,
    "kol": 0,
    "square": 4
   },
   {
-   "symbol": "SOL",
+   "symbol": "DOGE",
    "heat": 0.29,
    "kol": 0,
    "square": 2
   },
   {
-   "symbol": "DOGE",
-   "heat": 0.29,
+   "symbol": "SOL",
+   "heat": 0.28,
    "kol": 0,
    "square": 2
   },
@@ -83,8 +83,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.23,
-  "btc_ret_24h": 0.7
+  "btc_ret_4h": 0.2,
+  "btc_ret_24h": 0.67
  },
  "funnel": {
   "cg_top": 249,
