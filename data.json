@@ -1,5 +1,5 @@
 {
- "generated_at": 1785048609.332916,
+ "generated_at": 1785049198.908915,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -22,14 +22,14 @@
    "square": 4
   },
   {
-   "symbol": "HYPE",
+   "symbol": "TRUMP",
    "heat": 0.48,
    "kol": 2,
    "square": 0
   },
   {
-   "symbol": "TRUMP",
-   "heat": 0.48,
+   "symbol": "HYPE",
+   "heat": 0.47,
    "kol": 2,
    "square": 0
   },
@@ -47,13 +47,13 @@
   },
   {
    "symbol": "XRP",
-   "heat": 0.25,
+   "heat": 0.24,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "DEXE",
-   "heat": 0.24,
+   "heat": 0.23,
    "kol": 0,
    "square": 2
   },
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.17,
-  "btc_ret_24h": 0.61
+  "btc_ret_4h": -0.12,
+  "btc_ret_24h": 0.66
  },
  "funnel": {
   "cg_top": 249,
