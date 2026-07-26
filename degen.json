@@ -1,5 +1,5 @@
 {
- "generated_at": 1785029464.545857,
+ "generated_at": 1785039238.019681,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -11,67 +11,67 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.94,
+   "heat": 0.82,
    "kol": 2,
    "square": 2
   },
   {
    "symbol": "TAO",
-   "heat": 0.55,
+   "heat": 0.47,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.55,
+   "heat": 0.47,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "SOL",
-   "heat": 0.33,
+   "heat": 0.28,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "XRP",
-   "heat": 0.3,
+   "heat": 0.26,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "DEXE",
-   "heat": 0.29,
+   "heat": 0.25,
    "kol": 0,
    "square": 2
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.29,
+   "heat": 0.25,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.29,
+   "heat": 0.25,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "UNI",
-   "heat": 0.28,
+   "heat": 0.24,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LIT",
-   "heat": 0.28,
+   "heat": 0.24,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "SHIB",
-   "heat": 0.13,
+   "heat": 0.11,
    "kol": 0,
    "square": 1
   }
@@ -101,14 +101,14 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.19,
-  "btc_ret_24h": 0.63
+  "btc_ret_4h": 0.26,
+  "btc_ret_24h": 0.73
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 158,
+  "mcap_pass": 157,
   "venue_pass": 53,
   "deep_scanned": 53,
   "candidates": 0
