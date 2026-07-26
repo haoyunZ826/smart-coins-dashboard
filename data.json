@@ -1,5 +1,5 @@
 {
- "generated_at": 1785092198.955243,
+ "generated_at": 1785092815.7736151,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -23,13 +23,13 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.88,
+   "heat": 0.87,
    "kol": 0,
    "square": 7
   },
   {
    "symbol": "SOL",
-   "heat": 0.63,
+   "heat": 0.62,
    "kol": 0,
    "square": 5
   },
@@ -57,14 +57,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1033.73,
+  "equity": 1034.51,
   "cash": 883.94,
   "starting": 1000.0,
-  "pnl_pct": 3.37,
-  "day_pnl_pct": -0.3,
-  "drawdown_pct": 5.35,
-  "goal_progress_pct": 1.034,
-  "gross_notional": 455.1,
+  "pnl_pct": 3.45,
+  "day_pnl_pct": -0.22,
+  "drawdown_pct": 5.27,
+  "goal_progress_pct": 1.035,
+  "gross_notional": 455.88,
   "gross_leverage": 0.44,
   "wins": 4,
   "losses": 6,
@@ -77,8 +77,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.05,
-  "btc_ret_24h": 0.51
+  "btc_ret_4h": -0.06,
+  "btc_ret_24h": 0.52
  },
  "funnel": {
   "cg_top": 249,
@@ -87,7 +87,7 @@
   "mcap_pass": 111,
   "venue_pass": 44,
   "deep_scanned": 44,
-  "candidates": 1
+  "candidates": 0
  },
  "positions": [
   {
@@ -96,15 +96,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 7.1731513,
-   "mark": 7.124,
+   "mark": 7.114,
    "stop": 6.970769175,
    "liq": 4.825139774466667,
-   "notional": 319.35,
+   "notional": 318.91,
    "margin": 107.19,
-   "upnl": -2.2,
-   "r": -0.24,
-   "funding_paid": 0.008,
-   "age_h": 2.0,
+   "upnl": -2.65,
+   "r": -0.29,
+   "funding_paid": 0.009,
+   "age_h": 2.2,
    "tp_hit": 0,
    "runner": false,
    "score": 70.2,
@@ -116,40 +116,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.13880162799999998,
-   "mark": 0.13812,
+   "mark": 0.13937,
    "stop": 0.12958993675,
    "liq": 0.09336722843466666,
-   "notional": 135.75,
+   "notional": 136.98,
    "margin": 45.47,
-   "upnl": -0.67,
-   "r": -0.07,
+   "upnl": 0.56,
+   "r": 0.06,
    "funding_paid": 0.0,
-   "age_h": 0.0,
+   "age_h": 0.2,
    "tp_hit": 0,
    "runner": false,
    "score": 72.7,
    "reason": "LONG 5d-breakout @0.13636 ema stack 20>50>100 ext 2.8atr; volx2.5 atr1h 2.65% rs5d +37.1% fund +0.005%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "UB",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 119,
-   "side": "long",
-   "score": 72.7,
-   "grade": "A",
-   "price": 0.13876,
-   "ret_1h": 3.63,
-   "ret_4h": 7.51,
-   "ret_24h": 14.29,
-   "vol_surge": 2.54,
-   "atr_pct": 2.65,
-   "funding": 0.005,
-   "stop_pct": 6.64
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "UB",
