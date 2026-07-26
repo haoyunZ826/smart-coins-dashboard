@@ -1,5 +1,5 @@
 {
- "generated_at": 1785101415.990334,
+ "generated_at": 1785102028.176695,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -23,19 +23,19 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.77,
+   "heat": 0.76,
    "kol": 0,
    "square": 6
   },
   {
    "symbol": "SOL",
-   "heat": 0.46,
+   "heat": 0.45,
    "kol": 0,
    "square": 4
   },
   {
    "symbol": "DOGE",
-   "heat": 0.41,
+   "heat": 0.4,
    "kol": 0,
    "square": 4
   }
@@ -45,14 +45,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1043.8,
+  "equity": 1044.93,
   "cash": 883.93,
   "starting": 1000.0,
-  "pnl_pct": 4.38,
-  "day_pnl_pct": -0.08,
-  "drawdown_pct": 4.42,
-  "goal_progress_pct": 1.044,
-  "gross_notional": 465.18,
+  "pnl_pct": 4.49,
+  "day_pnl_pct": 0.03,
+  "drawdown_pct": 4.32,
+  "goal_progress_pct": 1.045,
+  "gross_notional": 466.31,
   "gross_leverage": 0.45,
   "wins": 4,
   "losses": 6,
@@ -65,16 +65,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.25,
-  "btc_ret_24h": 0.79
+  "btc_ret_4h": 0.19,
+  "btc_ret_24h": 0.73
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 110,
-  "venue_pass": 43,
-  "deep_scanned": 43,
+  "venue_pass": 44,
+  "deep_scanned": 44,
   "candidates": 0
  },
  "positions": [
@@ -84,15 +84,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 7.1731513,
-   "mark": 7.052,
+   "mark": 7.063,
    "stop": 6.970769175,
    "liq": 4.825139774466667,
-   "notional": 316.13,
+   "notional": 316.62,
    "margin": 107.19,
-   "upnl": -5.43,
-   "r": -0.6,
-   "funding_paid": 0.018,
-   "age_h": 4.5,
+   "upnl": -4.94,
+   "r": -0.54,
+   "funding_paid": 0.019,
+   "age_h": 4.7,
    "tp_hit": 0,
    "runner": false,
    "score": 70.2,
@@ -104,15 +104,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.13880162799999998,
-   "mark": 0.15166,
+   "mark": 0.15231,
    "stop": 0.14003739614648109,
    "liq": 0.09336722843466666,
-   "notional": 149.06,
+   "notional": 149.7,
    "margin": 45.47,
-   "upnl": 12.64,
-   "r": 1.4,
+   "upnl": 13.28,
+   "r": 1.47,
    "funding_paid": 0.003,
-   "age_h": 2.6,
+   "age_h": 2.7,
    "tp_hit": 0,
    "runner": false,
    "score": 72.7,
