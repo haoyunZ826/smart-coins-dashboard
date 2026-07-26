@@ -1,5 +1,5 @@
 {
- "generated_at": 1785084320.0782888,
+ "generated_at": 1785084932.315788,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -23,7 +23,7 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.82,
+   "heat": 0.81,
    "kol": 0,
    "square": 7
   },
@@ -77,17 +77,17 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.57,
-  "btc_ret_24h": 0.96
+  "btc_ret_4h": 0.51,
+  "btc_ret_24h": 0.89
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 113,
+  "mcap_pass": 112,
   "venue_pass": 45,
   "deep_scanned": 45,
-  "candidates": 1
+  "candidates": 2
  },
  "positions": [],
  "candidates": [
@@ -97,15 +97,32 @@
    "tier": "mid",
    "mcap_rank": 27,
    "side": "long",
-   "score": 65.2,
+   "score": 68.4,
    "grade": "B",
-   "price": 48.08,
-   "ret_1h": 0.75,
-   "ret_4h": 1.61,
-   "ret_24h": 4.18,
-   "vol_surge": 2.29,
-   "atr_pct": 0.59,
+   "price": 48.0,
+   "ret_1h": 0.59,
+   "ret_4h": 1.44,
+   "ret_24h": 4.01,
+   "vol_surge": 4.04,
+   "atr_pct": 0.6,
    "funding": 0.0045,
+   "stop_pct": 0.0
+  },
+  {
+   "symbol": "ETC",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 62,
+   "side": "long",
+   "score": 63.6,
+   "grade": "B",
+   "price": 7.115,
+   "ret_1h": 2.11,
+   "ret_4h": 1.89,
+   "ret_24h": 6.15,
+   "vol_surge": 2.69,
+   "atr_pct": 1.09,
+   "funding": 0.01,
    "stop_pct": 0.0
   }
  ],
