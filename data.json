@@ -1,5 +1,5 @@
 {
- "generated_at": 1785028980.397156,
+ "generated_at": 1785029470.559621,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -29,13 +29,13 @@
   },
   {
    "symbol": "WLD",
-   "heat": 0.63,
+   "heat": 0.62,
    "kol": 2,
    "square": 0
   },
   {
    "symbol": "TAO",
-   "heat": 0.61,
+   "heat": 0.6,
    "kol": 1,
    "square": 0
   },
@@ -44,12 +44,6 @@
    "heat": 0.33,
    "kol": 1,
    "square": 0
-  },
-  {
-   "symbol": "SHIB",
-   "heat": 0.31,
-   "kol": 0,
-   "square": 2
   },
   {
    "symbol": "DEXE",
@@ -68,6 +62,12 @@
    "heat": 0.31,
    "kol": 1,
    "square": 0
+  },
+  {
+   "symbol": "SHIB",
+   "heat": 0.3,
+   "kol": 0,
+   "square": 2
   },
   {
    "symbol": "UNI",
@@ -109,8 +109,8 @@
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 114,
-  "venue_pass": 44,
-  "deep_scanned": 44,
+  "venue_pass": 45,
+  "deep_scanned": 45,
   "candidates": 0
  },
  "positions": [],
