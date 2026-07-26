@@ -1,5 +1,5 @@
 {
- "generated_at": 1785058912.698394,
+ "generated_at": 1785059521.0497532,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,7 +17,7 @@
   },
   {
    "symbol": "SHIB",
-   "heat": 0.79,
+   "heat": 0.78,
    "kol": 0,
    "square": 6
   },
@@ -29,19 +29,19 @@
   },
   {
    "symbol": "HYPE",
-   "heat": 0.4,
+   "heat": 0.39,
    "kol": 2,
    "square": 0
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.4,
+   "heat": 0.39,
    "kol": 2,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.39,
+   "heat": 0.38,
    "kol": 2,
    "square": 0
   },
@@ -53,7 +53,7 @@
   },
   {
    "symbol": "XRP",
-   "heat": 0.37,
+   "heat": 0.36,
    "kol": 1,
    "square": 1
   },
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.19,
-  "btc_ret_24h": 0.84
+  "btc_ret_4h": 0.2,
+  "btc_ret_24h": 0.85
  },
  "funnel": {
   "cg_top": 249,
