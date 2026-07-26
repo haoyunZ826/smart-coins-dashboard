@@ -1,5 +1,5 @@
 {
- "generated_at": 1785105943.6749508,
+ "generated_at": 1785106329.850603,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,7 +17,7 @@
   },
   {
    "symbol": "BTC",
-   "heat": 0.66,
+   "heat": 0.65,
    "kol": 0,
    "square": 6
   },
@@ -29,7 +29,7 @@
   },
   {
    "symbol": "DOGE",
-   "heat": 0.18,
+   "heat": 0.17,
    "kol": 0,
    "square": 2
   },
@@ -71,16 +71,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 1.18,
-  "btc_ret_24h": 1.7
+  "btc_ret_4h": 1.11,
+  "btc_ret_24h": 1.64
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 156,
-  "venue_pass": 54,
-  "deep_scanned": 54,
+  "mcap_pass": 154,
+  "venue_pass": 53,
+  "deep_scanned": 53,
   "candidates": 0
  },
  "positions": [],
