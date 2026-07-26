@@ -1,5 +1,5 @@
 {
- "generated_at": 1785044977.8136,
+ "generated_at": 1785045587.46846,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -29,7 +29,7 @@
   },
   {
    "symbol": "SHIB",
-   "heat": 0.27,
+   "heat": 0.26,
    "kol": 0,
    "square": 2
   },
@@ -40,38 +40,38 @@
    "square": 0
   },
   {
-   "symbol": "XRP",
-   "heat": 0.24,
-   "kol": 1,
-   "square": 0
-  },
-  {
    "symbol": "DEXE",
    "heat": 0.23,
    "kol": 0,
    "square": 2
   },
   {
-   "symbol": "TRUMP",
+   "symbol": "XRP",
    "heat": 0.23,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "TRUMP",
+   "heat": 0.22,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.23,
+   "heat": 0.22,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "UNI",
-   "heat": 0.22,
+   "heat": 0.21,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LIT",
-   "heat": 0.22,
+   "heat": 0.21,
    "kol": 1,
    "square": 0
   }
@@ -101,16 +101,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.01,
-  "btc_ret_24h": 0.71
+  "btc_ret_4h": -0.05,
+  "btc_ret_24h": 0.65
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 151,
-  "venue_pass": 51,
-  "deep_scanned": 51,
+  "mcap_pass": 157,
+  "venue_pass": 53,
+  "deep_scanned": 53,
   "candidates": 0
  },
  "positions": [],
