@@ -1,5 +1,5 @@
 {
- "generated_at": 1785105359.135402,
+ "generated_at": 1785105954.06317,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,25 +17,25 @@
   },
   {
    "symbol": "BTC",
-   "heat": 0.88,
+   "heat": 0.87,
    "kol": 0,
    "square": 8
   },
   {
    "symbol": "ETH",
-   "heat": 0.64,
+   "heat": 0.63,
    "kol": 0,
    "square": 5
   },
   {
    "symbol": "DOGE",
-   "heat": 0.38,
+   "heat": 0.37,
    "kol": 0,
    "square": 4
   },
   {
    "symbol": "SOL",
-   "heat": 0.35,
+   "heat": 0.34,
    "kol": 0,
    "square": 3
   }
@@ -45,14 +45,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1050.2,
+  "equity": 1049.99,
   "cash": 883.92,
   "starting": 1000.0,
-  "pnl_pct": 5.02,
-  "day_pnl_pct": 0.54,
-  "drawdown_pct": 3.84,
+  "pnl_pct": 5.0,
+  "day_pnl_pct": 0.51,
+  "drawdown_pct": 3.86,
   "goal_progress_pct": 1.05,
-  "gross_notional": 471.6,
+  "gross_notional": 471.38,
   "gross_leverage": 0.45,
   "wins": 4,
   "losses": 6,
@@ -65,8 +65,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 1.06,
-  "btc_ret_24h": 1.59
+  "btc_ret_4h": 1.18,
+  "btc_ret_24h": 1.7
  },
  "funnel": {
   "cg_top": 249,
@@ -75,7 +75,7 @@
   "mcap_pass": 113,
   "venue_pass": 45,
   "deep_scanned": 45,
-  "candidates": 2
+  "candidates": 1
  },
  "positions": [
   {
@@ -84,15 +84,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 7.1731513,
-   "mark": 7.11,
+   "mark": 7.109,
    "stop": 6.970769175,
    "liq": 4.825139774466667,
-   "notional": 318.73,
+   "notional": 318.68,
    "margin": 107.19,
-   "upnl": -2.83,
-   "r": -0.31,
+   "upnl": -2.88,
+   "r": -0.32,
    "funding_paid": 0.023,
-   "age_h": 5.6,
+   "age_h": 5.8,
    "tp_hit": 0,
    "runner": false,
    "score": 70.2,
@@ -104,15 +104,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.13880162799999998,
-   "mark": 0.15554,
-   "stop": 0.14222119737830993,
+   "mark": 0.15537,
+   "stop": 0.14224860910925338,
    "liq": 0.09336722843466666,
-   "notional": 152.87,
+   "notional": 152.7,
    "margin": 45.47,
-   "upnl": 16.45,
-   "r": 1.82,
-   "funding_paid": 0.005,
-   "age_h": 3.7,
+   "upnl": 16.28,
+   "r": 1.8,
+   "funding_paid": 0.006,
+   "age_h": 3.8,
    "tp_hit": 0,
    "runner": false,
    "score": 72.7,
@@ -126,31 +126,14 @@
    "tier": "mid",
    "mcap_rank": 51,
    "side": "long",
-   "score": 66.3,
+   "score": 68.0,
    "grade": "B",
-   "price": 100.76,
-   "ret_1h": 3.31,
-   "ret_4h": 4.44,
-   "ret_24h": 9.38,
-   "vol_surge": 1.83,
+   "price": 100.55,
+   "ret_1h": 3.1,
+   "ret_4h": 4.22,
+   "ret_24h": 9.15,
+   "vol_surge": 2.0,
    "atr_pct": 1.24,
-   "funding": 0.01,
-   "stop_pct": 0.0
-  },
-  {
-   "symbol": "LINK",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 18,
-   "side": "long",
-   "score": 60.1,
-   "grade": "B",
-   "price": 8.762,
-   "ret_1h": 1.68,
-   "ret_4h": 1.85,
-   "ret_24h": 4.57,
-   "vol_surge": 4.4,
-   "atr_pct": 0.7,
    "funding": 0.01,
    "stop_pct": 0.0
   }
