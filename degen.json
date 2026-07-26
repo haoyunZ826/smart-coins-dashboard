@@ -1,5 +1,5 @@
 {
- "generated_at": 1785088068.599655,
+ "generated_at": 1785088673.4850008,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -23,18 +23,18 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.61,
+   "heat": 0.6,
    "kol": 0,
    "square": 5
   },
   {
-   "symbol": "DOGE",
-   "heat": 0.25,
+   "symbol": "SOL",
+   "heat": 0.24,
    "kol": 0,
    "square": 2
   },
   {
-   "symbol": "SOL",
+   "symbol": "DOGE",
    "heat": 0.24,
    "kol": 0,
    "square": 2
@@ -83,16 +83,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.24,
-  "btc_ret_24h": 0.64
+  "btc_ret_4h": 0.28,
+  "btc_ret_24h": 0.68
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 148,
-  "venue_pass": 51,
-  "deep_scanned": 51,
+  "mcap_pass": 154,
+  "venue_pass": 52,
+  "deep_scanned": 52,
   "candidates": 0
  },
  "positions": [],
