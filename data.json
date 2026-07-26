@@ -1,5 +1,5 @@
 {
- "generated_at": 1785059521.0497532,
+ "generated_at": 1785060080.6334689,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -23,7 +23,7 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.51,
+   "heat": 0.5,
    "kol": 0,
    "square": 4
   },
@@ -47,7 +47,7 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.37,
+   "heat": 0.36,
    "kol": 1,
    "square": 0
   },
@@ -64,13 +64,13 @@
    "square": 2
   },
   {
-   "symbol": "UNI",
+   "symbol": "ZEC",
    "heat": 0.19,
    "kol": 1,
    "square": 0
   },
   {
-   "symbol": "LIT",
+   "symbol": "TRX",
    "heat": 0.19,
    "kol": 1,
    "square": 0
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.2,
-  "btc_ret_24h": 0.85
+  "btc_ret_4h": 0.18,
+  "btc_ret_24h": 0.83
  },
  "funnel": {
   "cg_top": 249,
