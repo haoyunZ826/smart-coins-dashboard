@@ -1,5 +1,5 @@
 {
- "generated_at": 1785052857.422849,
+ "generated_at": 1785053467.1567411,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -22,20 +22,20 @@
    "square": 5
   },
   {
-   "symbol": "TRUMP",
-   "heat": 0.45,
-   "kol": 2,
-   "square": 0
-  },
-  {
    "symbol": "HYPE",
    "heat": 0.44,
    "kol": 2,
    "square": 0
   },
   {
-   "symbol": "WLD",
+   "symbol": "TRUMP",
    "heat": 0.44,
+   "kol": 2,
+   "square": 0
+  },
+  {
+   "symbol": "WLD",
+   "heat": 0.43,
    "kol": 2,
    "square": 0
   },
@@ -58,19 +58,19 @@
    "square": 0
   },
   {
-   "symbol": "ZEC",
-   "heat": 0.22,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "TRX",
-   "heat": 0.22,
-   "kol": 1,
-   "square": 0
-  },
-  {
    "symbol": "UNI",
+   "heat": 0.21,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "LIT",
+   "heat": 0.21,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "ZEC",
    "heat": 0.21,
    "kol": 1,
    "square": 0
@@ -101,16 +101,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.26,
-  "btc_ret_24h": 0.58
+  "btc_ret_4h": -0.22,
+  "btc_ret_24h": 0.8
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 114,
-  "venue_pass": 45,
-  "deep_scanned": 45,
+  "mcap_pass": 113,
+  "venue_pass": 44,
+  "deep_scanned": 44,
   "candidates": 0
  },
  "positions": [],

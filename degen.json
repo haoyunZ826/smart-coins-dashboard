@@ -1,5 +1,5 @@
 {
- "generated_at": 1785052853.644542,
+ "generated_at": 1785053461.4421592,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -29,19 +29,19 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.37,
+   "heat": 0.36,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.37,
+   "heat": 0.36,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "SOL",
-   "heat": 0.23,
+   "heat": 0.22,
    "kol": 1,
    "square": 0
   },
@@ -53,25 +53,25 @@
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.2,
+   "heat": 0.19,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "WLD",
-   "heat": 0.2,
+   "heat": 0.19,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "UNI",
-   "heat": 0.19,
+   "heat": 0.18,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "LIT",
-   "heat": 0.19,
+   "heat": 0.18,
    "kol": 1,
    "square": 0
   }
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.27,
-  "btc_ret_24h": 0.57
+  "btc_ret_4h": -0.25,
+  "btc_ret_24h": 0.77
  },
  "funnel": {
   "cg_top": 249,
