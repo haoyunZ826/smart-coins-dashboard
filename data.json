@@ -1,5 +1,5 @@
 {
- "generated_at": 1785063129.280264,
+ "generated_at": 1785063741.906286,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -13,23 +13,23 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 5,
-   "square": 9
+   "square": 10
   },
   {
    "symbol": "SHIB",
-   "heat": 0.74,
+   "heat": 0.9,
+   "kol": 0,
+   "square": 7
+  },
+  {
+   "symbol": "DEXE",
+   "heat": 0.8,
    "kol": 0,
    "square": 6
   },
   {
-   "symbol": "DEXE",
-   "heat": 0.64,
-   "kol": 0,
-   "square": 5
-  },
-  {
    "symbol": "SOL",
-   "heat": 0.41,
+   "heat": 0.4,
    "kol": 0,
    "square": 3
   },
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.13,
-  "btc_ret_24h": 0.72
+  "btc_ret_4h": 0.2,
+  "btc_ret_24h": 0.71
  },
  "funnel": {
   "cg_top": 249,
