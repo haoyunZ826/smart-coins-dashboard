@@ -1,5 +1,5 @@
 {
- "generated_at": 1785109419.180267,
+ "generated_at": 1785110024.5008051,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -29,19 +29,19 @@
   },
   {
    "symbol": "SOL",
-   "heat": 0.09,
+   "heat": 0.08,
    "kol": 0,
    "square": 1
   },
   {
    "symbol": "DOGE",
-   "heat": 0.09,
+   "heat": 0.08,
    "kol": 0,
    "square": 1
   },
   {
    "symbol": "PIEVERSE",
-   "heat": 0.09,
+   "heat": 0.08,
    "kol": 0,
    "square": 1
   }
@@ -71,8 +71,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 1.05,
-  "btc_ret_24h": 1.57
+  "btc_ret_4h": 1.18,
+  "btc_ret_24h": 1.69
  },
  "funnel": {
   "cg_top": 249,
