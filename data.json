@@ -1,5 +1,5 @@
 {
- "generated_at": 1785052248.601732,
+ "generated_at": 1785052857.422849,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,19 +17,19 @@
   },
   {
    "symbol": "SHIB",
-   "heat": 0.69,
+   "heat": 0.68,
    "kol": 0,
    "square": 5
   },
   {
-   "symbol": "HYPE",
+   "symbol": "TRUMP",
    "heat": 0.45,
    "kol": 2,
    "square": 0
   },
   {
-   "symbol": "TRUMP",
-   "heat": 0.45,
+   "symbol": "HYPE",
+   "heat": 0.44,
    "kol": 2,
    "square": 0
   },
@@ -41,13 +41,13 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.43,
+   "heat": 0.42,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "DEXE",
-   "heat": 0.39,
+   "heat": 0.38,
    "kol": 0,
    "square": 3
   },

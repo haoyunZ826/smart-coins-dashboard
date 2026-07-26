@@ -1,5 +1,5 @@
 {
- "generated_at": 1785052247.277907,
+ "generated_at": 1785052853.644542,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,13 +17,13 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.53,
+   "heat": 0.52,
    "kol": 0,
    "square": 4
   },
   {
    "symbol": "SHIB",
-   "heat": 0.4,
+   "heat": 0.39,
    "kol": 0,
    "square": 3
   },
@@ -47,7 +47,7 @@
   },
   {
    "symbol": "XRP",
-   "heat": 0.21,
+   "heat": 0.2,
    "kol": 1,
    "square": 0
   },
@@ -108,9 +108,9 @@
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 157,
-  "venue_pass": 53,
-  "deep_scanned": 53,
+  "mcap_pass": 156,
+  "venue_pass": 52,
+  "deep_scanned": 52,
   "candidates": 0
  },
  "positions": [],
