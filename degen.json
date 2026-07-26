@@ -1,5 +1,5 @@
 {
- "generated_at": 1785055871.72913,
+ "generated_at": 1785056478.652554,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,11 +7,11 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 5,
-   "square": 4
+   "square": 5
   },
   {
    "symbol": "ETH",
-   "heat": 0.99,
+   "heat": 0.98,
    "kol": 2,
    "square": 4
   },
@@ -22,14 +22,20 @@
    "square": 3
   },
   {
-   "symbol": "TAO",
+   "symbol": "XRP",
    "heat": 0.35,
+   "kol": 1,
+   "square": 1
+  },
+  {
+   "symbol": "TAO",
+   "heat": 0.34,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.35,
+   "heat": 0.34,
    "kol": 1,
    "square": 0
   },
@@ -42,12 +48,6 @@
   {
    "symbol": "SOL",
    "heat": 0.21,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "XRP",
-   "heat": 0.19,
    "kol": 1,
    "square": 0
   },
@@ -101,16 +101,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.11,
-  "btc_ret_24h": 0.9
+  "btc_ret_4h": -0.05,
+  "btc_ret_24h": 0.97
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 156,
-  "venue_pass": 52,
-  "deep_scanned": 52,
+  "mcap_pass": 157,
+  "venue_pass": 53,
+  "deep_scanned": 53,
   "candidates": 0
  },
  "positions": [],

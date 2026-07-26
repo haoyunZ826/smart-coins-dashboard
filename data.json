@@ -1,5 +1,5 @@
 {
- "generated_at": 1785055888.3982239,
+ "generated_at": 1785056468.7377532,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,7 +17,7 @@
   },
   {
    "symbol": "SHIB",
-   "heat": 0.66,
+   "heat": 0.65,
    "kol": 0,
    "square": 5
   },
@@ -41,19 +41,19 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.4,
+   "heat": 0.39,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "DEXE",
-   "heat": 0.37,
+   "heat": 0.36,
    "kol": 0,
    "square": 3
   },
   {
    "symbol": "XRP",
-   "heat": 0.22,
+   "heat": 0.21,
    "kol": 1,
    "square": 0
   },
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.12,
-  "btc_ret_24h": 0.9
+  "btc_ret_4h": -0.05,
+  "btc_ret_24h": 0.97
  },
  "funnel": {
   "cg_top": 249,
