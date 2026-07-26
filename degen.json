@@ -1,5 +1,5 @@
 {
- "generated_at": 1785023530.218922,
+ "generated_at": 1785024137.708756,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -11,19 +11,19 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.85,
+   "heat": 0.84,
    "kol": 2,
    "square": 1
   },
   {
    "symbol": "TAO",
-   "heat": 0.6,
+   "heat": 0.59,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.6,
+   "heat": 0.59,
    "kol": 1,
    "square": 0
   },
@@ -101,16 +101,16 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.0,
-  "btc_ret_24h": 0.38
+  "btc_ret_4h": 0.05,
+  "btc_ret_24h": 0.46
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 156,
-  "venue_pass": 57,
-  "deep_scanned": 57,
+  "venue_pass": 56,
+  "deep_scanned": 56,
   "candidates": 0
  },
  "positions": [],

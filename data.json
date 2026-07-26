@@ -1,5 +1,5 @@
 {
- "generated_at": 1785023545.586057,
+ "generated_at": 1785024124.7030349,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,23 +7,23 @@
    "symbol": "ETH",
    "heat": 1.0,
    "kol": 2,
-   "square": 1
+   "square": 2
   },
   {
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 5,
-   "square": 1
+   "square": 2
   },
   {
    "symbol": "HYPE",
-   "heat": 0.69,
+   "heat": 0.68,
    "kol": 2,
    "square": 0
   },
   {
    "symbol": "TRUMP",
-   "heat": 0.69,
+   "heat": 0.68,
    "kol": 2,
    "square": 0
   },
@@ -35,7 +35,7 @@
   },
   {
    "symbol": "TAO",
-   "heat": 0.65,
+   "heat": 0.64,
    "kol": 1,
    "square": 0
   },
@@ -46,16 +46,10 @@
    "square": 0
   },
   {
-   "symbol": "UNI",
+   "symbol": "SHIB",
    "heat": 0.33,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "LIT",
-   "heat": 0.33,
-   "kol": 1,
-   "square": 0
+   "kol": 0,
+   "square": 2
   },
   {
    "symbol": "ZEC",
@@ -70,10 +64,16 @@
    "square": 0
   },
   {
-   "symbol": "SHIB",
-   "heat": 0.16,
-   "kol": 0,
-   "square": 1
+   "symbol": "UNI",
+   "heat": 0.32,
+   "kol": 1,
+   "square": 0
+  },
+  {
+   "symbol": "LIT",
+   "heat": 0.32,
+   "kol": 1,
+   "square": 0
   }
  ],
  "copytrade": {
@@ -101,8 +101,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.0,
-  "btc_ret_24h": 0.38
+  "btc_ret_4h": 0.06,
+  "btc_ret_24h": 0.47
  },
  "funnel": {
   "cg_top": 249,
