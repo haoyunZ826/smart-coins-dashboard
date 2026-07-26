@@ -1,12 +1,12 @@
 {
- "generated_at": 1785060121.8974059,
+ "generated_at": 1785060725.592344,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
    "symbol": "BTC",
    "heat": 1.0,
-   "kol": 3,
+   "kol": 2,
    "square": 6
   },
   {
@@ -32,18 +32,6 @@
    "heat": 0.28,
    "kol": 0,
    "square": 2
-  },
-  {
-   "symbol": "TRUMP",
-   "heat": 0.17,
-   "kol": 1,
-   "square": 0
-  },
-  {
-   "symbol": "WLD",
-   "heat": 0.17,
-   "kol": 1,
-   "square": 0
   },
   {
    "symbol": "XRP",
@@ -83,8 +71,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.18,
-  "btc_ret_24h": 0.83
+  "btc_ret_4h": 0.1,
+  "btc_ret_24h": 0.69
  },
  "funnel": {
   "cg_top": 249,
