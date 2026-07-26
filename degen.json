@@ -1,5 +1,5 @@
 {
- "generated_at": 1785106329.850603,
+ "generated_at": 1785106550.0063622,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -23,7 +23,7 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.52,
+   "heat": 0.51,
    "kol": 0,
    "square": 4
   },
