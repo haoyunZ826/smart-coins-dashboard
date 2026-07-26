@@ -1,5 +1,5 @@
 {
- "generated_at": 1785102004.4291232,
+ "generated_at": 1785102610.673794,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,7 +17,7 @@
   },
   {
    "symbol": "BTC",
-   "heat": 0.79,
+   "heat": 0.78,
    "kol": 0,
    "square": 7
   },
@@ -71,8 +71,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.2,
-  "btc_ret_24h": 0.75
+  "btc_ret_4h": 0.18,
+  "btc_ret_24h": 0.72
  },
  "funnel": {
   "cg_top": 249,
