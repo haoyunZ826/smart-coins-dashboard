@@ -1,5 +1,5 @@
 {
- "generated_at": 1785042882.0649102,
+ "generated_at": 1785044977.8136,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,37 +7,37 @@
    "symbol": "BTC",
    "heat": 1.0,
    "kol": 5,
-   "square": 2
+   "square": 3
   },
   {
    "symbol": "ETH",
-   "heat": 0.77,
+   "heat": 0.91,
    "kol": 2,
-   "square": 2
+   "square": 3
   },
   {
    "symbol": "TAO",
-   "heat": 0.45,
+   "heat": 0.43,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "ASTER",
-   "heat": 0.45,
+   "heat": 0.43,
    "kol": 1,
    "square": 0
+  },
+  {
+   "symbol": "SHIB",
+   "heat": 0.27,
+   "kol": 0,
+   "square": 2
   },
   {
    "symbol": "SOL",
-   "heat": 0.27,
+   "heat": 0.26,
    "kol": 1,
    "square": 0
-  },
-  {
-   "symbol": "DEXE",
-   "heat": 0.24,
-   "kol": 0,
-   "square": 2
   },
   {
    "symbol": "XRP",
@@ -46,13 +46,19 @@
    "square": 0
   },
   {
-   "symbol": "WLD",
-   "heat": 0.24,
+   "symbol": "DEXE",
+   "heat": 0.23,
+   "kol": 0,
+   "square": 2
+  },
+  {
+   "symbol": "TRUMP",
+   "heat": 0.23,
    "kol": 1,
    "square": 0
   },
   {
-   "symbol": "TRUMP",
+   "symbol": "WLD",
    "heat": 0.23,
    "kol": 1,
    "square": 0
@@ -68,12 +74,6 @@
    "heat": 0.22,
    "kol": 1,
    "square": 0
-  },
-  {
-   "symbol": "SHIB",
-   "heat": 0.1,
-   "kol": 0,
-   "square": 1
   }
  ],
  "copytrade": {
@@ -101,14 +101,14 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": 0.07,
-  "btc_ret_24h": 0.58
+  "btc_ret_4h": 0.01,
+  "btc_ret_24h": 0.71
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 150,
+  "mcap_pass": 151,
   "venue_pass": 51,
   "deep_scanned": 51,
   "candidates": 0
