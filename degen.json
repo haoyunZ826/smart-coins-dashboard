@@ -1,5 +1,5 @@
 {
- "generated_at": 1785090486.246408,
+ "generated_at": 1785091091.4491992,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,24 +17,24 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.83,
+   "heat": 0.82,
    "kol": 0,
    "square": 7
   },
   {
    "symbol": "ETH",
-   "heat": 0.75,
+   "heat": 0.74,
    "kol": 0,
    "square": 6
   },
   {
-   "symbol": "DOGE",
-   "heat": 0.24,
+   "symbol": "SOL",
+   "heat": 0.23,
    "kol": 0,
    "square": 2
   },
   {
-   "symbol": "SOL",
+   "symbol": "DOGE",
    "heat": 0.23,
    "kol": 0,
    "square": 2
@@ -83,14 +83,14 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.01,
+  "btc_ret_4h": -0.02,
   "btc_ret_24h": 0.44
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 154,
+  "mcap_pass": 153,
   "venue_pass": 52,
   "deep_scanned": 52,
   "candidates": 0
