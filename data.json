@@ -1,5 +1,5 @@
 {
- "generated_at": 1785094025.3362381,
+ "generated_at": 1785094637.487499,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -23,25 +23,25 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.77,
+   "heat": 0.76,
    "kol": 0,
    "square": 6
   },
   {
    "symbol": "SOL",
-   "heat": 0.61,
+   "heat": 0.6,
    "kol": 0,
    "square": 5
   },
   {
    "symbol": "DOGE",
-   "heat": 0.47,
+   "heat": 0.46,
    "kol": 0,
    "square": 4
   },
   {
    "symbol": "XRP",
-   "heat": 0.1,
+   "heat": 0.09,
    "kol": 0,
    "square": 1
   },
@@ -57,14 +57,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1039.16,
+  "equity": 1037.41,
   "cash": 883.94,
   "starting": 1000.0,
-  "pnl_pct": 3.92,
-  "day_pnl_pct": 0.22,
-  "drawdown_pct": 4.85,
-  "goal_progress_pct": 1.039,
-  "gross_notional": 460.54,
+  "pnl_pct": 3.74,
+  "day_pnl_pct": 0.06,
+  "drawdown_pct": 5.01,
+  "goal_progress_pct": 1.037,
+  "gross_notional": 458.79,
   "gross_leverage": 0.44,
   "wins": 4,
   "losses": 6,
@@ -77,16 +77,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.07,
-  "btc_ret_24h": 0.51
+  "btc_ret_4h": -0.01,
+  "btc_ret_24h": 0.57
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 110,
-  "venue_pass": 43,
-  "deep_scanned": 43,
+  "mcap_pass": 111,
+  "venue_pass": 44,
+  "deep_scanned": 44,
   "candidates": 0
  },
  "positions": [
@@ -96,15 +96,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 7.1731513,
-   "mark": 7.133,
+   "mark": 7.069,
    "stop": 6.970769175,
    "liq": 4.825139774466667,
-   "notional": 319.76,
+   "notional": 316.89,
    "margin": 107.19,
-   "upnl": -1.8,
-   "r": -0.2,
-   "funding_paid": 0.01,
-   "age_h": 2.5,
+   "upnl": -4.67,
+   "r": -0.51,
+   "funding_paid": 0.011,
+   "age_h": 2.7,
    "tp_hit": 0,
    "runner": false,
    "score": 70.2,
@@ -116,15 +116,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.13880162799999998,
-   "mark": 0.14324,
+   "mark": 0.14438,
    "stop": 0.12958993675,
    "liq": 0.09336722843466666,
-   "notional": 140.78,
+   "notional": 141.9,
    "margin": 45.47,
-   "upnl": 4.36,
-   "r": 0.48,
-   "funding_paid": 0.0,
-   "age_h": 0.5,
+   "upnl": 5.48,
+   "r": 0.61,
+   "funding_paid": 0.001,
+   "age_h": 0.7,
    "tp_hit": 0,
    "runner": false,
    "score": 72.7,
