@@ -1,5 +1,5 @@
 {
- "generated_at": 1785058310.833088,
+ "generated_at": 1785058913.957023,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -11,13 +11,13 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.95,
+   "heat": 0.94,
    "kol": 2,
    "square": 4
   },
   {
    "symbol": "DEXE",
-   "heat": 0.41,
+   "heat": 0.4,
    "kol": 0,
    "square": 3
   },
@@ -40,13 +40,13 @@
    "square": 0
   },
   {
-   "symbol": "WLD",
-   "heat": 0.18,
+   "symbol": "TRUMP",
+   "heat": 0.17,
    "kol": 1,
    "square": 0
   },
   {
-   "symbol": "TRUMP",
+   "symbol": "WLD",
    "heat": 0.17,
    "kol": 1,
    "square": 0
