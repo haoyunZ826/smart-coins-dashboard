@@ -1,23 +1,23 @@
 {
- "generated_at": 1785071007.56924,
+ "generated_at": 1785071632.00639,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
    "symbol": "BTC",
-   "heat": 0.96,
+   "heat": 0.95,
    "kol": 0,
    "square": 7
   },
   {
    "symbol": "SHIB",
-   "heat": 0.72,
+   "heat": 0.71,
    "kol": 0,
    "square": 5
   },
   {
    "symbol": "DEXE",
-   "heat": 0.71,
+   "heat": 0.7,
    "kol": 0,
    "square": 5
   },
@@ -83,8 +83,8 @@
  },
  "regime": {
   "state": "risk_off",
-  "btc_ret_4h": -0.11,
-  "btc_ret_24h": 0.46
+  "btc_ret_4h": -0.18,
+  "btc_ret_24h": 0.39
  },
  "funnel": {
   "cg_top": 249,
