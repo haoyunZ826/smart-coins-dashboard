@@ -1,5 +1,5 @@
 {
- "generated_at": 1785085073.139487,
+ "generated_at": 1785085669.423042,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,7 +7,7 @@
    "symbol": "SHIB",
    "heat": 1.0,
    "kol": 0,
-   "square": 11
+   "square": 12
   },
   {
    "symbol": "BTC",
@@ -19,22 +19,22 @@
    "symbol": "DEXE",
    "heat": 1.0,
    "kol": 0,
-   "square": 8
+   "square": 9
   },
   {
    "symbol": "ETH",
-   "heat": 0.81,
+   "heat": 0.8,
    "kol": 0,
    "square": 7
   },
   {
-   "symbol": "DOGE",
-   "heat": 0.54,
+   "symbol": "SOL",
+   "heat": 0.69,
    "kol": 0,
-   "square": 4
+   "square": 5
   },
   {
-   "symbol": "SOL",
+   "symbol": "DOGE",
    "heat": 0.53,
    "kol": 0,
    "square": 4
@@ -57,14 +57,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1036.63,
+  "equity": 1032.64,
   "cash": 929.49,
   "starting": 1000.0,
-  "pnl_pct": 3.66,
-  "day_pnl_pct": -0.02,
-  "drawdown_pct": 5.08,
-  "goal_progress_pct": 1.037,
-  "gross_notional": 321.51,
+  "pnl_pct": 3.26,
+  "day_pnl_pct": -0.41,
+  "drawdown_pct": 5.45,
+  "goal_progress_pct": 1.033,
+  "gross_notional": 317.52,
   "gross_leverage": 0.31,
   "wins": 4,
   "losses": 6,
@@ -77,8 +77,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.45,
-  "btc_ret_24h": 0.84
+  "btc_ret_4h": 0.3,
+  "btc_ret_24h": 0.7
  },
  "funnel": {
   "cg_top": 249,
@@ -87,7 +87,7 @@
   "mcap_pass": 112,
   "venue_pass": 45,
   "deep_scanned": 45,
-  "candidates": 2
+  "candidates": 0
  },
  "positions": [
   {
@@ -96,57 +96,22 @@
    "side": "long",
    "leverage": 3,
    "entry": 7.1731513,
-   "mark": 7.172,
+   "mark": 7.083,
    "stop": 6.970769175,
    "liq": 4.825139774466667,
-   "notional": 321.51,
+   "notional": 317.52,
    "margin": 107.19,
-   "upnl": -0.05,
-   "r": -0.01,
-   "funding_paid": 0.0,
-   "age_h": 0.0,
+   "upnl": -4.04,
+   "r": -0.45,
+   "funding_paid": 0.001,
+   "age_h": 0.2,
    "tp_hit": 0,
    "runner": false,
    "score": 70.2,
    "reason": "LONG 5d-breakout @7.077 ema stack 20>50>100 ext 3.2atr; volx3.6 atr1h 1.13% rs5d +5.0% fund +0.010%"
   }
  ],
- "candidates": [
-  {
-   "symbol": "ETC",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 62,
-   "side": "long",
-   "score": 70.2,
-   "grade": "A",
-   "price": 7.171,
-   "ret_1h": 2.91,
-   "ret_4h": 2.69,
-   "ret_24h": 6.98,
-   "vol_surge": 3.63,
-   "atr_pct": 1.13,
-   "funding": 0.01,
-   "stop_pct": 2.82
-  },
-  {
-   "symbol": "LTC",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 27,
-   "side": "long",
-   "score": 68.1,
-   "grade": "B",
-   "price": 47.98,
-   "ret_1h": 0.54,
-   "ret_4h": 1.39,
-   "ret_24h": 3.97,
-   "vol_surge": 4.14,
-   "atr_pct": 0.6,
-   "funding": 0.0047,
-   "stop_pct": 0.0
-  }
- ],
+ "candidates": [],
  "trades": [
   {
    "symbol": "ETC",
