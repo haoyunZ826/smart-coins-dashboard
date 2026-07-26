@@ -1,5 +1,5 @@
 {
- "generated_at": 1785027768.73839,
+ "generated_at": 1785028377.0084019,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -11,7 +11,7 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.97,
+   "heat": 0.96,
    "kol": 2,
    "square": 2
   },
@@ -35,13 +35,13 @@
   },
   {
    "symbol": "XRP",
-   "heat": 0.31,
+   "heat": 0.3,
    "kol": 1,
    "square": 0
   },
   {
    "symbol": "DEXE",
-   "heat": 0.3,
+   "heat": 0.29,
    "kol": 0,
    "square": 2
   },
@@ -109,8 +109,8 @@
   "okx_perps": 411,
   "gate_perps": 850,
   "mcap_pass": 158,
-  "venue_pass": 55,
-  "deep_scanned": 55,
+  "venue_pass": 53,
+  "deep_scanned": 53,
   "candidates": 0
  },
  "positions": [],
