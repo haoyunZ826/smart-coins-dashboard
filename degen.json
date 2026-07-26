@@ -1,5 +1,5 @@
 {
- "generated_at": 1785089881.892624,
+ "generated_at": 1785090486.246408,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,13 +17,13 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.84,
+   "heat": 0.83,
    "kol": 0,
    "square": 7
   },
   {
    "symbol": "ETH",
-   "heat": 0.76,
+   "heat": 0.75,
    "kol": 0,
    "square": 6
   },
