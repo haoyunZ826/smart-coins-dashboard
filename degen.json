@@ -1,35 +1,29 @@
 {
- "generated_at": 1785183291.585598,
+ "generated_at": 1785187613.670959,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
    "symbol": "SHIB",
-   "heat": 0.61,
+   "heat": 0.58,
    "kol": 0,
    "square": 4
   },
   {
    "symbol": "ETH",
-   "heat": 0.49,
+   "heat": 0.37,
    "kol": 0,
-   "square": 4
+   "square": 3
   },
   {
    "symbol": "BTC",
-   "heat": 0.43,
+   "heat": 0.32,
    "kol": 0,
-   "square": 4
+   "square": 3
   },
   {
    "symbol": "BNB",
-   "heat": 0.17,
-   "kol": 0,
-   "square": 1
-  },
-  {
-   "symbol": "SOL",
-   "heat": 0.09,
+   "heat": 0.16,
    "kol": 0,
    "square": 1
   }
@@ -39,80 +33,56 @@
   "signals": []
  },
  "status": {
-  "equity": 945.91,
-  "cash": 848.34,
+  "equity": 932.83,
+  "cash": 932.83,
   "starting": 1000.0,
-  "pnl_pct": -5.41,
-  "day_pnl_pct": -5.68,
-  "drawdown_pct": 16.26,
-  "goal_progress_pct": 0.946,
-  "gross_notional": 545.89,
-  "gross_leverage": 0.58,
+  "pnl_pct": -6.72,
+  "day_pnl_pct": 0.0,
+  "drawdown_pct": 17.42,
+  "goal_progress_pct": 0.933,
+  "gross_notional": 0.0,
+  "gross_leverage": 0.0,
   "wins": 7,
-  "losses": 18,
-  "trade_count": 55,
-  "fees": 13.84,
+  "losses": 19,
+  "trade_count": 56,
+  "fees": 14.11,
   "funding": 0.54,
   "halted": false,
   "killed": false,
-  "loss_streak": 6
+  "loss_streak": 7
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.07,
-  "btc_ret_24h": 0.46
+  "btc_ret_4h": -0.21,
+  "btc_ret_24h": 0.05
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 416,
   "gate_perps": 850,
-  "mcap_pass": 147,
-  "venue_pass": 61,
-  "deep_scanned": 61,
-  "candidates": 1
+  "mcap_pass": 153,
+  "venue_pass": 63,
+  "deep_scanned": 63,
+  "candidates": 0
  },
- "positions": [
+ "positions": [],
+ "candidates": [],
+ "trades": [
   {
    "symbol": "ZRO",
    "venue": "okx",
+   "action": "close",
    "side": "long",
+   "price": 0.9141342,
+   "qty": 0.0,
+   "notional_usd": 533.2953083578122,
+   "fee_usd": 0.2666476541789061,
+   "realized_pnl_usd": -27.58748584813823,
    "leverage": 5,
-   "entry": 0.9609842399999999,
-   "mark": 0.9361,
-   "stop": 0.9178784331428571,
-   "liq": 0.77455329744,
-   "notional": 545.89,
-   "margin": 112.08,
-   "upnl": -14.51,
-   "r": -0.58,
-   "funding_paid": 0.023,
-   "age_h": 6.5,
-   "tp_hit": 0,
-   "runner": false,
-   "score": 80.6,
-   "reason": "LONG 5d-breakout @0.9478 ema stack 20>50>100 ext 3.0atr; volx2.5 atr1h 2.04% rs5d +17.6% fund +0.005%"
-  }
- ],
- "candidates": [
-  {
-   "symbol": "KAITO",
-   "venue": "okx",
-   "tier": "mid",
-   "mcap_rank": 128,
-   "side": "long",
-   "score": 71.2,
-   "grade": "A",
-   "price": 1.2652,
-   "ret_1h": 1.73,
-   "ret_4h": 3.65,
-   "ret_24h": 9.29,
-   "vol_surge": 0.34,
-   "atr_pct": 2.34,
-   "funding": 0.0043,
-   "stop_pct": 0.0
-  }
- ],
- "trades": [
+   "timestamp": 1785187613.6423302,
+   "mode": "paper",
+   "reason": "stop_loss: -1.08R stop 0.917878"
+  },
   {
    "symbol": "BEAT",
    "venue": "okx",
