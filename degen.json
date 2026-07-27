@@ -1,11 +1,11 @@
 {
- "generated_at": 1785187613.670959,
+ "generated_at": 1785188220.4860559,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
    "symbol": "SHIB",
-   "heat": 0.58,
+   "heat": 0.57,
    "kol": 0,
    "square": 4
   },
@@ -17,7 +17,7 @@
   },
   {
    "symbol": "BTC",
-   "heat": 0.32,
+   "heat": 0.31,
    "kol": 0,
    "square": 3
   },
@@ -52,9 +52,9 @@
   "loss_streak": 7
  },
  "regime": {
-  "state": "risk_on",
-  "btc_ret_4h": -0.21,
-  "btc_ret_24h": 0.05
+  "state": "neutral",
+  "btc_ret_4h": -0.27,
+  "btc_ret_24h": -0.01
  },
  "funnel": {
   "cg_top": 249,
