@@ -1,5 +1,5 @@
 {
- "generated_at": 1785154502.955303,
+ "generated_at": 1785155102.5391328,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -11,7 +11,7 @@
   },
   {
    "symbol": "SHIB",
-   "heat": 0.65,
+   "heat": 0.64,
    "kol": 0,
    "square": 6
   },
@@ -51,14 +51,14 @@
   "signals": []
  },
  "status": {
-  "equity": 994.31,
+  "equity": 991.82,
   "cash": 814.35,
   "starting": 1000.0,
-  "pnl_pct": -0.57,
-  "day_pnl_pct": -0.85,
-  "drawdown_pct": 11.98,
-  "goal_progress_pct": 0.994,
-  "gross_notional": 932.12,
+  "pnl_pct": -0.82,
+  "day_pnl_pct": -1.1,
+  "drawdown_pct": 12.2,
+  "goal_progress_pct": 0.992,
+  "gross_notional": 929.62,
   "gross_leverage": 0.94,
   "wins": 7,
   "losses": 15,
@@ -70,9 +70,9 @@
   "loss_streak": 3
  },
  "regime": {
-  "state": "risk_on",
-  "btc_ret_4h": 0.1,
-  "btc_ret_24h": 1.2
+  "state": "neutral",
+  "btc_ret_4h": -0.15,
+  "btc_ret_24h": 0.94
  },
  "funnel": {
   "cg_top": 249,
@@ -90,15 +90,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 1971.228176,
-   "mark": 1954.28,
+   "mark": 1949.05,
    "stop": 1931.80361248,
    "liq": 1588.809909856,
-   "notional": 932.12,
+   "notional": 929.62,
    "margin": 188.04,
-   "upnl": -8.08,
-   "r": -0.43,
+   "upnl": -10.58,
+   "r": -0.56,
    "funding_paid": 0.016,
-   "age_h": 6.0,
+   "age_h": 6.1,
    "tp_hit": 0,
    "runner": false,
    "score": 69.4,
