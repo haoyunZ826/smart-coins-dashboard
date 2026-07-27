@@ -1,5 +1,5 @@
 {
- "generated_at": 1785170658.291956,
+ "generated_at": 1785171260.3971488,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,7 +17,7 @@
   },
   {
    "symbol": "SHIB",
-   "heat": 0.36,
+   "heat": 0.35,
    "kol": 0,
    "square": 3
   },
@@ -51,14 +51,14 @@
   "signals": []
  },
  "status": {
-  "equity": 953.09,
+  "equity": 949.24,
   "cash": 848.35,
   "starting": 1000.0,
-  "pnl_pct": -4.69,
-  "day_pnl_pct": -4.96,
-  "drawdown_pct": 15.63,
-  "goal_progress_pct": 0.953,
-  "gross_notional": 553.06,
+  "pnl_pct": -5.08,
+  "day_pnl_pct": -5.35,
+  "drawdown_pct": 15.97,
+  "goal_progress_pct": 0.949,
+  "gross_notional": 549.22,
   "gross_leverage": 0.58,
   "wins": 7,
   "losses": 18,
@@ -71,7 +71,7 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.24,
+  "btc_ret_4h": -0.23,
   "btc_ret_24h": 0.32
  },
  "funnel": {
@@ -79,8 +79,8 @@
   "okx_perps": 416,
   "gate_perps": 850,
   "mcap_pass": 148,
-  "venue_pass": 60,
-  "deep_scanned": 60,
+  "venue_pass": 59,
+  "deep_scanned": 59,
   "candidates": 0
  },
  "positions": [
@@ -90,15 +90,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.9609842399999999,
-   "mark": 0.9484,
+   "mark": 0.9418,
    "stop": 0.9178784331428571,
    "liq": 0.77455329744,
-   "notional": 553.06,
+   "notional": 549.22,
    "margin": 112.08,
-   "upnl": -7.34,
-   "r": -0.29,
+   "upnl": -11.19,
+   "r": -0.45,
    "funding_paid": 0.011,
-   "age_h": 3.0,
+   "age_h": 3.2,
    "tp_hit": 0,
    "runner": false,
    "score": 80.6,
