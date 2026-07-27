@@ -1,5 +1,5 @@
 {
- "generated_at": 1785117703.459638,
+ "generated_at": 1785117743.4912949,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -23,7 +23,7 @@
   },
   {
    "symbol": "BTC",
-   "heat": 0.56,
+   "heat": 0.55,
    "kol": 0,
    "square": 5
   }
