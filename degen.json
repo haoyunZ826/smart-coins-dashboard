@@ -1,23 +1,23 @@
 {
- "generated_at": 1785158019.74561,
+ "generated_at": 1785158619.8062441,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
    "symbol": "BTC",
-   "heat": 0.86,
+   "heat": 0.85,
    "kol": 0,
    "square": 7
   },
   {
    "symbol": "ETH",
-   "heat": 0.55,
+   "heat": 0.54,
    "kol": 0,
    "square": 5
   },
   {
    "symbol": "SHIB",
-   "heat": 0.53,
+   "heat": 0.52,
    "kol": 0,
    "square": 5
   },
@@ -35,7 +35,7 @@
   },
   {
    "symbol": "SOL",
-   "heat": 0.14,
+   "heat": 0.13,
    "kol": 0,
    "square": 1
   },
@@ -51,14 +51,14 @@
   "signals": []
  },
  "status": {
-  "equity": 994.36,
+  "equity": 995.5,
   "cash": 751.36,
   "starting": 1000.0,
-  "pnl_pct": -0.56,
-  "day_pnl_pct": -0.85,
-  "drawdown_pct": 11.97,
-  "goal_progress_pct": 0.994,
-  "gross_notional": 1246.5,
+  "pnl_pct": -0.45,
+  "day_pnl_pct": -0.74,
+  "drawdown_pct": 11.87,
+  "goal_progress_pct": 0.996,
+  "gross_notional": 1247.64,
   "gross_leverage": 1.25,
   "wins": 7,
   "losses": 15,
@@ -71,8 +71,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.32,
-  "btc_ret_24h": 0.83
+  "btc_ret_4h": -0.45,
+  "btc_ret_24h": 0.7
  },
  "funnel": {
   "cg_top": 249,
@@ -90,15 +90,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 1971.228176,
-   "mark": 1955.99,
+   "mark": 1954.35,
    "stop": 1931.80361248,
    "liq": 1588.809909856,
-   "notional": 932.93,
+   "notional": 932.15,
    "margin": 188.04,
-   "upnl": -7.27,
-   "r": -0.39,
+   "upnl": -8.05,
+   "r": -0.43,
    "funding_paid": 0.018,
-   "age_h": 7.0,
+   "age_h": 7.1,
    "tp_hit": 0,
    "runner": false,
    "score": 69.4,
@@ -110,15 +110,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.09147657599999999,
-   "mark": 0.0913,
+   "mark": 0.09186,
    "stop": 0.08857770262857143,
    "liq": 0.073730120256,
-   "notional": 313.56,
+   "notional": 315.49,
    "margin": 62.83,
-   "upnl": -0.61,
-   "r": -0.06,
+   "upnl": 1.32,
+   "r": 0.13,
    "funding_paid": 0.0,
-   "age_h": 0.0,
+   "age_h": 0.2,
    "tp_hit": 0,
    "runner": false,
    "score": 61.2,
@@ -132,16 +132,16 @@
    "tier": "mid",
    "mcap_rank": 74,
    "side": "long",
-   "score": 61.2,
-   "grade": "B",
-   "price": 0.09144,
-   "ret_1h": 1.16,
-   "ret_4h": 2.1,
-   "ret_24h": 7.15,
-   "vol_surge": 0.72,
-   "atr_pct": 1.44,
+   "score": 71.9,
+   "grade": "A",
+   "price": 0.09187,
+   "ret_1h": 1.64,
+   "ret_4h": 2.58,
+   "ret_24h": 7.65,
+   "vol_surge": 2.12,
+   "atr_pct": 1.53,
    "funding": 0.005,
-   "stop_pct": 3.17
+   "stop_pct": 0.0
   }
  ],
  "trades": [
