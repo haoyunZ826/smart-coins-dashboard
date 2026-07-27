@@ -1,5 +1,5 @@
 {
- "generated_at": 1785122559.0980868,
+ "generated_at": 1785123172.3285608,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -11,7 +11,7 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.89,
+   "heat": 0.88,
    "kol": 0,
    "square": 7
   },
@@ -59,16 +59,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.19,
-  "btc_ret_24h": 1.15
+  "btc_ret_4h": -0.12,
+  "btc_ret_24h": 1.22
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 148,
-  "venue_pass": 52,
-  "deep_scanned": 52,
+  "mcap_pass": 154,
+  "venue_pass": 53,
+  "deep_scanned": 53,
   "candidates": 0
  },
  "positions": [],
