@@ -1,14 +1,8 @@
 {
- "generated_at": 1785120740.0747972,
+ "generated_at": 1785121346.2185018,
  "mode": "paper",
  "strategy": "v2",
  "social": [
-  {
-   "symbol": "DEXE",
-   "heat": 1.0,
-   "kol": 0,
-   "square": 8
-  },
   {
    "symbol": "SHIB",
    "heat": 1.0,
@@ -16,8 +10,14 @@
    "square": 12
   },
   {
+   "symbol": "DEXE",
+   "heat": 0.99,
+   "kol": 0,
+   "square": 8
+  },
+  {
    "symbol": "ETH",
-   "heat": 0.73,
+   "heat": 0.72,
    "kol": 0,
    "square": 6
   },
@@ -59,16 +59,16 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.28,
-  "btc_ret_24h": 1.11
+  "btc_ret_4h": -0.34,
+  "btc_ret_24h": 1.04
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 411,
   "gate_perps": 850,
-  "mcap_pass": 148,
-  "venue_pass": 52,
-  "deep_scanned": 52,
+  "mcap_pass": 153,
+  "venue_pass": 53,
+  "deep_scanned": 53,
   "candidates": 0
  },
  "positions": [],
