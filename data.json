@@ -1,5 +1,5 @@
 {
- "generated_at": 1785177665.086029,
+ "generated_at": 1785178287.028221,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,7 +17,7 @@
   },
   {
    "symbol": "SHIB",
-   "heat": 0.5,
+   "heat": 0.49,
    "kol": 0,
    "square": 4
   },
@@ -29,7 +29,7 @@
   },
   {
    "symbol": "BNB",
-   "heat": 0.09,
+   "heat": 0.08,
    "kol": 0,
    "square": 1
   }
@@ -39,14 +39,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1009.2,
+  "equity": 1010.88,
   "cash": 600.09,
   "starting": 1000.0,
-  "pnl_pct": 0.92,
-  "day_pnl_pct": -3.39,
-  "drawdown_pct": 7.59,
-  "goal_progress_pct": 1.009,
-  "gross_notional": 1269.67,
+  "pnl_pct": 1.09,
+  "day_pnl_pct": -3.23,
+  "drawdown_pct": 7.44,
+  "goal_progress_pct": 1.011,
+  "gross_notional": 1271.35,
   "gross_leverage": 1.26,
   "wins": 6,
   "losses": 8,
@@ -60,7 +60,7 @@
  "regime": {
   "state": "neutral",
   "btc_ret_4h": 0.19,
-  "btc_ret_24h": 0.12
+  "btc_ret_24h": 0.11
  },
  "funnel": {
   "cg_top": 249,
@@ -78,15 +78,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 100.680195,
-   "mark": 98.76,
+   "mark": 98.79,
    "stop": 97.550685,
    "liq": 67.72421117,
-   "notional": 579.85,
+   "notional": 580.03,
    "margin": 197.04,
-   "upnl": -11.27,
-   "r": -0.61,
-   "funding_paid": 0.137,
-   "age_h": 19.8,
+   "upnl": -11.1,
+   "r": -0.6,
+   "funding_paid": 0.136,
+   "age_h": 20.0,
    "tp_hit": 0,
    "runner": false,
    "score": 70.2,
@@ -106,7 +106,7 @@
    "upnl": -4.65,
    "r": -0.36,
    "funding_paid": 0.004,
-   "age_h": 16.6,
+   "age_h": 16.8,
    "tp_hit": 0,
    "runner": false,
    "score": 84.6,
@@ -118,15 +118,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.9532858999999999,
-   "mark": 0.9258,
+   "mark": 0.9337,
    "stop": 0.90591455,
    "liq": 0.6412436487333334,
-   "notional": 176.52,
+   "notional": 178.03,
    "margin": 60.59,
-   "upnl": -5.24,
-   "r": -0.58,
+   "upnl": -3.73,
+   "r": -0.41,
    "funding_paid": 0.006,
-   "age_h": 5.0,
+   "age_h": 5.2,
    "tp_hit": 0,
    "runner": false,
    "score": 72.7,
