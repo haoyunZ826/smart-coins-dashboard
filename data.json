@@ -1,5 +1,5 @@
 {
- "generated_at": 1785158941.365931,
+ "generated_at": 1785159531.057913,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -11,13 +11,13 @@
   },
   {
    "symbol": "SHIB",
-   "heat": 0.86,
+   "heat": 0.85,
    "kol": 0,
    "square": 8
   },
   {
    "symbol": "ETH",
-   "heat": 0.76,
+   "heat": 0.75,
    "kol": 0,
    "square": 7
   },
@@ -45,14 +45,14 @@
   "signals": []
  },
  "status": {
-  "equity": 1027.97,
+  "equity": 1032.93,
   "cash": 611.21,
   "starting": 1000.0,
-  "pnl_pct": 2.8,
-  "day_pnl_pct": -1.59,
-  "drawdown_pct": 5.87,
-  "goal_progress_pct": 1.028,
-  "gross_notional": 1235.29,
+  "pnl_pct": 3.29,
+  "day_pnl_pct": -1.12,
+  "drawdown_pct": 5.42,
+  "goal_progress_pct": 1.033,
+  "gross_notional": 1240.26,
   "gross_leverage": 1.2,
   "wins": 5,
   "losses": 8,
@@ -65,8 +65,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": -0.46,
-  "btc_ret_24h": 0.69
+  "btc_ret_4h": -0.16,
+  "btc_ret_24h": 1.0
  },
  "funnel": {
   "cg_top": 249,
@@ -75,7 +75,7 @@
   "mcap_pass": 113,
   "venue_pass": 46,
   "deep_scanned": 46,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -84,15 +84,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 100.680195,
-   "mark": 100.12,
+   "mark": 100.66,
    "stop": 97.550685,
    "liq": 67.72421117,
-   "notional": 587.84,
+   "notional": 591.01,
    "margin": 197.04,
-   "upnl": -3.29,
-   "r": -0.18,
-   "funding_paid": 0.108,
-   "age_h": 14.6,
+   "upnl": -0.12,
+   "r": -0.01,
+   "funding_paid": 0.109,
+   "age_h": 14.8,
    "tp_hit": 0,
    "runner": false,
    "score": 70.2,
@@ -104,15 +104,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 86.37590499999999,
-   "mark": 86.24,
+   "mark": 86.39,
    "stop": 84.21650737499999,
    "liq": 58.10219209666666,
-   "notional": 517.13,
+   "notional": 518.03,
    "margin": 172.65,
-   "upnl": -0.81,
-   "r": -0.06,
-   "funding_paid": -0.004,
-   "age_h": 11.4,
+   "upnl": 0.08,
+   "r": 0.01,
+   "funding_paid": -0.003,
+   "age_h": 11.6,
    "tp_hit": 0,
    "runner": false,
    "score": 84.6,
@@ -124,22 +124,40 @@
    "side": "long",
    "leverage": 3,
    "entry": 3.8821642999999995,
-   "mark": 4.2611,
-   "stop": 3.8521660551404273,
+   "mark": 4.2904,
+   "stop": 3.919184562152611,
    "liq": 2.611402519133333,
-   "notional": 130.32,
+   "notional": 131.22,
    "margin": 39.58,
-   "upnl": 11.59,
-   "r": 1.29,
-   "funding_paid": -0.002,
-   "age_h": 4.7,
+   "upnl": 12.49,
+   "r": 1.39,
+   "funding_paid": -0.003,
+   "age_h": 4.8,
    "tp_hit": 0,
    "runner": false,
    "score": 76.6,
    "reason": "LONG 5d-breakout @3.7712 ema stack 20>50>100 ext 2.7atr; volx3.4 atr1h 3.02% rs5d +48.3% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "BEAT",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 58,
+   "side": "long",
+   "score": 70.8,
+   "grade": "A",
+   "price": 4.3459,
+   "ret_1h": 3.48,
+   "ret_4h": 12.39,
+   "ret_24h": 23.31,
+   "vol_surge": 2.04,
+   "atr_pct": 4.02,
+   "funding": -0.0681,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "ETC",
