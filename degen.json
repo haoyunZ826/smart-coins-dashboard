@@ -1,8 +1,14 @@
 {
- "generated_at": 1785182829.9123259,
+ "generated_at": 1785183291.585598,
  "mode": "paper",
  "strategy": "v2",
  "social": [
+  {
+   "symbol": "SHIB",
+   "heat": 0.61,
+   "kol": 0,
+   "square": 4
+  },
   {
    "symbol": "ETH",
    "heat": 0.49,
@@ -10,16 +16,16 @@
    "square": 4
   },
   {
-   "symbol": "SHIB",
-   "heat": 0.44,
-   "kol": 0,
-   "square": 3
-  },
-  {
    "symbol": "BTC",
    "heat": 0.43,
    "kol": 0,
    "square": 4
+  },
+  {
+   "symbol": "BNB",
+   "heat": 0.17,
+   "kol": 0,
+   "square": 1
   },
   {
    "symbol": "SOL",
@@ -33,14 +39,14 @@
   "signals": []
  },
  "status": {
-  "equity": 943.28,
+  "equity": 945.91,
   "cash": 848.34,
   "starting": 1000.0,
-  "pnl_pct": -5.67,
-  "day_pnl_pct": -5.94,
-  "drawdown_pct": 16.5,
-  "goal_progress_pct": 0.943,
-  "gross_notional": 543.27,
+  "pnl_pct": -5.41,
+  "day_pnl_pct": -5.68,
+  "drawdown_pct": 16.26,
+  "goal_progress_pct": 0.946,
+  "gross_notional": 545.89,
   "gross_leverage": 0.58,
   "wins": 7,
   "losses": 18,
@@ -53,8 +59,8 @@
  },
  "regime": {
   "state": "risk_on",
-  "btc_ret_4h": 0.23,
-  "btc_ret_24h": 0.62
+  "btc_ret_4h": 0.07,
+  "btc_ret_24h": 0.46
  },
  "funnel": {
   "cg_top": 249,
@@ -63,7 +69,7 @@
   "mcap_pass": 147,
   "venue_pass": 61,
   "deep_scanned": 61,
-  "candidates": 0
+  "candidates": 1
  },
  "positions": [
   {
@@ -72,22 +78,40 @@
    "side": "long",
    "leverage": 5,
    "entry": 0.9609842399999999,
-   "mark": 0.9316,
+   "mark": 0.9361,
    "stop": 0.9178784331428571,
    "liq": 0.77455329744,
-   "notional": 543.27,
+   "notional": 545.89,
    "margin": 112.08,
-   "upnl": -17.14,
-   "r": -0.68,
-   "funding_paid": 0.022,
-   "age_h": 6.4,
+   "upnl": -14.51,
+   "r": -0.58,
+   "funding_paid": 0.023,
+   "age_h": 6.5,
    "tp_hit": 0,
    "runner": false,
    "score": 80.6,
    "reason": "LONG 5d-breakout @0.9478 ema stack 20>50>100 ext 3.0atr; volx2.5 atr1h 2.04% rs5d +17.6% fund +0.005%"
   }
  ],
- "candidates": [],
+ "candidates": [
+  {
+   "symbol": "KAITO",
+   "venue": "okx",
+   "tier": "mid",
+   "mcap_rank": 128,
+   "side": "long",
+   "score": 71.2,
+   "grade": "A",
+   "price": 1.2652,
+   "ret_1h": 1.73,
+   "ret_4h": 3.65,
+   "ret_24h": 9.29,
+   "vol_surge": 0.34,
+   "atr_pct": 2.34,
+   "funding": 0.0043,
+   "stop_pct": 0.0
+  }
+ ],
  "trades": [
   {
    "symbol": "BEAT",
