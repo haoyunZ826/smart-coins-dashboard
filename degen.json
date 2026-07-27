@@ -1,5 +1,5 @@
 {
- "generated_at": 1785132067.703037,
+ "generated_at": 1785132674.418158,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -17,7 +17,7 @@
   },
   {
    "symbol": "ETH",
-   "heat": 0.62,
+   "heat": 0.61,
    "kol": 0,
    "square": 5
   },
@@ -59,8 +59,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.43,
-  "btc_ret_24h": 1.58
+  "btc_ret_4h": 0.67,
+  "btc_ret_24h": 1.82
  },
  "funnel": {
   "cg_top": 249,
