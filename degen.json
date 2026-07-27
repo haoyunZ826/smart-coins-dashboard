@@ -1,31 +1,31 @@
 {
- "generated_at": 1785132674.418158,
+ "generated_at": 1785132854.534801,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
-   "symbol": "DEXE",
-   "heat": 1.0,
-   "kol": 0,
-   "square": 9
-  },
-  {
    "symbol": "SHIB",
    "heat": 1.0,
    "kol": 0,
-   "square": 11
+   "square": 10
+  },
+  {
+   "symbol": "DEXE",
+   "heat": 0.98,
+   "kol": 0,
+   "square": 8
   },
   {
    "symbol": "ETH",
-   "heat": 0.61,
+   "heat": 0.53,
    "kol": 0,
-   "square": 5
+   "square": 4
   },
   {
    "symbol": "BTC",
-   "heat": 0.52,
+   "heat": 0.43,
    "kol": 0,
-   "square": 4
+   "square": 3
   },
   {
    "symbol": "BNB",
