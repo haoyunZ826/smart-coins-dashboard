@@ -1,5 +1,5 @@
 {
- "generated_at": 1785129647.258966,
+ "generated_at": 1785130254.310038,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -11,13 +11,13 @@
   },
   {
    "symbol": "DEXE",
-   "heat": 0.95,
+   "heat": 0.94,
    "kol": 0,
    "square": 8
   },
   {
    "symbol": "BTC",
-   "heat": 0.54,
+   "heat": 0.53,
    "kol": 0,
    "square": 4
   },
@@ -59,8 +59,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.26,
-  "btc_ret_24h": 1.49
+  "btc_ret_4h": 0.34,
+  "btc_ret_24h": 1.57
  },
  "funnel": {
   "cg_top": 249,
