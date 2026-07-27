@@ -1,13 +1,13 @@
 {
- "generated_at": 1785156715.045865,
+ "generated_at": 1785157110.033229,
  "mode": "paper",
  "strategy": "v2",
  "social": [
   {
    "symbol": "BTC",
-   "heat": 0.71,
+   "heat": 0.87,
    "kol": 0,
-   "square": 6
+   "square": 7
   },
   {
    "symbol": "ETH",
@@ -51,14 +51,14 @@
   "signals": []
  },
  "status": {
-  "equity": 994.52,
+  "equity": 994.95,
   "cash": 814.35,
   "starting": 1000.0,
-  "pnl_pct": -0.55,
-  "day_pnl_pct": -0.83,
-  "drawdown_pct": 11.96,
+  "pnl_pct": -0.51,
+  "day_pnl_pct": -0.79,
+  "drawdown_pct": 11.92,
   "goal_progress_pct": 0.995,
-  "gross_notional": 932.33,
+  "gross_notional": 932.76,
   "gross_leverage": 0.94,
   "wins": 7,
   "losses": 15,
@@ -71,14 +71,14 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": -0.08,
-  "btc_ret_24h": 1.02
+  "btc_ret_4h": -0.13,
+  "btc_ret_24h": 0.97
  },
  "funnel": {
   "cg_top": 249,
   "okx_perps": 416,
   "gate_perps": 850,
-  "mcap_pass": 154,
+  "mcap_pass": 155,
   "venue_pass": 57,
   "deep_scanned": 57,
   "candidates": 0
@@ -90,15 +90,15 @@
    "side": "long",
    "leverage": 5,
    "entry": 1971.228176,
-   "mark": 1954.73,
+   "mark": 1955.62,
    "stop": 1931.80361248,
    "liq": 1588.809909856,
-   "notional": 932.33,
+   "notional": 932.76,
    "margin": 188.04,
-   "upnl": -7.87,
-   "r": -0.42,
+   "upnl": -7.44,
+   "r": -0.4,
    "funding_paid": 0.017,
-   "age_h": 6.6,
+   "age_h": 6.7,
    "tp_hit": 0,
    "runner": false,
    "score": 69.4,
