@@ -1,5 +1,5 @@
 {
- "generated_at": 1785132854.534801,
+ "generated_at": 1785132978.650524,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -39,19 +39,19 @@
   "signals": []
  },
  "status": {
-  "equity": 1002.88,
-  "cash": 1002.88,
+  "equity": 1001.77,
+  "cash": 814.37,
   "starting": 1000.0,
-  "pnl_pct": 0.29,
-  "day_pnl_pct": 0.0,
-  "drawdown_pct": 11.22,
-  "goal_progress_pct": 1.003,
-  "gross_notional": 0.0,
-  "gross_leverage": 0.0,
+  "pnl_pct": 0.18,
+  "day_pnl_pct": -0.11,
+  "drawdown_pct": 11.32,
+  "goal_progress_pct": 1.002,
+  "gross_notional": 939.56,
+  "gross_leverage": 0.94,
   "wins": 7,
   "losses": 15,
-  "trade_count": 48,
-  "fees": 12.18,
+  "trade_count": 49,
+  "fees": 12.65,
   "funding": 0.54,
   "halted": false,
   "killed": false,
@@ -59,8 +59,8 @@
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.67,
-  "btc_ret_24h": 1.82
+  "btc_ret_4h": 0.71,
+  "btc_ret_24h": 1.86
  },
  "funnel": {
   "cg_top": 249,
@@ -69,11 +69,65 @@
   "mcap_pass": 154,
   "venue_pass": 53,
   "deep_scanned": 53,
-  "candidates": 0
+  "candidates": 1
  },
- "positions": [],
- "candidates": [],
+ "positions": [
+  {
+   "symbol": "ETH",
+   "venue": "okx",
+   "side": "long",
+   "leverage": 5,
+   "entry": 1971.228176,
+   "mark": 1969.88,
+   "stop": 1931.80361248,
+   "liq": 1588.809909856,
+   "notional": 939.56,
+   "margin": 188.04,
+   "upnl": -0.64,
+   "r": -0.03,
+   "funding_paid": 0.0,
+   "age_h": 0.0,
+   "tp_hit": 0,
+   "runner": false,
+   "score": 69.4,
+   "reason": "LONG 5d-breakout @1969.99 ema stack 20>50>100 ext 3.0atr; volx1.4 atr1h 0.66% rs5d +3.3% fund +0.004%; social heat 0.53"
+  }
+ ],
+ "candidates": [
+  {
+   "symbol": "ETH",
+   "venue": "okx",
+   "tier": "large",
+   "mcap_rank": 2,
+   "side": "long",
+   "score": 69.4,
+   "grade": "A",
+   "price": 1970.44,
+   "ret_1h": 0.31,
+   "ret_4h": 1.44,
+   "ret_24h": 4.58,
+   "vol_surge": 1.39,
+   "atr_pct": 0.66,
+   "funding": 0.0036,
+   "stop_pct": 2.0
+  }
+ ],
  "trades": [
+  {
+   "symbol": "ETH",
+   "venue": "okx",
+   "action": "open",
+   "side": "long",
+   "price": 1971.228176,
+   "qty": 0.47696145062178624,
+   "notional_usd": 940.1998503314978,
+   "fee_usd": 0.47009992516574894,
+   "realized_pnl_usd": 0.0,
+   "leverage": 5,
+   "timestamp": 1785132978.15623,
+   "mode": "paper",
+   "reason": "A 69: LONG 5d-breakout @1969.99 ema stack 20>50>100 ext 3.0atr"
+  },
   {
    "symbol": "UNI",
    "venue": "okx",
