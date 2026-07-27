@@ -1,5 +1,5 @@
 {
- "generated_at": 1785112369.6544719,
+ "generated_at": 1785112982.57814,
  "mode": "paper",
  "strategy": "v2",
  "social": [
@@ -7,19 +7,13 @@
    "symbol": "SHIB",
    "heat": 1.0,
    "kol": 0,
-   "square": 14
+   "square": 13
   },
   {
    "symbol": "DEXE",
    "heat": 1.0,
    "kol": 0,
-   "square": 11
-  },
-  {
-   "symbol": "BTC",
-   "heat": 0.62,
-   "kol": 0,
-   "square": 6
+   "square": 10
   },
   {
    "symbol": "ETH",
@@ -28,16 +22,22 @@
    "square": 5
   },
   {
-   "symbol": "SOL",
-   "heat": 0.31,
+   "symbol": "BTC",
+   "heat": 0.53,
    "kol": 0,
-   "square": 3
+   "square": 5
+  },
+  {
+   "symbol": "SOL",
+   "heat": 0.22,
+   "kol": 0,
+   "square": 2
   },
   {
    "symbol": "DOGE",
-   "heat": 0.17,
+   "heat": 0.09,
    "kol": 0,
-   "square": 2
+   "square": 1
   }
  ],
  "copytrade": {
@@ -45,28 +45,28 @@
   "signals": []
  },
  "status": {
-  "equity": 1042.83,
+  "equity": 1043.7,
   "cash": 686.56,
   "starting": 1000.0,
-  "pnl_pct": 4.28,
-  "day_pnl_pct": -0.17,
-  "drawdown_pct": 4.51,
-  "goal_progress_pct": 1.043,
-  "gross_notional": 1055.67,
+  "pnl_pct": 4.37,
+  "day_pnl_pct": -0.09,
+  "drawdown_pct": 4.43,
+  "goal_progress_pct": 1.044,
+  "gross_notional": 1056.54,
   "gross_leverage": 1.01,
   "wins": 4,
   "losses": 6,
   "trade_count": 26,
   "fees": 5.25,
-  "funding": 0.56,
+  "funding": 0.57,
   "halted": false,
   "killed": false,
   "loss_streak": 1
  },
  "regime": {
   "state": "neutral",
-  "btc_ret_4h": 0.9,
-  "btc_ret_24h": 1.13
+  "btc_ret_4h": 0.77,
+  "btc_ret_24h": 1.0
  },
  "funnel": {
   "cg_top": 249,
@@ -84,15 +84,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 7.1731513,
-   "mark": 7.079,
+   "mark": 7.072,
    "stop": 6.970769175,
    "liq": 4.825139774466667,
-   "notional": 317.34,
+   "notional": 317.02,
    "margin": 107.19,
-   "upnl": -4.22,
-   "r": -0.47,
-   "funding_paid": 0.03,
-   "age_h": 7.6,
+   "upnl": -4.53,
+   "r": -0.5,
+   "funding_paid": 0.031,
+   "age_h": 7.8,
    "tp_hit": 0,
    "runner": false,
    "score": 70.2,
@@ -104,15 +104,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 0.13880162799999998,
-   "mark": 0.149,
+   "mark": 0.15134,
    "stop": 0.14304354930661367,
    "liq": 0.09336722843466666,
-   "notional": 146.44,
+   "notional": 148.74,
    "margin": 45.47,
-   "upnl": 10.02,
-   "r": 1.11,
+   "upnl": 12.32,
+   "r": 1.36,
    "funding_paid": 0.008,
-   "age_h": 5.6,
+   "age_h": 5.8,
    "tp_hit": 0,
    "runner": false,
    "score": 72.7,
@@ -124,15 +124,15 @@
    "side": "long",
    "leverage": 3,
    "entry": 100.680195,
-   "mark": 100.81,
+   "mark": 100.62,
    "stop": 97.550685,
    "liq": 67.72421117,
-   "notional": 591.89,
+   "notional": 590.77,
    "margin": 197.04,
-   "upnl": 0.76,
-   "r": 0.04,
-   "funding_paid": 0.012,
-   "age_h": 1.7,
+   "upnl": -0.35,
+   "r": -0.02,
+   "funding_paid": 0.014,
+   "age_h": 1.8,
    "tp_hit": 0,
    "runner": false,
    "score": 70.2,
